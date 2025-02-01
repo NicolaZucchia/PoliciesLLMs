@@ -1,0 +1,19 @@
+**Other: Neutral - The policy provides general information about various practices without expressing a clear positive or negative sentiment towards users.**
+
+**Policy Change: Neutral - The policy states that changes can be made without advance notice, which is standard practice but may not be viewed positively by users.**
+
+**First Party Collection/Use: Positive - The policy outlines how personal information is collected and used, providing transparency about the purposes, which is generally user-friendly.**
+
+**Data Retention: Neutral - The policy mentions that certain information may not be deleted due to corporate and regulatory requirements, which is a standard practice but may raise concerns for users.**
+
+**International and Specific Audiences: Neutral - The policy indicates that it is targeted to U.S. audiences and discusses compliance with local laws, which is informative but does not express a clear sentiment.**
+
+**Third Party Sharing/Collection: Neutral - The policy explains the conditions under which personal information may be shared with third parties, providing transparency but also indicating potential risks.**
+
+**User Choice/Control: Positive - The policy offers users options to opt-out of marketing communications and manage their preferences, which is a user-friendly practice.**
+
+**User Access, Edit and Deletion: Positive - The policy allows users to review, update, or delete their information, promoting user control and transparency.**
+
+**Data Security: Positive - The policy describes measures taken to protect user information, which is reassuring for users regarding their data security.**
+
+**Do Not Track: Neutral - The policy does not explicitly address Do Not Track signals, which may leave users uncertain about their tracking preferences.**

@@ -1,0 +1,17 @@
+**Other: Positive** - The policy provides a comprehensive overview of various practices and options available to users, indicating a commitment to transparency and user awareness.
+
+**First Party Collection/Use: Positive** - The text clearly outlines how NOTMC collects and uses personal information, emphasizing user engagement and personalized services, which is generally seen as beneficial for users.
+
+**Data Retention: Positive** - The policy mentions the collection and use of data, suggesting that NOTMC retains information for operational purposes, which can be seen as a responsible practice if managed properly.
+
+**International and Specific Audiences: Positive** - The policy acknowledges the international nature of data transfer and the specific rights of California users, indicating a consideration for diverse user needs and legal compliance.
+
+**Third Party Sharing/Collection: Neutral** - While the policy explains that personal information may be shared with third-party service providers, it does not provide extensive detail on the implications, leading to a neutral sentiment regarding user risk.
+
+**User Choice/Control: Positive** - The policy outlines options for users to manage their preferences and opt-out of communications, which empowers users and promotes a positive sentiment.
+
+**User Access, Edit and Deletion: Negative** - The policy lacks clear provisions for users to access, edit, or delete their personal information, which raises concerns about user control and privacy.
+
+**Data Security: Positive** - The text discusses reasonable safeguards in place to protect personal information, which reflects a commitment to data security and user safety.
+
+**Do Not Track: Neutral** - The policy does not address Do Not Track signals, leaving users without clear guidance on this aspect, resulting in a neutral sentiment.

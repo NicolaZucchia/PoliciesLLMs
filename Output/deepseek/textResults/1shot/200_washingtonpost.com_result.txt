@@ -1,0 +1,42 @@
+<think>
+Okay, so I need to figure out how each of these terms applies to the provided Privacy Policy. Let me go through them one by one.
+
+Starting with **Data Collection**: The policy mentions that they collect personal information from users when they interact with the website or use services like social media links. That's a clear collection.
+
+**First Party Collection/Use**: They mention using user data for things like marketing, surveys, and customer support, which means it's first party data being used by their own company.
+
+**Data Retention**: I don't see anything about how long they keep the data or if they delete it. So this is probably false; maybe the policy doesn't specify, so we can assume no retention unless stated otherwise.
+
+**International and Specific Audiences**: The policy doesn't mention targeting people outside the U.S., so this term is likely not applicable here.
+
+**Third Party Sharing/Collection**: They do share data with third-party service providers for advertising purposes. So this term should be true.
+
+**User Choice/Control**: There's no clear information that users can choose what they share or control their data beyond some basic settings like cookie preferences. So probably false unless the policy explicitly states user controls, which it doesn't.
+
+**User Access, Edit and Deletion**: The policy mentions cookies but doesn't say if users can access, edit, or delete their data directly. It also says NOTMC will respond to requests for information within 30 days, which might involve deleting data if necessary.
+
+**Data Security**: They do use cookies and secure methods to protect user data, so this is likely true.
+
+**Do Not Track**: The policy doesn't mention any mechanisms for Do Not Track or provide a mechanism for users to opt-out of tracking. So false.
+
+I think that's all the terms.
+</think>
+
+Based on the analysis of the provided Privacy Policy:
+
+- **Data Collection**: true
+- **First Party Collection/Use**: true
+- **Data Retention**: unknown (assumed false as not specified)
+- **International and Specific Audiences**: false
+- **Third Party Sharing/Collection**: true
+- **User Choice/Control**: false
+- **User Access, Edit and Deletion**: unknown (assumed false due to limited information)
+- **Data Security**: true
+- **Do Not Track**: false
+
+Answer: 
+
+Data: true  
+First Party Collection/Use: true  
+Third Party Sharing/Collection: true  
+Data Security: true

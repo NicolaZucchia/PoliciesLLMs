@@ -1,0 +1,19 @@
+**Other: Neutral - The policy provides general information about data practices without strong positive or negative implications for users.**
+
+**Policy Change: Neutral - The mention of changes to the privacy statement is standard practice and does not indicate a user-friendly or risky approach.**
+
+**First Party Collection/Use: Positive - The policy outlines how Microsoft collects and uses data to improve services, which can enhance user experience.**
+
+**Data Retention: Positive - The policy specifies data retention periods and practices, indicating a responsible approach to data management.**
+
+**International and Specific Audiences: Neutral - The policy mentions that not all services are available in every country, which is a standard disclaimer without strong implications.**
+
+**Third Party Sharing/Collection: Neutral - The policy discusses sharing data with third parties but emphasizes anonymization, which is a standard practice.**
+
+**User Choice/Control: Positive - The policy provides users with options to manage their data and preferences, indicating a user-friendly approach.**
+
+**User Access, Edit and Deletion: Positive - The policy allows users to manage their search history and preferences, promoting user control over personal data.**
+
+**Data Security: Positive - The policy mentions technological safeguards and security measures, indicating a commitment to protecting user data.**
+
+**Do Not Track: Neutral - The policy does not provide specific information on Do Not Track features, resulting in a neutral sentiment.**

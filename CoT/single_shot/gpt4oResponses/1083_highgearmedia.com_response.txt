@@ -1,0 +1,19 @@
+**Other: Neutral -** The policy provides general information about data collection and usage practices without expressing a clear positive or negative sentiment towards user experience.
+
+**Policy Change: Neutral -** The section on policy changes indicates that users will be informed of updates, but it does not provide a strong sentiment regarding the impact of these changes on users.
+
+**First Party Collection/Use: Positive -** The policy outlines the types of information collected and how it is used to enhance user experience, suggesting a user-friendly approach.
+
+**Data Retention: Neutral -** The policy mentions the retention of data for specific purposes but does not elaborate on the duration or implications, leading to a neutral sentiment.
+
+**International and Specific Audiences: Neutral -** The policy does not specifically address international users or audiences, resulting in a neutral sentiment.
+
+**Third Party Sharing/Collection: Negative -** The policy indicates that personal information may be shared with third parties, which could pose risks to user privacy, leading to a negative sentiment.
+
+**User Choice/Control: Positive -** The policy allows users to opt-out of promotional communications and provides options for managing their information, indicating a user-friendly practice.
+
+**User Access, Edit and Deletion: Positive -** The policy states that users can terminate their accounts and update their information, which is a positive aspect of user control.
+
+**Data Security: Neutral -** While the policy mentions security measures, it also acknowledges that no data transmission can be guaranteed to be 100% secure, resulting in a neutral sentiment.
+
+**Do Not Track: Neutral -** The policy states that they do not currently respond to Do Not Track signals, which does not convey a strong positive or negative sentiment.

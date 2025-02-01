@@ -1,0 +1,37 @@
+<think>
+Alright, let me try to figure this out step by step. I'm looking at the provided Privacy Policy text for NOTMC and need to determine whether each of the specified terms applies to it.
+
+1. **Data Collection**: The policy states that personal information is collected when using their services, so yes.
+2. **First Party Collection/Use**: They collect data directly from users on their Online Services, which means first-party use.
+3. **Data Retention**: It doesn't specify how long they keep the data, but it's common for companies to retain it longer than necessary unless stated otherwise. So maybe this is false.
+4. **International and Specific Audiences**: They mention California privacy rights and target users in the U.S., so applicable.
+5. **Third Party Sharing/Collection**: The policy talks about third-party cookies and advertising partners, so yes.
+6. **User Choice/Control**: They don't mention users having a way to opt out of data collection or use, so probably false.
+7. **User Access, Edit, Deletion**: There's no info on how users can manage their data, so likely false.
+8. **Data Security**: The policy mentions security measures but doesn't specify if they're 100% secure, so maybe true.
+9. **Do Not Track**: They don't have a formal DNT mechanism mentioned.
+
+I think the user choice and control, as well as access/edit/delete options are not addressed in the provided text. Data retention is also unclear because it's not specified how long data is kept. The do not track feature isn't present either.
+</think>
+
+The answer is:
+
+Data: true
+First Party Collection/Use: true
+Third Party Sharing/Collection: true
+International and Specific Audiences: true
+Policy Change: false (since the policy doesn't mention changes)
+User Choice/Control: false (no opt-out mentioned)
+User Access, Edit and Deletion: false (no info on user control)
+Data Security: false (no 100% secure stated)
+Do Not Track: false
+
+**Answer:**  
+Data: true  
+First Party Collection/Use: true  
+Third Party Sharing/Collection: true  
+International and Specific Audiences: true  
+User Choice/Control: false  
+User Access, Edit and Deletion: false  
+Data Security: false  
+Do Not Track: false

@@ -1,0 +1,26 @@
+<think>
+Okay, I need to evaluate each of the expected outputs based on the provided Privacy Policy. Let me go through each one step by step.
+
+1. **Data**: The policy mentions collecting personal information like names, addresses, phone numbers, and other details for reservations, billing, marketing, etc. So this is true.
+2. **First Party Collection/Use**: The policy clearly states that NOTMC collects user data to provide services, make purchases, deliver marketing messages, track usage, manage orders, and communicate updates. So this is true.
+3. **Data Retention**: The policy doesn't specify how long personal information is kept. It mentions cookies having a defined lifetime but doesn't clarify retention periods for other data unless it's necessary to provide services or comply with laws. Since there's no clear statement on retention, I'll consider this as false.
+4. **International and Specific Audiences**: The policy says NOTMC does not target children under 13 and doesn't knowingly collect information from them. However, it doesn't mention anything about international audiences except that the English version is used, which might imply limited reach outside the US. So I think this is false.
+5. **Third Party Sharing/Collection**: The policy mentions cookies and third-party advertising partners for tracking and delivering ads but also states NOTMC does not control or responsible for these services. However, it explicitly says NOTMC does not share personal information with third parties unless required by law. So since they don't collect beyond their own policies, this is false.
+6. **User Choice/Control**: The policy allows users to contact support about cookies and privacy but doesn't provide clear opt-out options or tools for managing preferences within the site itself. Therefore, it's false.
+7. **User Access, Edit and Deletion**: There's no mention of how users can access, edit, or delete their data, so this is false.
+8. **Data Security**: The policy mentions using secure systems and practices to protect user data but doesn't specify technical measures like encryption or SSL. Therefore, it's false.
+9. **Do Not Track**: The policy does not mention any mechanisms for Do Not Track cookies or browser signals, so this is false.
+
+Putting it all together: Data - true; First Party Collection/Use - true; the rest are false except for Third Party Sharing/Collection which I initially thought was false but upon reconsideration might be true since they do use third-party services. Wait, no—the policy says NOTMC doesn't share with third parties unless required by law. So if they use third-party cookies without sharing data beyond what's allowed, maybe it's not considered Third Party Sharing/Collection because it's their own usage of those technologies. Hmm, tricky. Since the policy allows them to track through these services but doesn't share personal information, perhaps Third Party Sharing is false.
+</think>
+
+Answer:  
+Data: true  
+First Party Collection/Use: true  
+Third Party Sharing/Collection: false  
+User Choice/Control: false  
+User Access, Edit and Deletion: false  
+Data Security: false  
+Do Not Track: false  
+
+The final expected outputs are only true for Data and First Party Collection/Use.

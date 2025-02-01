@@ -1,0 +1,31 @@
+<think>
+Okay, so I need to go through this entire privacy policy and figure out which of the expected questions have answers based on it. Let me read through each section carefully.
+
+Starting from the top, the first part talks about cookies and online advertising. It says NOTMC uses cookies to improve the online experience and track user actions for marketing purposes. So that relates to Third Party Sharing/Collection because they use cookies which are third-party technologies. Also, it mentions online advertising programs using clear GIFs and web beacons, so that's definitely online tracking.
+
+Next, it mentions that when you link to their services through social networking sites or third party websites, those sites have their own privacy policies, so NOTMC isn't responsible for them. That ties into User Choice/Control because users should check other sites' policies before sharing info.
+
+There are sections about cookies and browser settings where users can manage their preferences, which relates to User Access, Edit, and Deletion. Since they allow managing cookies, that's true.
+
+The policy also discusses the use of cookies for tracking user actions and measuring statistics, so Data Security is involved because it's about protecting information from being accessed or modified without permission.
+
+They mention that NOTMC doesn't target children under 13 and don't knowingly collect such info, but when parents report, they can delete data. That affects International and Specific Audiences since it's for people over 13. Also, the policy is in English, so Data Retention isn't an issue here.
+
+The parts about managing cookies via browser settings also touch on User Access, Edit, and Deletion because users have control over their own devices' cookie preferences. There's no mention of Do Not Track mechanisms like browser extensions blocking ads, so that's false.
+
+I don't see any mentions of policies regarding user data collection beyond what's already covered, so first party collection is true as they use personal info for marketing and cookies.
+
+Putting it all together, the expected outputs should match these points. I think I got them all.
+</think>
+
+Answer: 
+Other: true  
+Policy Change: true  
+First Party Collection/Use: true  
+Data Retention: false  
+International and Specific Audiences: true  
+Third Party Sharing/Collection: true  
+User Choice/Control: true  
+User Access, Edit and Deletion: true  
+Data Security: true  
+Do Not Track: false

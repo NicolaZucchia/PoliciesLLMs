@@ -1,0 +1,19 @@
+**Other: Neutral - The policy provides general information about data collection and usage without expressing a clear positive or negative sentiment towards user practices.**
+
+**Policy Change: Neutral - The policy states that changes will be posted, but does not provide specific user-friendly mechanisms for notification or consent regarding changes.**
+
+**First Party Collection/Use: Positive - The policy clearly states that personal information is collected for specific purposes and emphasizes the protection of user privacy.**
+
+**Data Retention: Neutral - The policy does not explicitly discuss data retention practices, leaving it unclear how long data is kept.**
+
+**International and Specific Audiences: Negative - The policy restricts access to individuals under 21 and requires parental consent for minors, which may limit user access and engagement.**
+
+**Third Party Sharing/Collection: Neutral - The policy mentions sharing information in aggregate form but does not provide detailed user-friendly practices regarding third-party data sharing.**
+
+**User Choice/Control: Positive - The policy offers users the ability to opt-out of communications and provides a means to control their information, which is user-friendly.**
+
+**User Access, Edit and Deletion: Positive - The policy allows users to access and modify their information, indicating a user-friendly approach to data management.**
+
+**Data Security: Positive - The policy states that information is stored on restricted database servers, suggesting a commitment to data security.**
+
+**Do Not Track: Neutral - The policy does not mention any specific practices regarding Do Not Track requests, leaving the sentiment unclear.**

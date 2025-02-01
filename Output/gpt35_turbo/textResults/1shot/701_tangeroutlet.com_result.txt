@@ -1,0 +1,8 @@
+Other: Yes
+Policy Change: No
+First Party Collection/Use: Yes
+International and Specific Audiences: No
+Third Party Sharing/Collection: No
+User Choice/Control: Yes
+User Access, Edit and Deletion: Yes
+Do Not Track: No

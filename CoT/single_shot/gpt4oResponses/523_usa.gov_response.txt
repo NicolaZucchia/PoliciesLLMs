@@ -1,0 +1,17 @@
+**Other: Positive** - The policy provides clear information about data collection practices and emphasizes user privacy, which is user-friendly.
+
+**First Party Collection/Use: Positive** - The text indicates that personal information is only collected when users choose to provide it, and it is used solely to respond to requests, which is a responsible practice.
+
+**Data Retention: Positive** - The policy states that raw data logs are scheduled for regular destruction, indicating a commitment to data minimization and responsible retention practices.
+
+**International and Specific Audiences: Neutral** - The policy does not specifically address international users or audiences, making it neutral in sentiment.
+
+**Third Party Sharing/Collection: Positive** - The text clearly states that visitor data is not shared or sold for commercial purposes, which is a positive aspect for user privacy.
+
+**User Choice/Control: Positive** - Users have the option to control cookie settings and can choose whether to provide personal information, which is empowering for users.
+
+**User Access, Edit and Deletion: Negative** - The policy does not mention any provisions for users to access, edit, or delete their personal information, which is a significant oversight.
+
+**Data Security: Positive** - The policy outlines measures taken for site security and the protection of user data, indicating a strong commitment to data security.
+
+**Do Not Track: Neutral** - The policy does not address Do Not Track signals, leaving it neutral regarding user tracking preferences.

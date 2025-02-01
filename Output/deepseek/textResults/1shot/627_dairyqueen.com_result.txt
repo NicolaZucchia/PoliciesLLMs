@@ -1,0 +1,30 @@
+<think>
+Alright, let's tackle this problem step by step. I'm looking at the provided privacy policy text for NOTMC and need to determine whether each of the given expected outputs is correct or not.
+
+First, I'll go through each piece of Expected Output and verify against the policy.
+
+1. **Data Collection**: The policy mentions that they collect online information, including first-party data from interactions with their services. So this should be true.
+2. **Policy Change**: The policy doesn't explicitly state anything about being aware of a potential policy change unless someone is following it regularly. Since there's no notice here, I'll consider this false.
+3. **First Party Collection/Use**: They use the information for managing online experiences and marketing, so yes, they do collect first-party data.
+4. **Data Retention**: The policy talks about improving experience but doesn't specify retention periods beyond that, so it's unclear if they keep more than necessary—this might be false.
+5. **International/Audiences**: They mention California privacy rights, which implies they target that area, so this is true.
+6. **Third Party Sharing/Collection**: They use cookies and third-party ads, meaning they share data with external partners—it's definitely true.
+7. **User Choice/Control**: The policy doesn't offer clear options for users like opting out of marketing or managing cookies—this seems false.
+8. **User Access/Edit/Delete**: There’s no mention of these freedoms; it appears users can’t do much without contacting support, so this is false.
+9. **Data Security**: They mention measures to secure data but don't specify if they're 100% secure. It's more about their practices than actual security—so I'll say this is true because it shows they are cautious.
+10. **Do Not Track**: The policy doesn't address tracking mechanisms, so this is false.
+
+Putting it all together, the expected outputs should be adjusted where necessary based on these evaluations.
+</think>
+
+Answer: 
+Data Collection: true  
+Policy Change: false  
+First Party Collection/Use: true  
+Data Retention: false  
+International and Specific Audiences: true  
+Third Party Sharing/Collection: true  
+User Choice/Control: false  
+User Access, Edit and Deletion: false  
+Data Security: true  
+Do Not Track: false

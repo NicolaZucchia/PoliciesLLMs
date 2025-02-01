@@ -1,0 +1,11 @@
+Category,Total Mismatches,False Positives,False Negatives
+Other,14,0,14
+Policy Change,13,9,4
+First Party Collection/Use,12,0,12
+Data Retention,32,25,7
+International and Specific Audiences,30,0,30
+Third Party Sharing/Collection,17,0,17
+User Choice/Control,11,4,7
+"User Access, Edit and Deletion",20,13,7
+Data Security,13,6,7
+Do Not Track,14,5,9

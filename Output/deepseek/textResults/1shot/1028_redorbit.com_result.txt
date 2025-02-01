@@ -1,0 +1,50 @@
+<think>
+Okay, I need to analyze the provided Privacy Policy text for expected output. Let me go through each section step by step.
+
+First, under Data Collection, the policy mentions cookies, online advertising, third-party services, and user preferences are collected. This means data is being collected from multiple sources, so First Party Collection/Use should be true.
+
+Data Retention refers to how long information is stored. The policy doesn't specify a retention period beyond system security measures, so I'll mark Data Retention as false.
+
+International and Specific Audiences: The policy mentions California privacy rights but not targeting specific international regions, so this should be false.
+
+Third Party Sharing/Collection: Information is shared with advertising partners and agents, which makes this true.
+
+User Choice/Control includes the ability to manage cookies and opt-out of tracking through AllAboutCookies.org. So User Choice/Control is true.
+
+User Access, Edit, and Deletion allows users to access their preferences via cookie settings, so this is true.
+
+Do Not Track is not explicitly handled in the policy mentioned; thus it's false.
+
+Data Security mentions efforts but doesn't detail specific measures against breaches, so Data Security remains false.
+</think>
+
+The provided Privacy Policy indicates that data collection includes cookies and third-party services (Third Party Sharing/Collection: true). Users can control their information through various means like browser settings (User Choice/Control: true) and have access to account preferences (User Access, Edit, and Deletion: true). The policy addresses data security but doesn't specify detailed measures (Data Security: false), opting-out capabilities are hinted at rather than fully explained (Do Not Track: false).
+
+Answer:
+Data: third party sharing/collection is true
+Other: true
+Policy Change: true
+First Party Collection/Use: true
+Data Retention: false
+International and Specific Audiences: true
+Third Party Sharing/Collection: true
+User Choice/Control: true
+User Access, Edit and Deletion: true
+Data Security: true
+Do Not Track: false
+
+The expected output based on the analysis is:
+
+Data: third party sharing/collection is true  
+Other: true  
+Policy Change: true  
+First Party Collection/Use: true  
+Data Retention: false  
+International and Specific Audiences: true  
+Third Party Sharing/Collection: true  
+User Choice/Control: true  
+User Access, Edit and Deletion: true  
+Data Security: true  
+Do Not Track: false
+
+True for third party sharing/collection.

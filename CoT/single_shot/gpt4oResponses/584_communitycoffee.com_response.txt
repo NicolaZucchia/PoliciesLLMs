@@ -1,0 +1,15 @@
+Other: Positive - The policy emphasizes a commitment to privacy and does not sell or trade customer information, which is reassuring for users.
+
+First Party Collection/Use: Positive - The text indicates that the information collected is used to enhance the shopping experience, which is beneficial for users.
+
+Data Retention: Neutral - While the policy mentions protection against unauthorized use, it does not specify how long data is retained, leaving some ambiguity.
+
+International and Specific Audiences: Neutral - The policy does not explicitly address international users or specific audiences, making it unclear how their data is handled.
+
+Third Party Sharing/Collection: Positive - The policy clearly states that customer information is not sold or traded, which is a positive aspect for user privacy.
+
+User Choice/Control: Positive - The mention of cookies and the ability to deactivate them provides users with control over their browsing experience.
+
+Data Security: Positive - The use of a secure server and encryption for personal information suggests a strong commitment to data security.
+
+Do Not Track: Neutral - The policy does not address Do Not Track signals, leaving users without clarity on how their preferences in this area are handled.

@@ -1,0 +1,15 @@
+Other: Neutral - [The policy mentions third-party advertising and data collection practices without expressing a clear positive or negative stance towards user experience.]
+
+First Party Collection/Use: Neutral - [The policy does not provide specific details about first-party data collection or use, leaving the sentiment ambiguous.]
+
+Data Retention: Neutral - [The policy does not specify how long data is retained, which does not indicate a clear positive or negative practice.]
+
+International and Specific Audiences: Neutral - [The policy does not address international users or specific audience considerations, resulting in an unclear sentiment.]
+
+Third Party Sharing/Collection: Negative - [The mention of third-party companies collecting data may raise concerns about user privacy and control over personal information.]
+
+User Choice/Control: Positive - [The policy provides users with the option to opt-out of behavioral advertising, indicating a degree of user control.]
+
+Data Security: Neutral - [The policy does not elaborate on data security measures, leaving the sentiment regarding user safety unclear.]
+
+Do Not Track: Negative - [The absence of a Do Not Track policy suggests a lack of respect for user privacy preferences, which is a negative aspect.]

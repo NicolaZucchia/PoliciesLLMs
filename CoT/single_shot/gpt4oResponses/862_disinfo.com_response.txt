@@ -1,0 +1,19 @@
+**Other: Neutral - The policy provides general information about privacy practices without strong positive or negative implications.**
+
+**Policy Change: Positive - The policy clearly states that users will be notified of changes and encourages them to review updates, which is user-friendly.**
+
+**First Party Collection/Use: Positive - The policy outlines the collection and use of personal information for internal purposes, indicating transparency and a focus on user service.**
+
+**Data Retention: Neutral - The policy does not explicitly discuss data retention practices, leading to a neutral sentiment regarding this aspect.**
+
+**International and Specific Audiences: Neutral - The policy does not address international users or specific audience considerations, resulting in a neutral sentiment.**
+
+**Third Party Sharing/Collection: Neutral - While the policy mentions sharing with third parties, it also emphasizes efforts to protect user information, leading to a neutral sentiment.**
+
+**User Choice/Control: Positive - The policy provides users with options to opt-out of communications, which is a positive aspect of user control.**
+
+**User Access, Edit and Deletion: Neutral - The policy mentions the ability to deactivate personal information but lacks detailed procedures, resulting in a neutral sentiment.**
+
+**Data Security: Neutral - The policy discusses efforts to protect personal information but acknowledges limitations, leading to a neutral sentiment.**
+
+**Do Not Track: Neutral - The policy does not address Do Not Track signals, resulting in a neutral sentiment regarding this practice.**

@@ -1,0 +1,63 @@
+<think>
+First, I recognize that the given equation is a quadratic equation in the standard form \( ax^2 + bx + c = 0 \), where \( a = 1 \), \( b = 5 \), and \( c = 6 \).
+
+To solve this equation, I'll use the quadratic formula:
+\[ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} \]
+
+Substituting the known values into the formula:
+\[ x = \frac{-5 \pm \sqrt{5^2 - 4(1)(6)}}{2(1)} \]
+\[ x = \frac{-5 \pm \sqrt{25 - 24}}{2} \]
+\[ x = \frac{-5 \pm \sqrt{1}}{2} \]
+
+This gives two solutions:
+\[ x = \frac{-5 + 1}{2} = -2 \]
+\[ x = \frac{-5 - 1}{2} = -3 \]
+
+Therefore, the solutions to the equation are \( x = -2 \) and \( x = -3 \).
+</think>
+
+To solve the quadratic equation:
+
+\[ x^2 + 5x + 6 = 0 \]
+
+we can use the **quadratic formula**:
+
+\[
+x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+\]
+
+where \( a = 1 \), \( b = 5 \), and \( c = 6 \).
+
+**Step 1:** Identify the coefficients.
+
+\[ a = 1, \quad b = 5, \quad c = 6 \]
+
+**Step 2:** Plug the values into the quadratic formula.
+
+\[
+x = \frac{-5 \pm \sqrt{5^2 - 4(1)(6)}}{2(1)}
+\]
+
+**Step 3:** Simplify inside the square root.
+
+\[
+x = \frac{-5 \pm \sqrt{25 - 24}}{2}
+\]
+\[
+x = \frac{-5 \pm \sqrt{1}}{2}
+\]
+
+**Step 4:** Calculate the square root and find both solutions.
+
+\[
+x = \frac{-5 + 1}{2} = \frac{-4}{2} = -2
+\]
+\[
+x = \frac{-5 - 1}{2} = \frac{-6}{2} = -3
+\]
+
+**Final Solutions:**
+
+\[
+\boxed{x = -2 \quad \text{and} \quad x = -3}
+\]

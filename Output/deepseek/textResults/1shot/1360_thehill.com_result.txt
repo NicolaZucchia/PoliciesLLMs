@@ -1,0 +1,50 @@
+<think>
+Alright, I need to analyze the given Privacy Policy document and determine which of the specified categories apply. The policy is in English, so that's consistent.
+
+Starting with "Data Collection," it mentions collecting personal information through online services, cookies, social media interactions, etc., so Data Collection is true.
+
+Next, "Data Retention." The policy states NOTMC stores Personal Information for as long as needed to fulfill obligations or until users deactivate accounts. However, the provided data only says not retaining data unless necessary, which implies they retain some information longer than a reasonable period. Therefore, Data Retention might be considered true because it's more about retention policies rather than outright deletion.
+
+"First Party Collection/Use." The policy talks about using Personal Information for business purposes and marketing, so this is definitely true.
+
+"Third Party Sharing/Collection." The document mentions sharing information with third-party service providers for advertising and analytics, making this category true.
+
+Data Security: The policy does mention security measures but doesn't explicitly say they're sufficient. So maybe Data Security isn't directly addressed here; perhaps it's still relevant as it relates to general practices. Wait, no—it says "Unfortunately, no system or online transmission of data can be guaranteed to be 100% secure," so this indicates a potential risk, which might imply that security is an area for improvement but not fully assured. So Data Security could be considered true in the sense they have some measures.
+
+User Choice/Control: The policy allows users to contact NOTMC if their information is shared without consent and provides methods to delete data, so User Choice/Control is true.
+
+"International and Specific Audiences." It's written for a U.S. company but mentions handling international audiences through translations, though the English version takes precedence, indicating it's intended for an international audience. So this is likely true.
+
+User Access, Edit, and Deletion: The policy allows users to delete their data upon request, so access, editing, and deletion are possible.
+
+Do Not Track: The policy doesn't mention any specific Do Not Track mechanisms or cookies that handle such requests, so this would be false.
+
+Putting it all together:
+
+Data Collection - true
+
+Data Retention - True (because they retain some info)
+
+First Party Collection/Use - true
+
+Third Party Sharing/Collection - true
+
+User Choice/Control - true
+
+User Access, Edit and Deletion - true
+
+Data Security - Not explicitly stated as a concern here, but since it's mentioned that data isn't 100% secure, maybe considered true in context.
+
+Do Not Track - false
+</think>
+
+The analysis concludes the following:
+
+- **Data Collection:** True  
+- **Data Retention:** True  
+- **First Party Collection/Use:** True  
+- **Third Party Sharing/Collection:** True  
+- **User Choice/Control:** True  
+- **User Access, Edit and Deletion:** True  
+- **Data Security:** Not directly addressed but implied; True (as it's part of the general security measures)  
+- **Do Not Track:** False

@@ -1,0 +1,17 @@
+**Other: Positive** - The policy provides a comprehensive overview of various practices and rights, indicating a commitment to transparency and user awareness.
+
+**First Party Collection/Use: Positive** - The text clearly outlines the types of information collected and how it is used, emphasizing customization and user experience, which is beneficial for users.
+
+**Data Retention: Neutral** - While the policy mentions security measures and the potential for data access by authorities, it does not provide specific details on retention periods, leading to a neutral sentiment.
+
+**International and Specific Audiences: Positive** - The policy acknowledges the transfer of information across jurisdictions and the rights of California residents, indicating a consideration for international users and specific legal requirements.
+
+**Third Party Sharing/Collection: Neutral** - The policy describes various scenarios for sharing information but does not provide extensive details on the implications for users, resulting in a neutral sentiment.
+
+**User Choice/Control: Positive** - The text outlines multiple options for users to manage their information and opt-out of certain practices, which empowers users and reflects a positive approach.
+
+**User Access, Edit and Deletion: Negative** - The policy does not provide clear mechanisms for users to access, edit, or delete their information, which raises concerns about user control and leads to a negative sentiment.
+
+**Data Security: Positive** - The policy states that Meredith employs commercially reasonable procedures to protect user information, which suggests a proactive approach to data security.
+
+**Do Not Track: Neutral** - The policy mentions that it does not currently respond to Do Not Track signals, which may be seen as a lack of responsiveness, resulting in a neutral sentiment.

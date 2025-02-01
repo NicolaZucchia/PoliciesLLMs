@@ -1,0 +1,15 @@
+**Policy Change: Neutral - The policy states that changes will be posted and users are responsible for reviewing them, which is standard practice but does not actively promote user engagement or awareness.**
+
+**First Party Collection/Use: Positive - The policy clearly outlines the types of information collected and how it is used, emphasizing that personal information will not be shared with other organizations, which is reassuring for users.**
+
+**Data Retention: Neutral - The policy mentions that sensitive records are retained only as long as necessary, but it lacks specific details on retention periods, leaving some ambiguity for users.**
+
+**Third Party Sharing/Collection: Neutral - While the policy states that Kinja does not provide Personally Identifiable Information to third-party advertisers, it also mentions that data may be shared with third parties for advertising purposes, which could raise concerns for users.**
+
+**User Choice/Control: Positive - The policy provides clear opt-out options for cookies and advertising, empowering users to control their data and privacy preferences.**
+
+**User Access, Edit and Deletion: Neutral - The policy does not explicitly mention user rights regarding access, editing, or deletion of their personal information, which could be seen as a lack of transparency.**
+
+**Data Security: Positive - The policy outlines various safeguards in place to protect user information, which is a positive aspect for user trust, although it acknowledges that no system is completely secure.**
+
+**Do Not Track: Negative - The policy states that Kinja does not respond to "do not track" signals, which may be viewed negatively by users who prioritize privacy and tracking preferences.**

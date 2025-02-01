@@ -1,0 +1,17 @@
+**Other: Neutral - The policy provides general information about privacy commitments without expressing a clear user-friendly or user-risky practice.**
+
+**First Party Collection/Use: Positive - The policy outlines the collection of user information for improving services, indicating a user-friendly approach to data use.**
+
+**Data Retention: Neutral - The policy does not specify retention periods or practices, leaving the user uncertain about how long their data is kept.**
+
+**International and Specific Audiences: Neutral - The policy does not address international users or specific audience considerations, resulting in a lack of clarity.**
+
+**Third Party Sharing/Collection: Neutral - The mention of using Google services suggests some sharing, but it does not provide detailed user-friendly information about the implications.**
+
+**User Choice/Control: Positive - The policy allows users to request withholding of directory information, indicating a user-friendly practice that empowers users.**
+
+**User Access, Edit and Deletion: Neutral - The policy mentions access to personal information but lacks clarity on deletion rights, leading to uncertainty for users.**
+
+**Data Security: Positive - The policy describes robust security measures in place to protect user information, indicating a strong commitment to data security.**
+
+**Do Not Track: Neutral - The policy does not address Do Not Track signals, leaving users without guidance on this aspect of privacy.**

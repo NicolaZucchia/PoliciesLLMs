@@ -1,0 +1,17 @@
+**Other: Positive** - The policy emphasizes a commitment to protecting children's privacy and parental consent, which is a user-friendly practice.
+
+**First Party Collection/Use: Positive** - The text clearly states the purpose of collecting information and ensures that it is used for communication about events, which is transparent and user-friendly.
+
+**Data Retention: Positive** - The policy outlines that information is stored for participation in activities, indicating a clear purpose for data retention, which is user-friendly.
+
+**International and Specific Audiences: Positive** - The policy explicitly mentions compliance with the Children's Online Privacy Protection Act, showing a commitment to protecting children’s privacy, which is user-friendly.
+
+**Third Party Sharing/Collection: Positive** - The policy states that personally identifiable information will not be disclosed without consent, which is a user-friendly practice that protects children's data.
+
+**User Choice/Control: Positive** - The policy allows parents to review, modify, or delete their child's information, providing them with control, which is user-friendly.
+
+**User Access, Edit and Deletion: Positive** - The text provides clear instructions for parents to access and manage their child's data, which is user-friendly.
+
+**Data Security: Positive** - The policy describes various security measures in place to protect personal information, indicating a strong commitment to data security, which is user-friendly.
+
+**Do Not Track: Neutral** - The policy does not address Do Not Track mechanisms, leaving this aspect unmentioned, which does not indicate a user-friendly or user-risky practice.

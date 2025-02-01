@@ -1,0 +1,35 @@
+<think>
+Okay, so I need to analyze this policy text and determine which of the expected output categories apply. Let me start by reading through the entire policy carefully.
+
+First, the policy is about NOTMC's privacy practices when collecting information from users accessing their Online Services. It mentions that they collect online information such as user names, email addresses, phone numbers, and other details like cookies, usage data, and preferences (lines 4-5).
+
+Looking at the "Data" section, it starts by explaining how the policy explains what personal information is collected when using the services. Then it outlines specific categories of information collected: account name, email address, phone number, login history, payment information, device details, cookies, usage data, and preferences (lines 10-25). This means that Data collection is happening.
+
+Next, in lines 36 onwards, it describes how this information is used. They mention delivering content tailored to users' interests, personalizing services, marketing through various channels like email, telephone calls, postal mail, social media, and ads (both on their platform and third-party sites). They also use cookies for user preferences and tracking actions. This seems to cover First Party Collection/Use as true.
+
+Regarding data retention, the policy doesn't specify how long information is kept beyond what's necessary for their services, so I can assume this might be handled internally without explicit retention policies. So Data Retention: false.
+
+The policy does address international audiences by noting that it applies regardless of a user's location (line 97). International and Specific Audiences: true.
+
+Third-party sharing is mentioned when discussing cookies and ad management partners, so Third Party Sharing/Collection: true.
+
+User choice and control are present as they allow users to opt-out of marketing via email addresses or phone numbers. User Choice/Control: true.
+
+They provide contact methods for inquiries, which allows users to access their information, making User Access, Edit, and Deletion: true since they can request corrections or deletions if needed.
+
+Security is mentioned by stating that NOTMC uses cookies and other technologies securely (line 93). Data Security: true.
+
+Do Not Track mechanisms aren't explicitly mentioned in the policy; it's more about tracking for analytics. Do Not Track: false.
+
+Putting this together, the expected output should reflect these points accurately.
+</think>
+
+The analysis of the provided privacy policy reveals that the following categories apply:
+
+- **Data**: Information is collected from users accessing NOTMC's services.
+- **First Party Collection/Use**: Personal information is used for delivering personalized content and services.
+- **Third Party Sharing/Collection**: Information may be shared with third-party advertising partners.
+- **User Choice/Control**: Users can opt out of marketing communications.
+- **User Access, Edit and Deletion**: Users can request access to their information through contact methods.
+
+These points are supported by the policy's content, which outlines collection, usage, sharing practices, user rights, and contact procedures.

@@ -1,0 +1,19 @@
+**Other: Positive** - The policy provides comprehensive information about data collection and user rights, indicating a commitment to transparency.
+
+**Policy Change: Positive** - The policy states that users will be notified of any changes on the Privacy Policy Page, which is a user-friendly practice.
+
+**First Party Collection/Use: Positive** - The policy clearly outlines how personal information is collected and used, emphasizing user experience and transaction processing.
+
+**Data Retention: Neutral** - The policy does not explicitly discuss data retention practices, leading to a neutral sentiment due to lack of clarity.
+
+**International and Specific Audiences: Neutral** - The policy mentions compliance with CalOPPA, which is relevant for California residents, but does not address international audiences specifically, resulting in a neutral sentiment.
+
+**Third Party Sharing/Collection: Positive** - The policy explicitly states that personally identifiable information is not sold or shared with third parties, which is a positive practice for user privacy.
+
+**User Choice/Control: Positive** - The policy allows users to change their personal information and provides options regarding cookies, indicating a user-friendly approach.
+
+**User Access, Edit and Deletion: Positive** - The policy outlines clear methods for users to access and edit their information, which supports user control and empowerment.
+
+**Data Security: Positive** - The policy describes multiple security measures in place to protect user information, indicating a strong commitment to data security.
+
+**Do Not Track: Positive** - The policy honors Do Not Track signals, which is a positive practice that respects user privacy preferences.

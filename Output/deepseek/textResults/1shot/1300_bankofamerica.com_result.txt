@@ -1,0 +1,33 @@
+<think>
+Okay, so I need to analyze this privacy policy for NOTMC and determine the correct expected output based on a set of specific questions. Let me go through each question one by one.
+
+First, does the policy state that data is being collected from users? Yes, it mentions cookies, online advertising, third-party sharing, etc., so data collection happens. So Data Collection: true.
+
+Next, is there anything about user choice or control over their information? The policy allows users to manage cookies through their browsers and provides methods to contact for privacy requests. So User Choice: true.
+
+Do third parties have access to this user's data? Yes, the policy mentions sharing with advertising partners, so Third Party Sharing: true.
+
+Is there any reference to data retention policies? I don't see anything about how long data is kept or stored. The policy talks about cookies expiring and users being able to delete information if they're a parent of a child under 13. But no mention of retention periods for other users, so Data Retention: false.
+
+Does the policy cover international audiences? Yes, it mentions California privacy rights but also states that the policy is English and takes precedence over translations in other languages, implying it applies globally. International and Specific Audiences: true.
+
+Are there any first-party uses of data beyond what's stated? The policy talks about internal use for improving services, customer service, marketing, product development, etc., so First Party Collection/Use: true.
+
+Does the policy discuss user access, editing, or deletion options? Yes, users can delete cookies in browsers and request removal of information if they're a parent with a child under 13. So User Access, Edit, Deletion: true.
+
+Is there mention of data security measures? The policy says NOTMC uses Cookies to protect against unauthorized access but doesn't specify encryption or other security measures beyond that. Data Security: true.
+
+Does it adhere to Do Not Track signals? It mentions cookies for user experience but doesn’t explicitly handle tracking preventers, so Do Not Track: false.
+
+I think I've covered all the points. Now I'll match each to true or false as per my analysis.
+</think>
+
+Data Collection: true  
+User Choice: true  
+Third Party Sharing: true  
+First Party Use: true  
+Data Retention: false  
+International/Audiences: true  
+Do Not Track: false  
+User Access/Edit/Delete: true  
+Security: true

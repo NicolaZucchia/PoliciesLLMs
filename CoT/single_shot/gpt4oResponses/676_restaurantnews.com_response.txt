@@ -1,0 +1,19 @@
+**Other: Neutral -** The policy mentions various practices without expressing a clear positive or negative sentiment towards them.
+
+**Policy Change: Neutral -** The statement about the potential for changes to the privacy policy is standard and does not indicate a user-friendly or user-risky practice.
+
+**First Party Collection/Use: Neutral -** The collection of IP addresses for internal use is a common practice, but the lack of detail on how this data is used leaves the sentiment neutral.
+
+**Data Retention: Neutral -** The policy states that IP addresses are logged for analysis but does not specify retention duration, leading to a neutral sentiment.
+
+**International and Specific Audiences: Neutral -** There is no specific mention of international audiences or practices, resulting in a neutral sentiment.
+
+**Third Party Sharing/Collection: Negative -** The mention of third-party advertisers using cookies without control or access by the site suggests a user-risky practice.
+
+**User Choice/Control: Positive -** The option to opt out of DART cookies indicates a user-friendly practice, allowing users some control over their data.
+
+**User Access, Edit and Deletion: Negative -** The policy does not mention any rights for users to access, edit, or delete their information, indicating a user-risky practice.
+
+**Data Security: Neutral -** The policy does not provide specific information on data security measures, leading to a neutral sentiment.
+
+**Do Not Track: Neutral -** There is no mention of Do Not Track features or policies, resulting in a neutral sentiment.

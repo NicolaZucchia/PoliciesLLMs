@@ -1,0 +1,57 @@
+<think>
+Okay, so I need to figure out whether each of the listed policies applies based on the provided privacy document. Let's go through each one step by step.
+
+1. **Data**: This refers to any information collected about users. The document mentions collecting data like names, addresses, phone numbers, email addresses, and payment details. So yes, data is being collected.
+
+2. **Other**: Since "Data" applies, this would naturally apply as well because it's part of the overall privacy policy structure.
+
+3. **Policy Change**: The document doesn't explicitly state that there have been any changes to the privacy policy in the provided text. Without specific information about updates, we can assume that no policy change has occurred here.
+
+4. **First Party Collection/Use**: First party refers to data collected directly by the company. The document talks about collecting and using personal info like names, addresses, etc., so this applies.
+
+5. **Data Retention**: There's no mention of how long the information is kept. Without specifics on retention periods or deletion policies, we can say this doesn't apply based on the given text.
+
+6. **International and Specific Audiences**: The document mentions California privacy rights but doesn't address other regions or specific audiences beyond that. So, international aspects aren't covered here.
+
+7. **Third Party Sharing/Collection**: The document talks about sharing information with third-party services like advertisers and social networking sites. Therefore, this applies as they collect data from these partners.
+
+8. **User Choice/Control**: There's no clear indication that users have control over their personal information choices within the company's systems based on the provided text.
+
+9. **User Access, Edit and Deletion**: The document mentions cookies where users can manage settings but doesn't specify if they can access, edit, or delete stored data easily.
+
+10. **Data Security**: It states that NOTMC uses measures to protect user information but doesn't explicitly say whether these measures are industry standards or detailed.
+
+11. **Do Not Track**: The document does not mention any tracking mechanisms like cookies used for tracking browsing behavior as per "do not track" principles.
+
+After analyzing each point, I can determine the expected outputs based on the provided privacy policy.
+</think>
+
+The analysis of the provided privacy policy indicates the following:
+
+- **Data**: Yes, data is collected.
+- **Other**: Yes, since Data applies.
+- **Policy Change**: No specific change mentioned.
+- **First Party Collection/Use**: Yes, personal information is used.
+- **Data Retention**: Not addressed in detail.
+- **International and Specific Audiences**: Limited to California.
+- **Third Party Sharing/Collection**: Yes, data is shared with third parties.
+- **User Choice/Control**: No indication of user control.
+- **User Access, Edit and Deletion**: Limited information on access controls.
+- **Data Security**: Partial security measures mentioned.
+- **Do Not Track**: No tracking mechanisms described.
+
+**Answer:**
+
+{
+  "Data": true,
+  "Other": true,
+  "Policy Change": false,
+  "First Party Collection/Use": true,
+  "Data Retention": false,
+  "International and Specific Audiences": false,
+  "Third Party Sharing/Collection": true,
+  "User Choice/Control": false,
+  "User Access, Edit and Deletion": false,
+  "Data Security": false,
+  "Do Not Track": false
+}

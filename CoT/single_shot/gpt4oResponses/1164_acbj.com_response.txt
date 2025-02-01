@@ -1,0 +1,19 @@
+**Other: Neutral -** The policy provides a broad overview of various practices without expressing a clear positive or negative sentiment towards users.
+
+**Policy Change: Neutral -** The mention of the last revision date indicates awareness of updates, but does not provide specific user-friendly practices or risks.
+
+**First Party Collection/Use: Positive -** The policy outlines how the service uses collected information to enhance user experience and provide requested services, which is generally user-friendly.
+
+**Data Retention: Neutral -** The policy does not explicitly discuss data retention practices, leaving it unclear how long data is kept, which does not suggest a strong user-friendly or risky practice.
+
+**International and Specific Audiences: Neutral -** The mention of data transfer across jurisdictions indicates awareness of international practices but does not provide specific user-friendly or risky implications.
+
+**Third Party Sharing/Collection: Negative -** The policy states that user information may be shared with third parties, which poses a risk to user privacy and control over their data.
+
+**User Choice/Control: Positive -** The policy provides options for users to opt-out of third-party tracking and sharing, indicating a user-friendly approach to privacy.
+
+**User Access, Edit and Deletion: Negative -** The policy does not provide clear mechanisms for users to access, edit, or delete their information, which is a significant risk to user control over their data.
+
+**Data Security: Neutral -** While the policy acknowledges the risks associated with data transmission and security, it does not provide specific measures taken to protect user data, leaving the sentiment neutral.
+
+**Do Not Track: Negative -** The policy explicitly states that it does not support Do Not Track settings, which is a user-risky practice as it disregards user preferences for privacy.

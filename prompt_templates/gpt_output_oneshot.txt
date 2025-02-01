@@ -1,0 +1,10 @@
+Data: Answer
+1. 1st Party Collection: Yes
+2. 3rd Party Sharing: Yes
+3. User Choice/Control: Yes
+4. Data Security: Yes
+5. Specific Audiences: No
+6. Access, Edit, Delete: Yes
+7. Policy Change: Yes
+8. Data Retention: Yes
+9. Do Not Track: No

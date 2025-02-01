@@ -1,0 +1,18 @@
+<think>
+Alright, let me try to figure this out. The user provided a lengthy privacy policy from NOTMC and expects it broken down into specific categories with booleans for each category.
+
+First, I'll go through the policy section by section to identify where information fits. 
+
+1. **Data Collection**: It mentions collecting data like names, addresses, phone numbers which is first party use.
+2. **Privacy Practices**: They talk about cookies and tracking users' actions, so data retention isn't mentioned here—maybe it's covered elsewhere?
+3. **Third Party Sharing**: They do share data with third parties for marketing, so that should be true.
+4. **User Choice/Control**: The policy allows users to manage their preferences but doesn't mention explicit opt-out options like "Do Not Track" directly.
+5. **Do Not Track**: I don't see any mention of this feature.
+6. **International Audience**: Since it's about New Orleans, unless they have a global presence, this might be true for U.S.-based users only.
+
+I think that covers the main points to set each boolean accordingly.
+</think>
+
+Data: True  
+Other: True  
+Policy Change: True

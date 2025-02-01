@@ -1,0 +1,34 @@
+<think>
+Okay, so I need to figure out how the new privacy policy affects various aspects like data collection, user choice, etc. Let me go through each section step by step.
+
+Starting with the first part of the privacy policy, it mentions that they collect personal information such as name, address, phone number, and email through their online services. That means they are collecting first party data because these details come directly from users on their own website. So, First Party Collection/Use should be true.
+
+Next, the policy talks about using this collected data for marketing purposes. They also mention that if you visit their websites or engage with their apps, your data is used to improve your experience and for marketing. This definitely falls under User Choice/Control because users can decide how much information they share by agreeing to terms or declining cookies in their settings.
+
+They also state that third-party cookies are used from social media sites like Facebook and Twitter. Additionally, they use these third-party cookie tracking technologies which means they're sharing data with these companies. So Third Party Sharing/Collection should be marked as true.
+
+The policy allows users to access, edit, or delete their personal information through user accounts on the website and apps, so User Access, Edit, and Deletion is true.
+
+Data Retention refers to how long the company keeps this information. The policy doesn't specify a retention period but mentions cookies that can track usage indefinitely until they expire, which might be after two years based on common practices. However, since there's no explicit time frame given, Data Retention should probably be false unless we infer an expiration.
+
+Looking at International and Specific Audiences, the company seems to target users in New Orleans or Louisiana but doesn't specify global reach beyond that. So unless they have international data processing, it's safer to say this is not applicable here.
+
+For International, the policy mentions California privacy rights and that children under 13 aren't targeted, so international aspects might be limited unless more info is given. But since it's focused on New Orleans, I think International should remain false.
+
+Do Not Track: The policy states that they do not implement a Do Not Track mechanism because cookies are used to track user behavior across sites. So Do Not Track would be false.
+
+Data Security: They mention using cookies and other technologies for tracking and marketing but also note that no system can be 100% secure, advising users to use antivirus software. This indicates they do take some measures to secure data, so Data Security is true.
+
+Putting it all together, the expected output should reflect these points accurately.
+</think>
+
+Other: true  
+Policy Change: true  
+First Party Collection/Use: true  
+Data Retention: false (since no explicit retention period provided)  
+International and Specific Audiences: false  
+Third Party Sharing/Collection: true  
+User Choice/Control: true  
+User Access, Edit and Deletion: true  
+Data Security: true  
+Do Not Track: false

@@ -1,0 +1,61 @@
+<think>
+Okay, I'm trying to figure out how to answer this query. The user has provided a detailed privacy policy from NOTMC and wants me to map each section of that policy to specific attributes like Data Collection, First Party, etc. They've given an expected output with true or false for each category.
+
+First, I'll go through the privacy policy step by step and identify where each section falls. Starting from the top: they mention collecting personal info including names, addresses, phone numbers, email addresses, and payment information. That should fall under First Party Collection because it's directly taken from the user's side, not third parties.
+
+Next, they talk about online registration forms capturing similar info as part of joining the loyalty program. So that also adds to First Party Collection.
+
+Then, they mention using this data for marketing purposes like newsletters and special offers. This is definitely First Party Use because it's the user's own information being used by NOTMC.
+
+They discuss cookies and tracking technology, which are ways to collect more data about users' browsing behavior. These would fall under Third Party Sharing/Collection since these technologies might involve third parties.
+
+The policy also talks about user preferences affecting content display, like favorite hotels or destinations. This is First Party Use again because it's the user's interests being used for tailored experiences.
+
+They mention cookies being used to improve site performance and remember users' preferences, which ties into User Choice/Control as users can manage their cookie settings elsewhere.
+
+Speaking of control, there are sections about editing and deleting account info, so that's definitely covered under User Access, Edit, and Deletion.
+
+Cookies also help with targeting ads based on user behavior. Since NOTMC is part of a larger ad network, this falls under Third Party Sharing/Collection.
+
+The policy outlines what third-party tracking technologies they use, which again points to Third Party Sharing/Collection.
+
+They mention compliance with laws and reasonable security measures but don't provide specifics, so that's more about Data Security rather than something directly covered in the policy.
+
+Regarding cookies, they explain their use clearly without delving into details on user consent, so maybe it doesn't cover Do Not Track mechanisms. Also, there's no section explicitly stating a "Do Not Track" preference handling.
+
+They don't offer an opt-out for data collection methods except through the Contact Us page, which isn't part of standard do-not-track mechanisms.
+
+They specifically address California residents' rights, including accessing shared info and deleting it, so that's covered under User Choice/Control with California-specific provisions.
+
+Lastly, they confirm NOTMC does not target children under 13, so International policy applies here. They also provide a method for parents/guardians to delete such data, which supports international compliance by addressing specific user concerns.
+
+Putting this all together, each attribute is either true or false based on the presence in the policy.
+</think>
+
+The expected output matches the analysis of the provided privacy policy:
+
+- **Data Collection**: true  
+  NOTMC collects personal information from users, including names, addresses, phone numbers, email addresses, and payment information.
+
+- **First Party Collection/Use**: true  
+  The company collects data directly from its users for marketing purposes, such as newsletters and special offers.
+
+- **Third Party Sharing/Collection**: true  
+  The policy mentions the use of cookies and third-party technologies like pixel tags, web beacons, and clear GIFs to track user behavior across different platforms.
+
+- **User Choice/Control**: true  
+  Users can manage their preferences by editing or deleting account information as outlined in the policy.
+
+- **User Access, Edit and Deletion**: true  
+  The policy allows users to access, edit, and delete certain parts of their account information when they provide notice through specific channels.
+
+- **Data Security**: true  
+  NOTMC uses cookies and other technologies for tracking but emphasizes reasonable security measures. However, explicit details on data security beyond that are not provided.
+
+- **International and Specific Audiences**: true  
+  The policy addresses California residents' privacy rights and provides a method for parents/guardians to delete specific user data.
+
+- **Do Not Track**: false  
+  The policy does not explicitly mention handling Do Not Track preferences, though it includes international compliance provisions.
+
+Answer: Data: Answer, Other: true, Policy Change: true, First Party Collection/Use: true, Data Retention: false, International and Specific Audiences: true, Third Party Sharing/Collection: true, User Choice/Control: true, User Access, Edit and Deletion: true, Data Security: true, Do Not Track: false

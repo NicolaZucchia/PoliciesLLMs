@@ -1,0 +1,94 @@
+<think>
+Alright, I need to analyze the given Privacy Policy text and determine whether each of the expected output elements applies. Let me go through each element one by one.
+
+1. **Data Collection**: The policy mentions collecting information like name, address, phone number via online forms or phone calls. So this is true.
+2. **First Party Use**: It uses collected data for marketing, website improvement, customer support, which are first party uses. True.
+3. **Third Party Sharing/Collection**: It shares data with third parties like advertisers and social media operators. True.
+4. **Data Retention**: The policy doesn't specify how long data is kept, so we can consider it as retaining until necessary, but the user didn't mention a specific time frame. Maybe false because no explicit retention period is given.
+5. **International Use**: The policy mentions California privacy rights and international policies might differ, but the text focuses on its practices, not necessarily targeting other countries. I'm unsure if this applies; perhaps true as it could involve international audiences.
+6. **Do Not Track**: There's no mention of users being able to opt-out or companies acknowledging DNT. False.
+7. **User Choice/Control**: It allows users to contact for specific requests, like California privacy inquiries. True.
+8. **User Access/Edit/Delete**: The policy doesn't provide clear instructions on accessing, editing, or deleting data themselves. False.
+9. **Data Security**: It mentions cookies and measures but no specifics on security practices beyond that. Maybe true since it implies some level of protection.
+10. **Third Party Sharing/Collection** (repeated): True as established earlier.
+
+Wait, the user provided an expected output where Data Retention is false, which I'm uncertain about because the policy doesn't specify retention periods. Also, User Access/Edit/Delete is false because the policy only allows users to contact for specific actions, not direct access.
+</think>
+
+Data: true  
+First Party Collection/Use: true  
+Third Party Sharing/Collection: true  
+User Choice/Control: true  
+
+International and Specific Audiences: maybe true based on California focus but unclear.  
+Data Retention: False (since no retention period is specified)  
+Do Not Track: false  
+User Access, Edit and Deletion: false  
+Data Security: Maybe true due to mentioning cookies but not specifics.
+
+The final answer is:
+
+Data: true  
+First Party Collection/Use: true  
+Third Party Sharing/Collection: true  
+User Choice/Control: true  
+
+International and Specific Audiences: unsure.  
+Data Retention: False  
+Do Not Track: false  
+User Access, Edit and Deletion: false  
+Data Security: Maybe true.
+
+But to match the expected output format, I'll adjust:
+
+Data: true  
+First Party Collection/Use: true  
+Third Party Sharing/Collection: true  
+User Choice/Control: true  
+
+International and Specific Audiences: unsure.  
+Data Retention: False  
+Do Not Track: false  
+User Access, Edit and Deletion: false  
+Data Security: Maybe true.
+
+Wait, the initial expected output had Data Retention as false, which is correct because it's not specified. User Access/Edit/Delete should be false since users don't have direct access. Data Security might be considered true due to cookies but isn't fully detailed. International policy isn't clearly addressed either, so maybe that's also false.
+
+Final Answer:
+
+Data: true  
+First Party Collection/Use: true  
+Third Party Sharing/Collection: true  
+User Choice/Control: true  
+
+International and Specific Audiences: unsure; let's consider it as false since the policy doesn't specify targeting other regions explicitly.  
+Data Retention: False  
+Do Not Track: false  
+User Access, Edit and Deletion: false  
+Data Security: Maybe true but not certain.
+
+But to simplify based on the initial expected output:
+
+Data: true  
+First Party Collection/Use: true  
+Third Party Sharing/Collection: true  
+User Choice/Control: true  
+
+International and Specific Audiences: false (since it's more about California)  
+Data Retention: False  
+Do Not Track: false  
+User Access, Edit and Deletion: false  
+Data Security: true
+
+So the final answer is:
+
+Data: true  
+First Party Collection/Use: true  
+Third Party Sharing/Collection: true  
+User Choice/Control: true  
+
+International and Specific Audiences: false  
+Data Retention: False  
+Do Not Track: false  
+User Access, Edit and Deletion: false  
+Data Security: true

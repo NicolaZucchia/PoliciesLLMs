@@ -1,0 +1,58 @@
+<think>
+Okay, I need to analyze the provided privacy policy text and determine whether each of the expected elements is "true" or "false." Let me go through each category one by one.
+
+First Party Collection/Use: The policy mentions that they collect data through their website and online services. They use this data for marketing purposes, which involves their own operations (first-party). So this should be true.
+
+Data Retention: I don't see any mention of how long they keep the collected data or if it's ever deleted. This information is missing, so it's false.
+
+International and Specific Audiences: The policy does talk about California privacy rights, which indicates a focus on specific audiences in that region. So this should be true.
+
+Third Party Sharing/Collection: They do mention sharing personal information with third-party advertising partners. Therefore, this is true.
+
+User Choice/Control: There's no indication that users have the ability to control or opt out of data collection beyond the California section. So this is false.
+
+User Access, Edit and Deletion: Similarly, they don't provide any mechanisms for users to access, edit, or delete their personal information. This is also false.
+
+Do Not Track: The policy doesn't mention anything about a do not track mechanism, so it's false.
+
+Data Security: They mention cookies and some security measures, but the text isn't detailed enough on actual security practices beyond that. So this remains false.
+
+Putting it all together, I'll mark each point based on whether the information is present or can be inferred from the policy.
+</think>
+
+The analysis of the provided privacy policy reveals the following:
+
+- **First Party Collection/Use**: True  
+  The policy states that NOTMC collects data through its website and uses this for marketing, indicating first-party use.
+
+- **Data Retention**: False  
+  There is no information about how long personal data is retained or deleted.
+
+- **International and Specific Audiences**: True  
+  References to California privacy rights suggest a focus on specific audiences in that region.
+
+- **Third Party Sharing/Collection**: True  
+  The policy mentions sharing with third-party advertising partners, indicating external collection.
+
+- **User Choice/Control**: False  
+  No opt-out mechanisms or control options are provided for users.
+
+- **User Access, Edit and Deletion**: False  
+  There's no indication of access, editing, or deletion capabilities for user data.
+
+- **Do Not Track**: False  
+  The policy does not reference a do not-track feature.
+
+Final Answer:
+
+Data: True  
+Other: False  
+Policy Change: False  
+First Party Collection/Use: True  
+Data Retention: False  
+International and Specific Audiences: True  
+Third Party Sharing/Collection: True  
+User Choice/Control: False  
+User Access, Edit and Deletion: False  
+Data Security: False  
+Do Not Track: False

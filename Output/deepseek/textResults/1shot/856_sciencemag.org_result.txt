@@ -1,0 +1,40 @@
+<think>
+Okay, I need to analyze this Privacy Policy text and determine the values of Data Collection, Policy Change, First Party Collection/Use, etc. Let's go through each metric one by one.
+
+Starting with **Data**: The policy mentions collecting personal information like names, addresses, phone numbers, emails, charges, and payment details. So yes, Data is collected.
+
+Next, **Policy Change**: It does talk about making changes to the policy, so Policy Change should be true.
+
+For **First Party Collection/Use**, it clearly states they collect info from visitors for marketing and services, so that's a yes.
+
+**Data Retention** refers to how long data is kept. The policy doesn't specify an exact retention period beyond what's necessary, so I'll say false unless more info is given.
+
+**International and Specific Audiences**: They address residents of Louisiana and have a California privacy notice, so this applies, making it true.
+
+**Third Party Sharing/Collection**: Yes, they share data with ad networks and partners for targeting ads. So that's true.
+
+**User Choice/Control**: The policy allows users to opt out via the Contact Us email, which is user control. So yes.
+
+**User Access, Edit and Deletion**: It mentions cookies and user preferences for some settings but doesn't provide a way to edit or delete data directly from the site; so maybe false unless it's implied they can manage their own data elsewhere.
+
+Wait, actually, the policy says users can contact to request information shared with third parties. That might imply some control over access, but not necessarily editing or deletion of data itself. So perhaps User Access is true, but edit and delete may be false.
+
+**Data Security**: The policy does mention measures to secure data but doesn't specify technical details like encryption, so maybe it's a bit ambiguous. I'll say false unless more info is given.
+
+Lastly, **Do Not Track**: The policy talks about cookies used by their own services but mentions third-party ad servers that track user behavior. However, they don't have a "do not track" mechanism themselves, so Do Not Track should be false.
+</think>
+
+Based on the analysis of each metric in the provided Privacy Policy:
+
+- **Data**: True
+- **Policy Change**: True
+- **First Party Collection/Use**: True
+- **Data Retention**: False (No specific retention period mentioned)
+- **International and Specific Audiences**: True
+- **Third Party Sharing/Collection**: True
+- **User Choice/Control**: True
+- **User Access, Edit and Deletion**: Partially true but depends on interpretation; perhaps only access control is confirmed.
+- **Data Security**: False (No specific security measures mentioned)
+- **Do Not Track**: False
+
+Note: For **User Access, Edit, and Deletion**, the policy allows users to opt out via Contact Us, which may imply user choice but not direct editing or deletion capability.

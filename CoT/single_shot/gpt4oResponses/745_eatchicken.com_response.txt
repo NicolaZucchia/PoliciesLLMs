@@ -1,0 +1,19 @@
+**Other: Neutral** - The policy provides basic information about data collection practices without any strong positive or negative implications.
+
+**Policy Change: Neutral** - The disclaimer mentions that the information is provided "as is" and does not indicate any specific policy changes, leaving it neutral.
+
+**First Party Collection/Use: Positive** - The text states that cookies are not used to collect personal information, which is a user-friendly practice that respects user privacy.
+
+**Data Retention: Neutral** - The policy does not explicitly discuss data retention practices, leading to a neutral sentiment.
+
+**International and Specific Audiences: Neutral** - There is no mention of international audiences or specific considerations, resulting in a neutral sentiment.
+
+**Third Party Sharing/Collection: Negative** - The disclaimer states that NCC is not responsible for the content of other sites, which may imply a lack of control over third-party data practices, presenting a risk to users.
+
+**User Choice/Control: Positive** - The policy indicates that cookies are used for convenience and not for unrelated purposes, suggesting a level of user control over their data.
+
+**User Access, Edit and Deletion: Neutral** - There is no mention of user access, editing, or deletion rights, leading to a neutral sentiment.
+
+**Data Security: Neutral** - The policy does not provide specific information about data security measures, resulting in a neutral sentiment.
+
+**Do Not Track: Neutral** - There is no mention of Do Not Track features or policies, leading to a neutral sentiment.

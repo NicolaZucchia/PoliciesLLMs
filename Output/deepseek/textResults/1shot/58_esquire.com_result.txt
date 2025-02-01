@@ -1,0 +1,36 @@
+<think>
+Okay, I need to analyze the provided privacy policy text and determine which of the expected output categories apply. The user has given specific points they want evaluated: Data Collection, Policy Change, First Party Collection/Use, etc.
+
+First, let's go through each point in the Privacy Policy:
+
+1. **Data**: They collect information like names, addresses, phone numbers via online forms and social media links.
+2. **Policy Change**: The policy is not changing; it's a static document explaining current practices.
+3. **First Party Collection/Use**: They do collect personal info themselves through forms and websites (first party).
+4. **Data Retention**: The policy doesn't specify retention periods, so I'll say false for now.
+5. **International and Specific Audiences**: Targeting New Orleans residents; no global scope yet.
+6. **Third Party Sharing/Collection**: They share data with third-party vendors for marketing purposes.
+7. **User Choice/Control**: They offer ways to contact for inquiries but don't mention user opt-out options.
+8. **User Access, Edit and Deletion**: The policy doesn’t provide clear methods for users to access or delete their data.
+9. **Data Security**: They mention using cookies and some security measures, but it's not comprehensive enough.
+10. **Do Not Track**: No mention of tracking technologies like DTAs or DPCs.
+
+Based on this analysis, only the points that are definitely true (First Party Collection/Use, Third Party Sharing/Collection) apply. The rest either don't exist or aren't specified in the policy.
+</think>
+
+Answer:  
+Data: First Party Collection/Use is true.  
+Other: true.  
+Policy Change: false.  
+First Party Collection/Use: true.  
+Data Retention: false.  
+International and Specific Audiences: false.  
+Third Party Sharing/Collection: true.  
+User Choice/Control: false.  
+User Access, Edit and Deletion: false.  
+Data Security: false.  
+Do Not Track: false.  
+
+The expected output is:
+
+First Party Collection/Use: true  
+Third Party Sharing/Collection: true

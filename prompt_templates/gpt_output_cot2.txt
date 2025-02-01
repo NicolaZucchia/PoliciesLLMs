@@ -1,0 +1,8 @@
+Sentiment Analysis for Present Categories
+	1.	1st Party Collection: Positive – The policy specifies that data is collected to improve user experience and personalize services, with clear examples like email and additional optional information, indicating user-friendly practices.
+	2.	3rd Party Sharing: Negative – While third-party sharing is disclosed, it includes multiple external parties such as advertisers and analytics providers, which could increase risks for users despite assurances of contractual safeguards.
+	3.	User Choice/Control: Neutral – The policy provides mechanisms for users to opt out of cookies and marketing emails, but the process requires proactive action, which may not be entirely user-friendly.
+	4.	Data Security: Positive – The policy emphasizes the use of SSL encryption for transactions and secure servers, along with acknowledging the inherent risks of internet data transmission, reflecting a responsible approach to security.
+	5.	Access, Edit, Delete: Positive – Users are given clear rights to access, modify, or delete their data via their online account or by contacting support, showing respect for user control.
+	6.	Policy Change: Neutral – The policy mentions that changes will be published and, when necessary, consent will be obtained, but the lack of proactive notification for all changes could be a concern for users.
+	7.	Data Retention: Neutral – Retention periods are clearly defined (10 years for active data and 2 years for archival), but the extended retention for legal purposes might be excessive for some users’ comfort.

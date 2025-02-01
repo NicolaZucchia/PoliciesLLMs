@@ -1,0 +1,109 @@
+<think>
+Okay, so I need to figure out whether each of the 14 points in the given policy document corresponds to the expected output's data, other, policy change, first party collection/use, etc. The user has provided an expected output with four categories and their corresponding boolean values.
+
+First, I'll go through each point one by one and see how they fit into these categories.
+
+1. **The following are the terms of use for Not MC...**
+   - This is more like a general policy statement rather than specific data points. It doesn't directly address collection or usage beyond what's already detailed in other sections.
+   - So, it likely falls under "Other".
+
+2. **This English-language Privacy Policy is NOTMC's official statement of our privacy practices.**
+   - Again, this seems to be a general statement about the policy rather than specific data points.
+   - This would also fall under "Other".
+
+3. **NOTMC does not target children...**
+   - This pertains to age restrictions on information collection.
+   - This relates to "User Age Restrictions" which isn't directly listed in the expected output, but it's about what type of data is collected.
+
+4. **When a user discloses personal information on our Online Services, the user is representing to us that he or she is at least thirteen (13) years of age.**
+   - This sets an age threshold for information sharing.
+   - This could fall under "User Age Restrictions" but since it's not listed in the expected output categories, maybe it's part of "Other".
+
+5. **If you are the parent or guardian of a child under the age of thirteen (13), who you believe has provided NOTMC with personally identifiable information through our Online Services, please e-mail us at online@notmc.com so that we can delete the child's information from our records.**
+   - This gives parents an option to control their child's data.
+   - This relates to "User Choice/Control", but it's more specific than a general choice, so maybe it falls under "Other".
+
+6. **NOTMC and its agents use Cookies...**
+   - This is about the collection of information (cookies) for tracking and preference setting.
+   - This directly corresponds to "First Party Collection/Use".
+
+7. **Cookies are not themselves personally identifiable, but may be linked to Personal Information that you provide to us through your interaction with our Online Services.**
+   - Explains how cookies are used, which is part of "First Party Collection/Use".
+   - This supports the previous point.
+
+8. **NOTMC also uses Cookies...**
+   - Reiterates the use of cookies for tracking and advertising.
+   - Again, this falls under "First Party Collection/Use".
+
+9. **Web browsers allow some control of most Cookies. Please consult your particular Web browser's settings.**
+   - This is about user control over cookies but not directly about collection or usage data.
+   - It might be part of "User Access, Edit and Deletion", so maybe it falls under that.
+
+10. **NOTMC uses Cookies...**
+    - Further emphasis on cookies for improving online experience and tracking.
+    - Still relates to "First Party Collection/Use".
+
+11. **Cookies also enable us to track online purchases made through our Online Services.**
+    - This is about a specific use of cookies beyond just preference setting or advertising.
+    - So, it's another instance of "First Party Collection/Use".
+
+12. **NOTMC and its agents use Cookies...**
+    - Reiterates cookie usage but more specifically for tracking purchases.
+    - Again, part of "First Party Collection/Use".
+
+13. **Social Networking and Third Party Sites**
+    - This is about third-party interactions, so it relates to "Third Party Sharing/Collection".
+    - Since the policy mentions not being responsible for their practices, this makes sense.
+
+14. **NOTMC also uses Cookies...**
+    - Further confirmation of cookie usage.
+    - Part of "First Party Collection/Use".
+
+Now, looking at each category in the expected output:
+
+- **Data:** Any point that talks about data collection or storage would be marked as Data: true. From the analysis above, points 6,7,8,10,11, and 12 are about cookies, which collect data (cookies store user preferences). So "Data" should be true.
+
+- **Other:** Points like general statements in 1, 2, 5, etc., fall under Other: true.
+
+- **Policy Change:** Any points that talk about potential policy changes or updates. The document doesn't mention any future changes, so Policy Change is false.
+
+- **First Party Collection/Use:** Points where data is collected directly from the user and used by NOTMC themselves. That's 6,8,10,11,12: First Party: true.
+
+- **Data Retention:** Any points about how long data is stored. The document mentions nothing on retention periods, so Data Retention: false.
+
+- **User Age Restrictions:** Points that set an age threshold for information sharing (point 4). Since it's not in the expected output categories, maybe "Other" applies here instead of User Age.
+
+Wait, but looking back, I might have misclassified point 5 under "Other". It's more about a user's right to delete their child's data, which is a form of control. So perhaps points related to age are under "User Age Restrictions", but since that category isn't listed in the expected output, maybe it falls under "Other".
+
+Similarly, the policy doesn't mention anything about data retention beyond what's implied by using cookies and tracking, so Data Retention: false.
+
+Putting this together:
+
+Data: true (due to points 6-12 about cookies)
+
+Other: true (general statements and some control aspects)
+
+Policy Change: false
+
+First Party Collection/Use: true
+
+Data Retention: false
+</think>
+
+Based on the analysis of each point in the policy document, here is the evaluation against the expected output categories:
+
+- **Data:** True (Cookies are used for data collection)
+- **Other:** True (General statements and control aspects not directly tied to data points)
+- **Policy Change:** False (No mention of potential changes)
+- **First Party Collection/Use:** True (Cookies collected by NOTMC)
+- **Data Retention:** False (No information on retention periods)
+
+**Final Answer:**
+
+| Category   | Value |
+|------------|-------|
+| Data       | true  |
+| Other      | true  |
+| Policy Change | false |
+| First Party Collection/Use | true |
+| Data Retention | false |

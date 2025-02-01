@@ -1,0 +1,34 @@
+<think>
+Okay, so I need to figure out whether each of the specified aspects applies to NOTMC's privacy policy based on the provided text. Let me go through each point one by one.
+
+First, Data Collection: The policy mentions collecting personal information when users interact with the online services. So yes, data is being collected.
+
+Next, First Party Collection/Use: It talks about using the user's personal info for marketing and internal business purposes, which falls under first-party use.
+
+Data Retention: I don't see any mention of how long they keep the data or if they delete it. The policy doesn't specify retention periods, so this would be false as per the given expected output.
+
+International and Specific Audiences: They have a section about California privacy rights and handling international users, even though their target audience is New Orleans, so yes to this aspect.
+
+Third Party Sharing/Collection: They do share user data with third-party advertising partners, so this is true.
+
+User Choice/Control: The policy doesn't mention if users can change or delete their information. There's a section about requesting information but no indication of how to edit or delete it, so probably false here.
+
+User Access, Edit and Deletion: Again, without specific mechanisms mentioned for users to access, edit, or delete data, this would be false.
+
+Data Security: The policy mentions using cookies and measures to secure data transmission. So yes, they do take steps to protect user information.
+
+Do Not Track: There's no section that explicitly says NOTMC does not track user behavior, so this is probably false.
+
+Putting it all together, I match each aspect with the expected output.
+</think>
+
+Answer:  
+Data: true  
+First Party Collection/Use: true  
+Data Retention: false  
+International and Specific Audiences: true  
+Third Party Sharing/Collection: true  
+User Choice/Control: false  
+User Access, Edit and Deletion: false  
+Data Security: true  
+Do Not Track: false

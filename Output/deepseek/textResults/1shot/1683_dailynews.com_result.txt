@@ -1,0 +1,31 @@
+<think>
+Alright, let me try to break this down. I need to evaluate the given privacy policy based on a set of criteria provided in the "Expected Output." The Expected Output includes several categories like Data Collection, First Party Collection, Third Party Sharing, etc., and for each category, it's either marked as true or false.
+
+Starting with Data: Answer. It seems there might be a typo here, but I think they meant to list out different criteria. Moving on, the first part of the policy mentions that NOTMC collects information about visitors to its website through forms found in articles and pages, including names, addresses, email addresses, phone numbers, etc. So for Data Collection, it's definitely true.
+
+Next is First Party Collection/Use: The policy states they collect data from their own website users (first party) which includes all the mentioned information. They use this data to improve services, communicate, manage access control, and track user actions. So that's also true.
+
+Looking at Third Party Sharing/Collection: The policy mentions third-party cookies for advertising and analytics but doesn't specify if they share personal info with others outside of third parties. Since it says "do not target children," I think they don't collect personal information from minors, so no third-party data collection in this context—probably false.
+
+Data Retention: The policy says they keep the data until a user deems fit to stop using their services or account. They provide options for users to delete data by contacting them. So retention is true because they retain data but offer ways to access and delete it, which might also touch into User Access/Edit/Delete.
+
+International and Specific Audiences: The policy doesn't mention targeting specific audiences outside the US, so this should be false.
+
+Third Party Sharing/Collection: Wait, I think I got that part wrong earlier. They do use third-party cookies for ads, which implies they collect information from other sources (third parties). So actually, this is true because they share data with third-party ad servers.
+
+User Choice/Control: The policy allows users to access and delete their personal information by contacting them via email or phone, so user control exists—true.
+
+User Access, Edit, and Deletion: Since users can contact the company to get their info or delete it, this is true because they have some control over their data through limited means.
+
+Data Security: The policy mentions measures like cookies for security but doesn't explicitly state strong security practices. So I'm leaning towards false here since there's no mention of encryption or other strong security methods.
+
+Do Not Track: The policy talks about browser cookie management but doesn't specifically address a "do not track" mechanism, so this is false.
+</think>
+
+Data Collection: true  
+First Party Collection/Use: true  
+Third Party Sharing/Collection: true  
+User Choice/Control: true  
+User Access, Edit and Deletion: true  
+Data Security: false  
+Do Not Track: false

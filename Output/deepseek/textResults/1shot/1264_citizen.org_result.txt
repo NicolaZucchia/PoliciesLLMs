@@ -1,0 +1,67 @@
+<think>
+Alright, so I have to figure out whether each of the 14 specified aspects applies to this privacy policy. Let's go through them one by one.
+
+1. **Data Collection**: The policy talks about collecting Personal Information like name, phone number, address via forms and sign-ups. So yes, Data Collection is true.
+
+2. **First Party Collection/Use**: It mentions using the collected data for marketing purposes without third parties initially, so that's a yes.
+
+3. **Third Party Sharing/Collection**: The policy does mention sharing with advertising partners and using cookies set by others, so this is definitely true.
+
+4. **Data Retention**: The policy states they keep information until deletion but doesn't specify how long, just "until you notify us." So I think Data Retention should be considered true as it involves storage.
+
+5. **International Audience**: The policy is in English and mentions California privacy rights and a contact address in New Orleans, so yes to international or specific audiences.
+
+6. **User Choice/Control**: There's no mention of users being able to opt-in/out or manage preferences, so this would be false.
+
+7. **Do Not Track**: The policy doesn't reference cookies for tracking user activity in terms of blocking ads, so Do Not Track is false.
+
+8. **Data Security**: They do mention measures to secure information but don't specify technical security details like encryption, so I'm not sure on this one—maybe true as they do have some safeguards.
+
+9. **User Access/Edit/Deletion**: The policy doesn’t provide info on how users can access or change their data, so this is false.
+
+10. **Cookies Use**: Yes, it talks about cookies for tracking and preferences but no details on functionality beyond that.
+
+11. **Privacy Rights (California)**: Yes, there's a section about California rights to inspect marketing data.
+
+12. **Children’s Privacy**: It states they don’t target children under 13 and require users over 13 to provide info, so this is true.
+
+13. **Third Party Websites/Links**: When linking to other sites through social media or links on their site, third parties are involved. So yes.
+
+14. **Social Media and Third Parties**: Yes, because they link externally, which implies using third party services with similar privacy practices.
+
+Wait, but for some aspects like User Choice and Data Security, I'm less certain since details aren't provided in the policy.
+</think>
+
+Based on the analysis of each aspect against the provided privacy policy:
+
+1. **Data Collection**: true
+2. **First Party Collection/Use**: true
+3. **Third Party Sharing/Collection**: true
+4. **Data Retention**: true
+5. **International and Specific Audiences**: true
+6. **User Choice/Control**: false
+7. **Do Not Track**: false
+8. **Data Security**: true (as they do have measures in place)
+9. **User Access/Edit/Deletion**: false
+10. **Cookies Use**: true
+11. **Privacy Rights (California)**: true
+12. **Children’s Privacy**: true
+13. **Third Party Websites/Links**: true
+14. **Social Media and Third Parties**: true
+
+Answering each aspect accordingly, the final assessment is:
+
+Data Collection: true  
+First Party Collection/Use: true  
+Third Party Sharing/Collection: true  
+Data Retention: true  
+International and Specific Audiences: true  
+User Choice/Control: false  
+Do Not Track: false  
+Data Security: true  
+User Access/Edit/Deletion: false  
+Cookies Use: true  
+Privacy Rights (California): true  
+Children’s Privacy: true  
+Third Party Websites/Links: true  
+Social Media and Third Parties: true

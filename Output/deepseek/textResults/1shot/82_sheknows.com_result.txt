@@ -1,0 +1,48 @@
+<think>
+Okay, I need to analyze the given text to determine which attributes of a privacy policy they correspond to. The task is to check each attribute (Data, Expected Output, Policy Change, First Party Collection/Use, Data Retention, International and Specific Audiences, Third Party Sharing/Collection, User Choice/Control, User Access, Edit and Deletion, Data Security, Do Not Track) against the text provided.
+
+First, I'll go through each attribute one by one. 
+
+1. **Data**: This refers to the collection of personal information. The text mentions "Personal Information" being collected, so this is true.
+2. **Expected Output**: This seems a bit vague in the context given, but since it's marked as expected and there are no conflicting points, I'll assume it's true unless specified otherwise.
+3. **Policy Change**: The text doesn't mention any changes to the policy; all information provided is from the current version. So this should be false.
+4. **First Party Collection/Use**: This involves using data from your own company. The text talks about NOTMC collecting and using personal info, so first-party usage happens here. It's true.
+5. **Data Retention**: The text doesn't specify how long personal information is kept. Without such details, I'll assume it might be false unless it says otherwise, which it doesn't.
+6. **International and Specific Audiences**: The text mentions California privacy rights but doesn’t cover international aspects. So this could be true for California users only; if the policy applies internationally elsewhere, maybe not. But since there's no info on international application beyond what's mentioned, I'll tentatively say false unless specified.
+7. **Third Party Sharing/Collection**: The text talks about sharing data with advertising partners and third-party services, so this is true.
+8. **User Choice/Control**: The text doesn't explicitly mention users having control over their information, like opting out or managing cookies. So it's likely false.
+9. **User Access, Edit and Deletion**: Again, the text mentions contacting to delete a child’s data but nothing about general access, edit, or deletion options beyond that specific case. So this is probably false unless there's more info.
+10. **Data Security**: The text states that measures are in place for security but doesn't specify if they're 100% secure, so it might be true as a policy point even without full certainty.
+11. **Do Not Track**: The text doesn’t mention any tracking mechanisms or do-not-track policies, so this is false.
+
+Wait, I might have jumped the gun on some points. For example, "Data Retention" could imply that there's information about how long data is stored, which isn't in the provided text. Similarly, without specific info on user choices beyond deletion for children, it's safer to say those are false unless explicitly mentioned.
+
+Also, "International and Specific Audiences" might still be true if the policy applies specifically to California users, as per the California Privacy Rights section.
+</think>
+
+Based on the analysis:
+
+- Data: True
+- Expected Output: True (Assumed)
+- Policy Change: False
+- First Party Collection/Use: True
+- Data Retention: False
+- International and Specific Audiences: True (for California-specific users)
+- Third Party Sharing/Collection: True
+- User Choice/Control: False
+- User Access, Edit and Deletion: False
+- Data Security: True
+- Do Not Track: False
+
+Answer:
+Data: true  
+Expected Output: true  
+Policy Change: false  
+First Party Collection/Use: true  
+Data Retention: false  
+International and Specific Audiences: true  
+Third Party Sharing/Collection: true  
+User Choice/Control: false  
+User Access, Edit and Deletion: false  
+Data Security: true  
+Do Not Track: false

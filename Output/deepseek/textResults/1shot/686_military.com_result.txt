@@ -1,0 +1,41 @@
+<think>
+Alright, so I need to analyze the given privacy policy to determine which of the specified attributes are addressed. Let's go through each part step by step.
+
+First, the policy mentions that NOTMC uses cookies to improve online experiences and track user actions. That points towards Data Retention being true since cookies are stored on users' devices. However, it doesn't specify how long these cookies retain data, so I'm unsure if this directly addresses data retention in general or specifically refers to cookies.
+
+Next, the policy talks about collecting personal information through its online services and using that info for marketing purposes. This seems to relate to First Party Collection/Use but might not cover all aspects of user choice or control over their data.
+
+The section on children's privacy indicates that NOTMC doesn't target under-13s and provides a way for parents to delete information, which touches on User Access, Edit, and Deletion. It also mentions cookies for personalization, which relates to Data Security.
+
+I don't see any mention of third parties or data sharing beyond the use of ad servers; so Third Party Sharing/Collection isn't explicitly addressed here. There's no clear indication about user choice over data collection, so User Choice/Control might not be fully covered.
+
+Do Not Track is a feature that would typically mean the company respects users' opt-out requests, but since it's not mentioned, I'll mark it as false.
+
+Putting it all together, some aspects like Data Security and User Access are addressed through cookies, while others like Third Party Sharing or User Choice aren't explicitly covered in this policy.
+</think>
+
+The analysis concludes that certain privacy policy attributes are addressed based on the given text:
+
+- **Data Retention**: Partially addressed with reference to cookies but without specifics on retention duration.
+- **Third Party Sharing/Collection**: Not mentioned, so false.
+- **User Choice/Control**: No explicit mention, so false.
+- **User Access, Edit and Deletion**: Covered through cookie management, true.
+- **Data Security**: Enhanced via cookies for tracking, true.
+
+Other attributes like First Party Collection/Use are implied but not detailed. Do Not Track isn't addressed either.
+
+**Answer:**
+
+- Data: Answer
+- Other: true
+- Policy Change: true
+- First Party Collection/Use: true
+- Data Retention: false (partially due to cookies without retention specifics)
+- International and Specific Audiences: not explicitly mentioned, but contextually possible.
+- Third Party Sharing/Collection: false
+- User Choice/Control: false
+- User Access, Edit and Deletion: true
+- Data Security: true
+- Do Not Track: false
+
+Note: While data security is addressed through cookies, the extent of data retention isn't detailed. International aspects aren't explicitly covered either.

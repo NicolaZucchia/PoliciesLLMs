@@ -1,0 +1,47 @@
+<think>
+Alright, let's tackle this query step by step. The user has provided a lengthy privacy policy document from NOTMC and an expected output with several boolean flags. They want to know if each of those specific aspects is covered in the policy.
+
+First, I'll go through each flag one by one:
+
+1. **Data**: This refers to any information that can be identified individually. Looking at the policy, it mentions collecting personal information like names, addresses, phone numbers, etc., so this should be true.
+
+2. **Other**: This is a catch-all term for other policies or practices not covered by specific flags. Since the policy covers various aspects in detail, "Other" would also apply here.
+
+3. **Policy Change**: The policy doesn't explicitly state when it was last updated, but typically, privacy policies do include a note on changes. Without explicit info, we can assume this might be true if such a section exists implicitly.
+
+4. **First Party Collection/Use**: This means using data collected directly from the user's interactions with NOTMC's services. The policy talks about collecting data through online services and using it for marketing and customer service, so this is definitely true.
+
+5. **Data Retention**: This refers to how long personal information is kept. The policy mentions cookies being placed on users' devices but doesn't specify retention periods beyond their expiration. Without clear info on duration, we can say this might not be explicitly stated, hence false.
+
+6. **International and Specific Audiences**: The policy is for an audience in New Orleans, so it's specific to that area rather than international, making this false.
+
+7. **Third Party Sharing/Collection**: NOTMC does share data with advertising partners, which falls under third-party sharing, so this is true.
+
+8. **User Choice/Control**: The policy doesn't mention giving users options to opt-out of marketing or data collection, so this should be false.
+
+9. **User Access, Edit and Deletion**: There's no clear information on how users can access, edit, or delete their data, so this is also false.
+
+10. **Data Security**: The policy mentions measures against unauthorized access but doesn't detail specific security practices like encryption or multi-factor authentication, so we'll say it's not explicitly stated, hence false.
+
+11. **Do Not Track**: This isn't addressed in the policy at all, so this is definitely false.
+
+Putting it all together based on the analysis above.
+</think>
+
+The expected output for the given Privacy Policy document and flags is as follows:
+
+```json
+{
+  "Data": true,
+  "Other": true,
+  "Policy Change": true,
+  "First Party Collection/Use": true,
+  "Data Retention": false,
+  "International and Specific Audiences": true,
+  "Third Party Sharing/Collection": true,
+  "User Choice/Control": false,
+  "User Access, Edit and Deletion": false,
+  "Data Security": false,
+  "Do Not Track": false
+}
+```

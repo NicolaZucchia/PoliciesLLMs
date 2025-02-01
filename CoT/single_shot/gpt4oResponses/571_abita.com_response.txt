@@ -1,0 +1,15 @@
+**Other: Positive** - The policy outlines a commitment to privacy and security, which is reassuring for users.
+
+**First Party Collection/Use: Positive** - The policy clearly states the types of personal information collected and the purposes for which it is used, indicating transparency.
+
+**Data Retention: Neutral** - While the policy mentions the collection of personal information, it does not specify how long this information is retained, leaving some ambiguity.
+
+**Third Party Sharing/Collection: Positive** - The policy states that personal information will not be shared outside of Abita and its controlled subsidiaries without permission, which is a user-friendly practice.
+
+**User Choice/Control: Positive** - The policy provides clear instructions for users to unsubscribe from emails and manage their personal information, indicating a user-friendly approach.
+
+**User Access, Edit and Deletion: Positive** - The policy allows users to request access to or correction of their personal information, which is a positive aspect for user control.
+
+**Data Security: Positive** - The policy describes various security measures in place to protect personal information, which is reassuring for users.
+
+**Do Not Track: Neutral** - The policy does not address Do Not Track signals, leaving users without clear guidance on this matter.

@@ -1,0 +1,19 @@
+<think>
+Okay, so I need to figure out whether Google's privacy policy says that personal data are collected. Let me go through the provided privacy policy step by step.
+
+First, looking at the introduction, it talks about how this document explains their product practices and outlines general principles. It also mentions that any changes will be posted for review.
+
+In section 2, titled "What We Collect," it explicitly states that Google collects personal data to better understand usage of their services. This includes information about users' activities on Google's platforms. So yes, they do collect personal data.
+
+Then, in the section about third-party sharing (section 5), it mentions that some of Google's services may share aggregated, non-personally identifiable information with partners. However, this doesn't replace the collection of personal data; it just adds another layer of data sharing.
+
+Looking at user choice and control sections (section 12), it says users can manage their privacy settings through two-step verification or Safe Browsing in Chrome, which indicates that Google allows some level of control over their data collection preferences.
+
+In terms of access, edit, and deletion, section 9 mentions that Google restricts access to personal information to employees who need it for processing, so there's limited access. Section 10 covers data retention periods, meaning they keep data as long as necessary for its use but don't retain it beyond that unless required by law.
+
+The policy also touches on security measures like encryption (section 8) and physical security protocols, which are standard practices to protect user data.
+
+Since the privacy policy clearly states that Google collects personal data for services offered, even though they might share some information third-party or aggregate non-personal data, it does affirm that personal data is collected.
+</think>
+
+Data: Yes

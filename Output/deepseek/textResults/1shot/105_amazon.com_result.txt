@@ -1,0 +1,37 @@
+<think>
+Okay, I need to analyze the provided policy document and determine whether each of the expected outputs is correct. Let me go through each section step by step.
+
+First, looking at "Data: Answer" – this seems like a placeholder and might not be part of the actual analysis.
+
+Moving on to "Policy Change" in the output, it's set to true. Since the document doesn't mention any changes or updates to the privacy policy, I think that should be false because there’s no indication of an ongoing change.
+
+Next is "First Party Collection/Use". The document talks about collecting personal information and using it for marketing and customer interactions, so this should be true.
+
+For "Data Retention", it says NOTMC has policies on storing data but doesn't specify retaining it indefinitely. However, since the policy exists, I think it's safe to assume retention is handled, so maybe true? Or perhaps false because retention periods might vary. Hmm, unsure here, need more info.
+
+"International and Specific Audiences" mentions California privacy rights, so this should be true as they do cater to specific audiences in certain regions.
+
+Regarding "Third Party Sharing/Collection", the document states that NOTMC uses third-party cookies and services, which means they share data, so this is true.
+
+User Choice/Control: The policy allows users to manage their preferences but doesn't mention explicit choices like opting out. So maybe false because it's more about managing existing features rather than making deliberate choices.
+
+"User Access, Edit and Deletion": There’s a section about requesting information for marketing purposes, which implies deletion is possible, so true.
+
+Data Security: The document mentions efforts to secure data but doesn't explicitly state security measures are effective. So maybe false because it's vague on specifics.
+
+Do Not Track: Since there's no mention of do not track mechanisms or tracking technologies, this should be false.
+
+After considering each point again, I think some adjustments might be needed based on clarity and explicitness in the policy document.
+</think>
+
+The analysis concludes that:
+
+- Policy Change: False (No change mentioned)
+- First Party Collection/Use: True (Collects personal info for marketing)
+- Data Retention: False (Policy exists but retention specifics unknown)
+- International and Specific Audiences: True (Addresses California users)
+- Third Party Sharing/Collection: True (Uses third-party services and cookies)
+- User Choice/Control: False (No explicit user choices mentioned)
+- User Access, Edit and Deletion: True (Provides deletion options for marketing info)
+- Data Security: False (No explicit security measures mentioned)
+- Do Not Track: False (No do not track mechanisms mentioned)

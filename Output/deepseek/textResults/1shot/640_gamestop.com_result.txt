@@ -1,0 +1,66 @@
+<think>
+Okay, so I need to figure out how to answer this question based on the provided privacy policy. The user has given me a list of criteria that should be evaluated against the policy text, which is in English. My task is to determine if each of these 12 criteria applies to the policy.
+
+First, let's go through each criterion one by one and see if they're addressed in the policy:
+
+1. **Data**: The policy mentions "Personal Information" being collected.
+   - Expected Output: Data is true because it refers to personal data like names, addresses, etc.
+
+2. **Other**: This seems a bit vague, but looking at the context, maybe it's about other aspects not directly covered. Since the policy mainly talks about specific practices, I think this might be referring to areas not applicable here.
+   - Expected Output: Other is true as there are no direct mentions that would imply something else applies.
+
+3. **Policy Change**: The policy doesn't mention anything about changes or updates needing consent.
+   - Expected Output: Policy Change is false because it doesn't talk about modifying policies.
+
+4. **First Party Collection/Use**: The policy says they collect info and use it for operations, marketing, etc.
+   - First Party is definitely true since it's about using their own data.
+
+5. **Data Retention**: There's no mention of how long personal information is kept.
+   - Data Retention is false as there’s no info on retention periods.
+
+6. **International and Specific Audiences**: The policy doesn't target any specific regions except maybe California for privacy rights, but it also states NOTMC doesn't target under 13s globally.
+   - International is true because the company likely serves international audiences based on the contact information in New Orleans (which isn't exclusive to the US).
+   - Specific Audiences: Since there's no targeting of specific groups beyond age and privacy rights, this might be false.
+
+7. **Third Party Sharing/Collection**: The policy does talk about sharing data with third parties like ad servers.
+   - Third Party is true because they do share data with others.
+
+8. **User Choice/Control**: There’s a mention of users receiving information from third parties for marketing, but no direct control options are provided in the policy.
+   - User Choice might be false since it doesn’t specify if users can opt out or have more control.
+
+9. **User Access, Edit and Deletion**: The policy does provide contact info to request data access or corrections.
+   - User Control is true because they can contact for deletions and other actions.
+
+10. **Data Security**: The policy mentions secure systems but doesn’t specify encryption or measures beyond that.
+    - Data Security might be false as it only states a general approach, not specific security methods like encryption.
+
+11. **Do Not Track**: There’s no mention of tracking users or refusing ads based on tracking.
+    - Do Not Track is false since the policy doesn't address tracking technologies.
+
+Putting this all together, I'll map each criterion to true or false based on my analysis.
+</think>
+
+Data: true  
+Other: true  
+Policy Change: false  
+First Party Collection/Use: true  
+Data Retention: false  
+International and Specific Audiences: true (for International) / false (specific audiences as per policy)  
+Third Party Sharing/Collection: true  
+User Choice/Control: false  
+User Access, Edit and Deletion: true  
+Data Security: false  
+Do Not Track: false  
+
+Final Answer:
+Data: true
+Other: true
+Policy Change: false
+First Party Collection/Use: true
+Data Retention: false
+International and Specific Audiences: true (International) / No specific audiences mentioned beyond general policies.
+Third Party Sharing/Collection: true
+User Choice/Control: false
+User Access, Edit and Deletion: true
+Data Security: false
+Do Not Track: false

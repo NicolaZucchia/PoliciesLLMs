@@ -1,0 +1,19 @@
+**Other: Neutral** - The policy provides general information about data collection and usage without expressing a clear positive or negative sentiment towards user practices.
+
+**Policy Change: Neutral** - The section mentions the right to amend the policy and encourages users to check for updates, which is standard practice but does not convey a strong sentiment.
+
+**First Party Collection/Use: Positive** - The text outlines the various ways BWW collects and uses personal information, emphasizing user consent and the purpose of enhancing user experience, which reflects a user-friendly approach.
+
+**Data Retention: Neutral** - The policy states that some residual information may be retained after deletion requests, which is a common practice but does not indicate a strong positive or negative sentiment.
+
+**International and Specific Audiences: Neutral** - The policy does not specifically address international users or audiences, leading to a neutral sentiment regarding inclusivity.
+
+**Third Party Sharing/Collection: Neutral** - The policy explains that information may be shared with third parties for specific purposes but also provides opt-out options, resulting in a neutral sentiment.
+
+**User Choice/Control: Positive** - The policy offers users the ability to opt-out of communications and manage their information, indicating a user-friendly approach that empowers users.
+
+**User Access, Edit and Deletion: Positive** - The text mentions that users can request deletion of their personal information, which is a positive aspect of user control over their data.
+
+**Data Security: Positive** - The policy describes the use of encryption and secure practices for handling personal information, indicating a strong commitment to user data security.
+
+**Do Not Track: Neutral** - The policy does not explicitly mention a Do Not Track policy, leading to a neutral sentiment regarding user tracking preferences.

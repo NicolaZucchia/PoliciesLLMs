@@ -1,0 +1,19 @@
+**Other: Neutral - The policy provides general information about privacy practices without expressing a strong positive or negative sentiment.**
+
+**Policy Change: Neutral - The policy states that changes may occur and encourages users to check periodically, which is standard practice but does not convey a strong sentiment.**
+
+**First Party Collection/Use: Positive - The policy clearly outlines the types of information collected and how it is used, emphasizing user consent and transparency.**
+
+**Data Retention: Neutral - The policy mentions that personally identifiable information may be maintained for a limited time but does not provide specific details, leading to a neutral sentiment.**
+
+**International and Specific Audiences: Neutral - The policy states that it does not knowingly collect information from children under 13, which is a standard compliance measure but does not express a strong sentiment.**
+
+**Third Party Sharing/Collection: Neutral - The policy explains that information may be shared with third parties for specific purposes but emphasizes that it will not be sold or rented, resulting in a neutral sentiment.**
+
+**User Choice/Control: Positive - The policy provides users with options to opt-out and control their information, indicating a user-friendly approach.**
+
+**User Access, Edit and Deletion: Positive - The policy allows users to access and correct their information, which is a positive practice for user empowerment.**
+
+**Data Security: Positive - The policy outlines measures taken to protect user data, indicating a commitment to security and user safety.**
+
+**Do Not Track: Neutral - The policy does not explicitly mention Do Not Track features, leading to a neutral sentiment regarding user tracking preferences.**

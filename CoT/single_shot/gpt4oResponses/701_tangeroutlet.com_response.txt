@@ -1,0 +1,17 @@
+Other: Positive - The policy emphasizes the commitment to confidentiality and the non-sharing of personal information, which is reassuring for users.
+
+First Party Collection/Use: Positive - The text clearly states that personal information is used solely by Tanger Outlets, indicating a responsible approach to data handling.
+
+Data Retention: Neutral - While the policy does not explicitly mention how long data is retained, it implies that data is kept until a user requests removal, which is a standard practice but lacks detail.
+
+International and Specific Audiences: Neutral - The policy does not address international users or specific audience considerations, leaving this aspect unclear.
+
+Third Party Sharing/Collection: Positive - The policy explicitly states that personal information is not sold, shared, or distributed to any third party, which is a strong positive for user trust.
+
+User Choice/Control: Positive - The inclusion of an unsubscribe option and a method to request data updates or removal indicates a user-friendly approach to user control over their information.
+
+User Access, Edit and Deletion: Negative - The policy does not mention user access to their data or the ability to edit it, which is a significant oversight in user rights.
+
+Data Security: Positive - The commitment to keeping personal information confidential suggests a focus on data security, which is reassuring for users.
+
+Do Not Track: Neutral - The policy does not address Do Not Track signals, leaving users without clarity on this aspect of privacy.

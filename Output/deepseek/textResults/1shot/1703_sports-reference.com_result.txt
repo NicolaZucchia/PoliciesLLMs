@@ -1,0 +1,33 @@
+<think>
+Alright, I need to analyze the given policy text to determine which of the expected outputs are correct. The user has provided a detailed privacy policy from NOTMC regarding their data collection, use, retention, third-party sharing, etc.
+
+First, I'll go through each line and identify if it relates to any of the expected categories: Data, Other, Policy Change, First Party Collection/Use, Data Retention, International and Specific Audiences, Third Party Sharing/Collection, User Choice/Control, User Access, Edit and Deletion, Data Security, Do Not Track.
+
+Looking at the policy:
+
+1. **Data Collection**: The policy mentions collecting personal information through online services. This would fall under First Party Collection.
+2. **User Interaction**: Users can choose not to receive marketing through opt-out links or by unsubscribing via email, which relates to User Choice/Control.
+3. **Cookies and Tracking**: Use of cookies for improving experience and tracking actions implies Data Security as they protect user data.
+
+Negative aspects like Do Not Track are mentioned, but it's unclear if the policy actively implements it, so I'll mark that as false.
+
+The policy also mentions third-party advertising, which means Third Party Sharing/Collection is true. There's no mention of international policies other than specifying English usage, so International and Specific Audiences could be considered true for language consistency across regions.
+
+Regarding data retention, the policy doesn't specify how long user information is kept beyond necessary, but it does say to notify upon request if compromised. So Data Retention: false unless they have a clear retention period mentioned elsewhere, which isn't in the provided text.
+
+For Third Party Sharing/Collection, yes, because of the third-party ads and cookies used by NOTMC.
+</think>
+
+Based on the analysis of the provided privacy policy:
+
+- **Data**: Yes
+- **Other**: Yes (e.g., California Privacy Rights)
+- **Policy Change**: Yes
+- **First Party Collection/Use**: Yes
+- **Data Retention**: No
+- **International and Specific Audiences**: Yes
+- **Third Party Sharing/Collection**: Yes
+- **User Choice/Control**: Yes
+- **User Access, Edit and Deletion**: Not explicitly mentioned in the policy.
+- **Data Security**: Yes (e.g., cookies for tracking but no specific security measures)
+- **Do Not Track**: No

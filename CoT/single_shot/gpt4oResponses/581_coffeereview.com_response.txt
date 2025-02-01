@@ -1,0 +1,17 @@
+**Other: Positive** - The policy emphasizes a commitment to preserving user privacy and outlines various practices that aim to protect user information.
+
+**First Party Collection/Use: Positive** - The policy clearly states how the Coffee Review collects and uses personal information, indicating transparency and a focus on improving user experience.
+
+**Data Retention: Neutral** - While the policy mentions the collection of information, it does not provide specific details on how long data is retained, leading to a neutral sentiment regarding clarity on data retention practices.
+
+**International and Specific Audiences: Neutral** - The policy does not specifically address international users or audiences, resulting in a neutral sentiment as it lacks explicit information.
+
+**Third Party Sharing/Collection: Neutral** - The policy outlines circumstances under which personal information may be shared, but it does not provide extensive details on third-party practices, leading to a neutral sentiment.
+
+**User Choice/Control: Positive** - The policy allows users to opt-out of receiving future emails and provides information on cookie management, indicating a user-friendly approach to user control.
+
+**User Access, Edit and Deletion: Negative** - The policy does not mention user access to their data or the ability to edit or delete it, which raises concerns about user rights and control over personal information.
+
+**Data Security: Positive** - The policy discusses the protection of personal information and the measures taken to ensure data security, reflecting a positive sentiment towards user safety.
+
+**Do Not Track: Neutral** - The policy does not address Do Not Track signals or user preferences regarding tracking, resulting in a neutral sentiment due to the lack of information.

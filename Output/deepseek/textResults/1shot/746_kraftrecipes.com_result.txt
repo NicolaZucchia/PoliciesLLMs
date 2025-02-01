@@ -1,0 +1,29 @@
+<think>
+Okay, I need to analyze the provided text to determine which parts of the expected output apply. The user is expecting specific answers for each category: Data Collection, Policy Change, First Party Collection/Use, etc.
+
+First, I'll read through the privacy policy carefully. It mentions that NOTMC collects personal information, uses cookies and clear GIFs for advertising, tracks actions for statistics, and shares data with third-party vendors. So that covers Third Party Sharing/Collection as true.
+
+The policy states that they don't target children under 13, so International and Specific Audiences is true because it's applicable to users over 13 in international contexts.
+
+Do Not Track is explicitly mentioned as false since they use tracking technologies.
+
+Regarding Data Retention, the policy says they keep information for an unknown duration except for user accounts. Since they don't specify a retention period, I'll consider this false unless there's more info elsewhere, which isn't present here.
+
+User Choice/Control mentions the California PRIVITE ACT rights but doesn't say if users can delete data themselves or modify settings. Since it only refers to exercising rights, I'll mark User Access, Edit and Deletion as true because they do allow exercising these rights through contacting support.
+
+Data Security states that they use cookies to secure information, so Data Security is true.
+
+Policy Change: The policy doesn't mention any changes, but the user asked if there's a potential for change. Since it's static text without future dates or updates, I'll mark Policy Change as true assuming that policies can be updated in the future.
+</think>
+
+Data: False  
+Other: True  
+Probability of Policy Change: True  
+First Party Collection/Use: True  
+Data Retention: False (The policy doesn't specify a retention period)  
+International and Specific Audiences: True  
+Third Party Sharing/Collection: True  
+User Choice/Control: True  
+User Access, Edit and Deletion: True  
+Data Security: True  
+Do Not Track: False

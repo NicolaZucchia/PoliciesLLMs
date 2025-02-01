@@ -1,0 +1,34 @@
+<think>
+Alright, I'm trying to figure out whether the given policy has each of these features. Let me go through them one by one.
+
+Starting with "Data Collection." The policy mentions collecting personal information like names, addresses, phone numbers, and email addresses when users sign up or interact. So that's a yes.
+
+Next is "First Party Collection/Use." It talks about using this data for their own marketing and operations, so definitely true.
+
+"Data Retention" refers to how long they keep the data. The policy doesn't specify an exact time frame but mentions cookies being temporary, so it might not be true unless there's more info on retention periods.
+
+"For International Audiences," the policy is in English and applies globally except for children under 13, which means it covers international users as well, so that's true.
+
+"Third Party Sharing/Collection" is addressed where they share data with ad partners. That's definitely true.
+
+"User Choice/Control" isn't mentioned here; there's no info on how users can manage their data preferences or opt out, so this would be false.
+
+Under "User Access, Edit and Deletion," nothing about editing existing records or deleting accounts is present, so that's also false.
+
+"Data Security" talks about measures to protect the information, like cookies and encryption. So yes, it does mention security practices.
+
+"Do Not Track" isn't mentioned anywhere in the policy, so no on that.
+</think>
+
+```json
+{
+  "Data": true,
+  "First Party Collection/Use": true,
+  "Third Party Sharing/Collection": true,
+  "User Choice/Control": false,
+  "User Access, Edit and Deletion": false,
+  "Data Security": true,
+  "International and Specific Audiences": true,
+  "Do Not Track": false
+}
+```

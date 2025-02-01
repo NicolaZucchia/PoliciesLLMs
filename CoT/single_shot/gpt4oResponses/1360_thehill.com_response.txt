@@ -1,0 +1,19 @@
+**Other: Neutral** - The policy provides general information about data collection and usage without expressing a clear user-friendly or user-risky practice.
+
+**Policy Change: Neutral** - The policy states that changes may occur and that users will be notified, which is standard practice but does not indicate a strong user-friendly or user-risky approach.
+
+**First Party Collection/Use: Positive** - The policy outlines how The Hill collects and uses personally identifiable information to enhance user experience, which is a user-friendly practice.
+
+**Data Retention: Neutral** - The policy does not explicitly discuss data retention practices, leading to a neutral sentiment as it lacks clarity.
+
+**International and Specific Audiences: Neutral** - The policy does not address international users or specific audience considerations, resulting in a neutral sentiment.
+
+**Third Party Sharing/Collection: Negative** - The policy indicates that personally identifiable information may be shared with third parties, which poses a risk to user privacy.
+
+**User Choice/Control: Positive** - The policy allows users to opt-out of promotional communications, which is a user-friendly feature that gives users control over their information.
+
+**User Access, Edit and Deletion: Positive** - The policy provides users the ability to correct their information, indicating a user-friendly approach to managing personal data.
+
+**Data Security: Neutral** - While the policy mentions efforts to protect data, it also acknowledges risks, leading to a neutral sentiment as it does not fully assure users of security.
+
+**Do Not Track: Neutral** - The policy does not address Do Not Track signals, resulting in a neutral sentiment due to the lack of information.

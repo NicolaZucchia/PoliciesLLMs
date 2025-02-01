@@ -1,0 +1,48 @@
+<think>
+Okay, so I need to analyze this policy text and figure out which aspects apply based on the expected output. Let me go through each section of the policy step by step.
+
+Starting with "Data Collection," it says that NOTMC collects personal information from users who use their Online Services. This includes things like user preferences for cookies and content they engage with, all stored in cookies or via other means. So this definitely falls under First Party Collection/Use: true because they collect data directly from the user.
+
+Next, "Data Retention" mentions that NOTMC uses cookies to remember users' preferences and track their actions across different sites. This implies they retain this information for a limited period until the cookies expire or are deleted by the user. So Data Retention is not false; it's actually true because they do keep this data.
+
+Looking at "International and Specific Audiences," the policy states that California residents have specific privacy rights, such as requesting marketing list information once a year. It also notes that NOTMC does not target children under 13. This suggests they cater to specific audiences outside of general demographics, so International and Specific Audiences: true.
+
+Then, "Third Party Sharing/Collection" talks about cookies and advertising technologies used by third-party services. This means NOTMC shares user data with these partners for marketing purposes. Therefore, Third Party Sharing/Collection is definitely true.
+
+For "User Choice/Control," the policy mentions that users can opt out of receiving marketing emails using specific contact methods like unboxing or contacting customer service. Additionally, California residents can request information and delete records if they're parents of under-13 children. This shows Users have control over their data, so User Choice/Control: true.
+
+Regarding "User Access, Edit and Deletion," the policy explains that cookies allow for preferences to be remembered but also mentions users can manage cookie settings. However, it doesn't explicitly say users can completely delete their information or edit specific details beyond what's related to cookies. So this might not be fully applicable; maybe it should be considered true as they have some control.
+
+"Data Security" states that NOTMC uses cookies and similar technologies for tracking and improving user experience but emphasizes that no system is 100% secure. This suggests a basic level of security measures, so Data Security: true.
+
+"Do Not Track" mentions that while the policy doesn't prohibit tracking, users are encouraged to manage their own ad blocker settings and browser preferences. So NOTMC doesn't actively implement do not track mechanisms; therefore, Do Not Track: false.
+
+Putting it all together, I think most aspects apply except for Data Retention being possibly misinterpreted but likely true as they use cookies that expire over time.
+</think>
+
+Based on the analysis of the policy text and the expected output criteria:
+
+- **First Party Collection/Use**: true
+- **Data Retention**: true (due to limited duration of cookie retention)
+- **International and Specific Audiences**: true
+- **Third Party Sharing/Collection**: true
+- **User Choice/Control**: true
+- **User Access, Edit and Deletion**: true (with some control through cookies but not full deletion capabilities)
+- **Data Security**: true
+- **Do Not Track**: false
+
+The final answer is:
+
+```
+{
+  "Data": "true",
+  "First Party Collection/Use": "true",
+  "Data Retention": "true",
+  "International and Specific Audiences": "true",
+  "Third Party Sharing/Collection": "true",
+  "User Choice/Control": "true",
+  "User Access, Edit and Deletion": "true",
+  "Data Security": "true",
+  "Do Not Track": "false"
+}
+```

@@ -1,0 +1,10 @@
+Other: True  
+Policy Change: True  
+First Party Collection/Use: True  
+Data Retention: True  
+International and Specific Audiences: True  
+Third Party Sharing/Collection: True  
+User Choice/Control: True  
+User Access, Edit and Deletion: False  
+Data Security: True  
+Do Not Track: True  

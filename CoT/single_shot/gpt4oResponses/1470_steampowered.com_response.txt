@@ -1,0 +1,15 @@
+**Policy Change: Positive** - The policy clearly states that it may be amended from time to time, encouraging users to check back for the most current version. This transparency is user-friendly as it keeps users informed about potential changes.
+
+**First Party Collection/Use: Positive** - The policy outlines that personally identifiable information is used internally to improve services and respond to user requests. This indicates a responsible use of data that benefits the user experience.
+
+**Data Retention: Neutral** - While the policy mentions the collection and storage of personally identifiable information, it does not provide specific details on how long data is retained or the criteria for retention, making it neutral in sentiment.
+
+**International and Specific Audiences: Positive** - The policy acknowledges the collection of personally identifiable information from EU users and references compliance with the Safe Harbor framework, indicating a commitment to international privacy standards.
+
+**Third Party Sharing/Collection: Neutral** - The policy states that personally identifiable information will not be shared with third parties for marketing purposes without consent, but it does allow sharing with third parties for service provision. This creates a neutral sentiment as it balances user privacy with operational needs.
+
+**User Choice/Control: Positive** - The policy provides users with the option to opt-out of promotional communications, which empowers users to control their engagement with Valve.
+
+**User Access, Edit and Deletion: Positive** - The policy allows users to review, access, amend, or request removal of their personally identifiable information, promoting user rights and control over personal data.
+
+**Data Security: Positive** - The policy mentions reasonable steps taken to protect user information and compliance with the Safe Harbor framework, indicating a commitment to data security and user protection.

@@ -1,0 +1,45 @@
+<think>
+Okay, so I need to determine whether each of the expected output fields is true or false based on the provided Privacy Policy. Let me go through each field one by one.
+
+First Party Collection/Use: The policy mentions that they collect information via their online services and use it for marketing and other purposes. So this should be true.
+
+Data Retention: It says they don't keep personal info forever but only as long as needed, so I think data is not retained indefinitely. Wait, the policy doesn't specify exactly how long they keep the data, just that it's for a limited time. But since they mention no retention without consent and cookies are temporary, maybe they do delete it after some period. Hmm, perhaps "Data Retention" should be true if it refers to deletion upon termination or something.
+
+International and Specific Audiences: The policy is in English but also states that it's the official document regardless of language, implying it applies globally, including international audiences. So this would be true.
+
+Third Party Sharing/Collection: They do share data with third-party advertising partners, so definitely true.
+
+User Choice/Control: They allow users to contact them regarding California privacy rights, which suggests some control exists, so likely true.
+
+User Access, Edit and Deletion: The policy provides methods to contact for deletion requests, so this is probably true.
+
+Data Security: They use cookies and encryption, but also mention that no system is 100% secure. So it's more of a statement rather than absolute security, so maybe data isn't entirely secure.
+
+Do Not Track: The policy doesn't explicitly say they enforce do-not-track signals, so this should be false.
+</think>
+
+Data: true
+Other: true
+Policy Change: true
+First Party Collection/Use: true
+Data Retention: true (as it mentions data is only retained as long as needed)
+International and Specific Audiences: true
+Third Party Sharing/Collection: true
+User Choice/Control: true
+User Access, Edit and Deletion: true
+Data Security: true (with measures but not 100% secure)
+Do Not Track: false
+
+Answer: 
+
+Data: true  
+Other: true  
+Policy Change: true  
+First Party Collection/Use: true  
+Data Retention: true  
+International and Specific Audiences: true  
+Third Party Sharing/Collection: true  
+User Choice/Control: true  
+User Access, Edit and Deletion: true  
+Data Security: true  
+Do Not Track: false

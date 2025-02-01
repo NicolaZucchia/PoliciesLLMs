@@ -1,0 +1,38 @@
+<think>
+Alright, I need to analyze the provided Privacy Statement from the Smithsonian's Websites to determine the truthfulness of each of the 10 attributes. Let me go through each attribute one by one.
+
+
+Other: The Privacy Statement mentions sharing information under certain legal requirements or court orders, which implies changes to their policies. So "Other: True."
+
+Policy Change: The statement does talk about sharing personal information with non-Smithsonian entities in specific cases, indicating policy changes. Hence, "Policy Change: True."
+
+First Party Collection/Use: It clearly states that they collect data for operations and services provided by Smithsonian, so this is True.
+
+Data Retention: There's a mention of retaining records for legal reasons or to comply with subpoenas. That means they keep their information for some time beyond the interaction, making "Data Retention: True."
+
+International and Specific Audiences: The statement notes sharing information with non-profit organizations in response to court orders, which are likely specific audiences outside general populations. So this is True.
+
+Third Party Sharing/Collection: It's stated that they share personal info under legal requirements or with non-profits, so definitely True here.
+
+User Choice/Control: There’s a mention of users being able to opt-out of non-Smithsonian emails and request removal from mailing lists by contacting directly. That gives users some control over their data, hence True.
+
+User Access, Edit and Deletion: However, the Privacy Statement doesn't explicitly allow users to access, edit, or delete their personal information themselves. It mainly mentions sharing under certain conditions but doesn’t empower users. So "User Access, Edit and Deletion: False."
+
+Data Security: The statement emphasizes security measures like encrypted transactions and secure systems, so this is True.
+
+Do Not Track: I don't recall any mention of the Smithsonian's commitment to do not track principles or practices in their Privacy Statement.
+</think>
+
+The analysis concludes as follows:
+
+- **Data**: True
+- **Other**: True
+- **Policy Change**: True
+- **First Party Collection/Use**: True
+- **Data Retention**: True
+- **International and Specific Audiences**: True
+- **Third Party Sharing/Collection**: True
+- **User Choice/Control**: True
+- **User Access, Edit and Deletion**: False
+- **Data Security**: True
+- **Do Not Track**: False

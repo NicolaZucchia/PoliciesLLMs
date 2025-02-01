@@ -1,0 +1,19 @@
+**Other: Neutral -** The policy provides a broad overview of Google's data practices without expressing a clear positive or negative sentiment towards users.
+
+**Policy Change: Positive -** The policy states that users will be notified of significant changes and that their rights will not be reduced without explicit consent, which is user-friendly.
+
+**First Party Collection/Use: Positive -** The text emphasizes that data collection is aimed at improving user experience and services, indicating a beneficial use of data for users.
+
+**Data Retention: Neutral -** The policy mentions that data may not be immediately deleted after a user requests it, which is a standard practice but lacks a strong user-friendly sentiment.
+
+**International and Specific Audiences: Neutral -** The mention of processing data in various countries is factual and does not convey a strong sentiment towards user experience.
+
+**Third Party Sharing/Collection: Neutral -** The policy outlines conditions under which data may be shared, but it does not provide a strong positive or negative sentiment regarding user privacy.
+
+**User Choice/Control: Positive -** The policy highlights various ways users can manage their information and privacy settings, which is empowering for users.
+
+**User Access, Edit and Deletion: Positive -** The text indicates that users can access and update their personal information, which is a positive aspect of user control.
+
+**Data Security: Positive -** The policy describes multiple security measures in place to protect user data, suggesting a commitment to user safety.
+
+**Do Not Track: Neutral -** The policy mentions that users can set their browsers to block cookies, but it does not provide a strong sentiment regarding the effectiveness or implications of this choice.

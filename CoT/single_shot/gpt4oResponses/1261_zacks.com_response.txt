@@ -1,0 +1,19 @@
+**Other: Neutral -** The policy provides general information about practices without expressing a clear positive or negative sentiment.
+
+**Policy Change: Neutral -** The policy mentions updates but does not indicate any specific changes or their implications, maintaining a neutral tone.
+
+**First Party Collection/Use: Positive -** The policy clearly states that personal information is used for newsletters and offers, emphasizing user consent and control, which is user-friendly.
+
+**Data Retention: Neutral -** The policy does not specify retention periods or practices, leading to a neutral sentiment regarding data retention.
+
+**International and Specific Audiences: Neutral -** There is no mention of international practices or specific audience considerations, resulting in a neutral sentiment.
+
+**Third Party Sharing/Collection: Neutral -** The policy states that information is "rented" but not sold, which is a neutral stance as it does not fully reassure users about their data.
+
+**User Choice/Control: Positive -** The policy emphasizes user control over subscriptions and the ability to unsubscribe, indicating a user-friendly approach.
+
+**User Access, Edit and Deletion: Neutral -** The policy does not provide clear information on user access, editing, or deletion of data, leading to a neutral sentiment.
+
+**Data Security: Neutral -** The policy does not detail specific security measures, resulting in a neutral sentiment regarding data security.
+
+**Do Not Track: Neutral -** The policy mentions opting out but does not provide a comprehensive approach to Do Not Track, leading to a neutral sentiment.

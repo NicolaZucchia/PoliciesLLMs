@@ -1,0 +1,50 @@
+<think>
+Okay, so I have to analyze this privacy policy for NOTMC and figure out which of the given categories apply. Let me go through each category one by one.
+
+Starting with Data Collection, it says they collect personal information like name, email, phone number, address, credit card details, etc., when you sign up or make a purchase. So that's true.
+
+First Party Collection/Use: They mention they use this data for marketing and other business purposes, so definitely true.
+
+Data Retention: The policy doesn't specify how long they keep the information, but it does say NOTMC does not target children under 13, which implies they might have age verification, possibly keeping records longer than necessary. But since they don't give a retention period, I'll mark this as false.
+
+International and Specific Audiences: They mention that if you live in California or are a child under 13, you can request information, so yes, this applies to specific audiences. True.
+
+Third Party Sharing/Collection: The policy talks about cookies and third-party advertising, which means they share data with other companies. So true here.
+
+User Choice/Control: They mention that users can contact them to access or delete their information, specifically mentioning California's "Shine the Light" law. So this is true.
+
+User Access, Edit and Deletion: Since they allow users to request access and deletion, but don't specify if they can be edited without consent, I'm a bit unsure. However, given that they do provide contact info for deletions, it implies some level of control. True.
+
+Data Security: They state that their systems are secure with cookies and encryption measures. So yes, data is protected accordingly. True.
+
+Do Not Track: The policy doesn't mention any Do Not Track mechanisms or directives, so this would be false.
+
+Putting it all together, I'll evaluate each category based on the provided text.
+</think>
+
+The privacy policy for NOTMC indicates that they collect and use personal information for marketing purposes (First Party Collection/Use: true). They do not specify data retention periods, but given their age verification process, we assume longer retention (Data Retention: false). The policy addresses California's "Shine the Light" law, allowing users to access and delete data (User Choice/Control: true), and provides methods for this action. They also share data with third parties through cookies and ads (Third Party Sharing/Collection: true). Users can request information as a specific audience if they believe their data was mishandled (International and Specific Audiences: true). 
+
+Answering each category:
+
+- **Data Collection:** True
+- **First Party Collection/Use:** True
+- **Data Retention:** False
+- **International and Specific Audiences:** True
+- **Third Party Sharing/Collection:** True
+- **User Choice/Control:** True
+- **User Access, Edit and Deletion:** True
+- **Data Security:** True
+- **Do Not Track:** False
+
+The final evaluation is:
+
+Other: true  
+Policy Change: true  
+First Party Collection/Use: true  
+Data Retention: false  
+International and Specific Audiences: true  
+Third Party Sharing/Collection: true  
+User Choice/Control: true  
+User Access, Edit and Deletion: true  
+Data Security: true  
+Do Not Track: false

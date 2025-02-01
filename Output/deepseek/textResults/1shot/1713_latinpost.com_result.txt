@@ -1,0 +1,28 @@
+<think>
+Alright, I need to analyze the given Privacy Policy text and determine which of the specified categories apply. Let me go through each point step by step.
+
+First, the policy mentions that NOTMC collects personal information such as names, addresses, phone numbers, etc., from users who make inquiries or sign up for events. This indicates First Party Collection/Use is true because it directly relates to the company's own data collection and use.
+
+Next, regarding Data Retention, the policy states that information is stored securely but doesn't specify how long it retains. However, since it talks about cookies and other tracking technologies, which typically have expiration dates, I might infer they retain information for a reasonable period, making Data Retention somewhat true. But since there's no explicit mention of retention periods beyond security measures, maybe this should be false.
+
+International coverage is mentioned because the policy can apply to users outside the U.S., but due to language and data collection specifics, it's safer to mark International and Specific Audiences as true if applicable to a specific audience.
+
+Third Party Sharing/Collection is evident when they use cookies and third-party services like social media, which means personal information might be shared with external parties, so this is true.
+
+User Choice/Control relates to whether users can manage their data. The policy mentions nothing about user opting out or managing preferences, so User Choice/Control should be false.
+
+For User Access, Edit, and Deletion, since the policy doesn't provide clear instructions on how users can access, edit, or delete their information, this is also false.
+
+Data Security measures are mentioned, like using cookies to protect data, but without specifics on encryption or methods, Data Security might be true in a general sense.
+
+Do Not Track isn't explicitly addressed here at all, so it's definitely false.
+</think>
+
+The Privacy Policy as described applies primarily to First Party Collection/Use and Third Party Sharing/Collection. Other aspects like User Access are not clearly addressed.
+
+Answer: 
+
+First Party Collection/Use: true  
+Third Party Sharing/Collection: true  
+
+All others: false

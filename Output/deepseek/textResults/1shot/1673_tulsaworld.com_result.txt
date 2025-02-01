@@ -1,0 +1,44 @@
+<think>
+Okay, so I need to analyze the provided Privacy Policy text for the expected output. The user has given me a specific structure with categories like Data Collection, First Party Collection, etc., and expects a binary answer (true or false) for each category.
+
+First, I'll read through the Privacy Policy carefully to identify key points that might fall under each category. 
+
+Starting from the top: It mentions receiving online submissions which are personal information, so Data is collected. Since they process these via the web, it's First Party Collection. They store this info and send marketing emails, indicating data retention and use for marketing purposes.
+
+They also talk about Cookies being used to improve user experience, which suggests they track users' behavior on their sites—User Access, Edit, Deletion? Hmm, not exactly editing but tracking, so maybe User Choice/Control isn't directly addressed here. 
+
+Privacy rights are mentioned in California, so I think that relates to the user's ability to control data sharing, hence User Choice/Control: true.
+
+They do collect and use personal info for marketing, which is Third Party Sharing since their ads might involve third parties.
+
+Do Not Track isn't explicitly stated, but they don’t mention any mechanisms against tracking, so Do Not Track should be false.
+
+For International policies, the user states that this English policy takes precedence over others in case of inconsistency. So international aspects are handled: true.
+
+They don't target children under 13, which relates to Data Security and Children's Privacy but not directly to the categories provided, so maybe leave those as is unless more info fits.
+
+Putting it all together:
+
+Data: They collect personal information through online submissions—true.
+First Party Collection/Use: Yes—they process these submissions themselves—true.
+Third Party Sharing/Collection: Yes, for ads—true.
+User Choice/Control: Yes, they mention California rights which involve users controlling their data sharing—true.
+
+User Access, Edit and Deletion: The policy doesn't say much about allowing users to edit or delete their data directly. They have contact info but no clear method like a DMCA request, so maybe false here.
+Data Retention: They do store information, so true.
+International and Specific Audiences: Yes, they apply the same policy internationally—true.
+
+Do Not Track: No mention of tracking technologies, so false.
+
+Wait, I initially thought User Access might be true but now considering it's not directly about user control over their own data—it's more about third parties. So maybe User Access/Edit/Delete is false unless the policy provides clear ways for users to manage their data themselves.
+</think>
+
+**Answer:**
+
+- Data: true  
+- First Party Collection/Use: true  
+- Third Party Sharing/Collection: true  
+- User Choice/Control: true  
+- User Access, Edit and Deletion: false  
+- Data Retention: true  
+- International and Specific Audiences: true

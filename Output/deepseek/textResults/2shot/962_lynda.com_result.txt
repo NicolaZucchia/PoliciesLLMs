@@ -1,0 +1,33 @@
+<think>
+Alright, I'm trying to figure out whether each of the categories (like Data Collection, Third-party Sharing) applies to this Privacy Statement about the Smithsonian's Websites. Let me go through each one step by step.
+
+First, **Data Collection**: The statement mentions that they collect information such as your name, email address, and home address for registration and correspondence. So yes, they are collecting personal data.
+
+Next, **First-Party Collection/Use**: They do use this data to send you emails about programs, products, etc., so first-party use is definitely happening here.
+
+**Data Retention**: The statement talks about keeping records under specific conditions like legal requirements or if the user requests it. So they retain information for a reasonable time, which means data retention applies.
+
+**International and Specific Audiences**: It doesn't seem like they're targeting any specific audience internationally or have special considerations beyond what's in their general policies, so this might not apply.
+
+**Third-Party Sharing/Collection**: There are instances where they share data with non-Smithsonian entities for marketing purposes. So third-party sharing is true.
+
+**User Choice/Control**: The statement allows users to opt-out of receiving further correspondence from non-Smithsonian organizations. Therefore, user control exists.
+
+**User Access, Edit and Deletion**: They don't mention giving users the ability to access, edit, or delete their personal information directly through their Websites. So this might be false unless there's more detail not provided here.
+
+**Data Security**: The statement mentions using secure systems for transactions and having security measures in place against unauthorized access. So data security applies.
+
+Lastly, **Do Not Track**: There's no mention of the Smithsonian tracking users across websites or changing their web browsers. Therefore, do not track doesn't apply.
+</think>
+
+| Category          | Answer |
+|-------------------|--------|
+| Data Collection   | True  |
+| First-Party Use   | True  |
+| Data Retention    | True  |
+| International/Specific Audiences | False |
+| Third-Party Sharing/Collection | True |
+| User Choice/Control | True |
+| User Access/Edit/Delete | False |
+| Data Security     | True |
+| Do Not Track      | False |

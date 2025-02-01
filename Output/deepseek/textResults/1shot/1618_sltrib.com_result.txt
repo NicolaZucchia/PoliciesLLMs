@@ -1,0 +1,37 @@
+<think>
+Okay, so I need to analyze the given privacy policy text and determine which of the specific features apply. Let me go through each feature one by one.
+
+1. **Data Collection**: The policy mentions collecting information like personal details for online services, cookies, and third-party interactions. So this is true.
+2. **First Party Collection/Use**: It talks about using the user's data for marketing and website improvements, which is first party use. True.
+3. **Data Retention**: There's no mention of how long data is kept beyond what’s stated as secure, so I can say false.
+4. **International/Audiences**: The policy is mainly in English but targets New Orleans; it doesn't specify international scope. So maybe not true.
+5. **Third Party Sharing/Collection**: It discusses sharing with advertising partners and third parties for ads. Definitely true.
+6. **User Choice/Control**: I don’t see anything about user preferences or opting out, so this is false.
+7. **User Access/Edit/Delete**: There's no info on how users can access their data, so it's false.
+8. **Data Security**: It mentions cookies and security measures but doesn't detail how secure the data is. So maybe not true?
+9. **Do Not Track**: The policy allows tracking via cookies but doesn’t have a do not track mechanism. So this could be considered false or partially applicable.
+
+Wait, for "Data Security," since they mention using cookies to track and improve experiences but don't specify encryption, I might need to mark it as false because the text doesn't indicate strong security measures like HTTPS or SSL. Similarly, "Do Not Track" is a feature some policies have, allowing users to opt out of tracking, but this policy seems to use tracking methods without an option for users to prevent it.
+
+So summarizing:
+
+- Data Collection: true
+- First Party Use: true
+- Third Party Sharing: true
+- Data Security: false
+- Do Not Track: false
+
+The rest are either not mentioned or explicitly false.
+</think>
+
+Answer:
+Data: true  
+First Party Collection/Use: true  
+Third Party Sharing/Collection: true  
+User Choice/Control: false  
+User Access, Edit and Deletion: false  
+Data Retention: false  
+International and Specific Audiences: false  
+User Access/Edit/Delete: false  
+Data Security: false  
+Do Not Track: false

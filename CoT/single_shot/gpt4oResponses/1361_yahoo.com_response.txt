@@ -1,0 +1,19 @@
+**Other: Neutral** - The policy provides general information about Yahoo's privacy practices without expressing a clear positive or negative sentiment.
+
+**Policy Change: Neutral** - The section mentions that Yahoo may update the policy and will notify users of significant changes, which is a standard practice but does not convey a strong sentiment.
+
+**First Party Collection/Use: Positive** - The policy outlines how Yahoo collects and uses personal information transparently, indicating a commitment to user awareness and control.
+
+**Data Retention: Neutral** - The policy mentions that users can delete their accounts but does not provide detailed information on data retention practices, leading to a neutral sentiment.
+
+**International and Specific Audiences: Positive** - The mention of participation in the Safe Harbor program suggests a commitment to international privacy standards, which is a positive aspect.
+
+**Third Party Sharing/Collection: Neutral** - The policy describes circumstances under which information may be shared with third parties, but it does not provide a strong positive or negative sentiment.
+
+**User Choice/Control: Positive** - The policy emphasizes user control over personal information and marketing preferences, which is a positive aspect for user empowerment.
+
+**User Access, Edit and Deletion: Positive** - The ability for users to edit and delete their account information is presented positively, indicating a user-friendly approach.
+
+**Data Security: Positive** - The policy discusses safeguards in place to protect personal information, which reflects a positive commitment to data security.
+
+**Do Not Track: Neutral** - The policy does not explicitly address Do Not Track features, leading to a neutral sentiment regarding this category.

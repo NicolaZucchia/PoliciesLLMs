@@ -1,0 +1,13 @@
+**Policy Change: Positive -** The policy states that modifications can be made at any time, which is standard practice. However, it emphasizes that changes will be effective immediately upon posting, ensuring users are informed of updates.
+
+**First Party Collection/Use: Positive -** The policy clearly states that UpToDate collects Subscriber Information only when voluntarily provided and outlines specific internal uses, which indicates a responsible approach to data handling.
+
+**Data Retention: Neutral -** The policy does not explicitly mention data retention practices, leaving it unclear how long Subscriber Information is kept, which could be seen as a gap in transparency.
+
+**Third Party Sharing/Collection: Negative -** While UpToDate claims not to sell personal information, it does reserve the right to disclose Subscriber Information under certain circumstances, which could pose a risk to user privacy.
+
+**User Choice/Control: Positive -** The policy emphasizes that providing Subscriber Information is a choice, which empowers users and indicates respect for their autonomy.
+
+**User Access, Edit and Deletion: Neutral -** The policy does not provide specific details on user access, editing, or deletion of their information, which could be seen as lacking in user control.
+
+**Data Security: Positive -** The policy indicates a commitment to maintaining privacy at a high level, suggesting that UpToDate takes data security seriously, although specific measures are not detailed.

@@ -1,0 +1,17 @@
+Other: Neutral - [The policy includes general statements about privacy and data collection without specific details, making it neither particularly user-friendly nor risky.]
+
+First Party Collection/Use: Positive - [The policy clearly states that personal information is collected for necessary purposes like processing payments and shipping, which is a standard and expected practice.]
+
+Data Retention: Neutral - [The policy does not specify how long data is retained, leaving it unclear, which does not provide a clear user-friendly or risky impression.]
+
+International and Specific Audiences: Neutral - [The policy does not address international users or specific audiences, resulting in a lack of clarity on how their data is handled.]
+
+Third Party Sharing/Collection: Neutral - [While the policy mentions sharing information with third-party advertising partners, it also states that the data will be anonymized, which is a common practice but lacks detail on the implications for users.]
+
+User Choice/Control: Positive - [The policy provides users with options to opt-out of newsletters and tailored advertising, indicating a user-friendly approach to privacy control.]
+
+User Access, Edit and Deletion: Negative - [The policy does not mention any rights for users to access, edit, or delete their personal information, which is a significant oversight in user rights.]
+
+Data Security: Positive - [The policy outlines the use of SSL for payment information and mentions secure storage behind a firewall, indicating a commitment to protecting user data.]
+
+Do Not Track: Negative - [The policy does not address Do Not Track requests, which may leave users feeling their preferences are not respected.]

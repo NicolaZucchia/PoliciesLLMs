@@ -1,0 +1,29 @@
+Data: Other  
+Answer: Yes  
+
+Data: Policy Change  
+Answer: Yes  
+
+Data: First Party Collection/Use  
+Answer: Yes  
+
+Data: Data Retention  
+Answer: Yes  
+
+Data: International and Specific Audiences  
+Answer: No  
+
+Data: Third Party Sharing/Collection  
+Answer: Yes  
+
+Data: User Choice/Control  
+Answer: Yes  
+
+Data: User Access, Edit and Deletion  
+Answer: Yes  
+
+Data: Data Security  
+Answer: Yes  
+
+Data: Do Not Track  
+Answer: No  

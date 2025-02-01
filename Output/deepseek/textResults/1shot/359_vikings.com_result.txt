@@ -1,0 +1,44 @@
+<think>
+Alright, so I need to analyze the given Privacy Policy text for NewOrleansRide (I think that's what NOTMC stands for) and determine if each of the specified attributes applies. Let me go through each point step by step.
+
+First, looking at Data Collection: The policy mentions collecting personal information such as names, email addresses, phone numbers, and home addresses when users sign up or contact them. So, yes, data is being collected.
+
+Next, First Party Collection/Use: The text talks about using this information for marketing purposes and managing the online experience through cookies and ads. This means they're using their own data, so first-party use definitely applies.
+
+Data Retention: I don't see any mention of how long the company keeps the data. They talk about deleting user info upon request but don't specify retention periods beyond that. So this is probably not applicable unless it's implied to be short-term.
+
+International and Specific Audiences: The policy mentions California privacy rights, which targets a specific audience in California, so this applies.
+
+Third Party Sharing/Collection: The policy does mention sharing data with advertising partners through cookies and clear GIFs. Therefore, third-party sharing is involved.
+
+User Choice/Control: Under the "Your California Privacy Rights" section, users can request lists of shared information once a year by contacting online@notmc.com. This indicates that there's some user control.
+
+User Access, Edit and Deletion: The Contact Us section allows users to request deletion of their information upon request. So this applies as well.
+
+Data Security: The policy states they use cookies and other technologies but also mentions that no system is 100% secure and advises users to take appropriate security measures. This implies some level of data security, though it's not foolproof.
+
+Do Not Track: There's nothing about a "do not track" mechanism mentioned in the policy.
+
+Putting this all together, each attribute should be marked as true or false based on whether they're covered in the policy.
+</think>
+
+The analysis confirms that NewOrleansRide's Privacy Policy covers several aspects with specific attributes. Here's a concise summary:
+
+- **Data Collection**: True (Personal information collected)
+- **First Party Collection/Use**: True (Used for marketing and user experience)
+- **Data Retention**: False (No specified retention period mentioned)
+- **International and Specific Audiences**: True (Addresses California privacy rights)
+- **Third Party Sharing/Collection**: True (Adverts to third-party services)
+- **User Choice/Control**: True (Users can request information sharing details)
+- **User Access, Edit and Deletion**: True (Users can delete personal info upon request)
+- **Data Security**: True (Mentions security measures but no technical security guarantees)
+- **Do Not Track**: False (No mention of a do not track mechanism)
+
+**Final Answer:**
+
+Data: true  
+First Party Collection/Use: true  
+Third Party Sharing/Collection: true  
+User Choice/Control: true  
+User Access, Edit and Deletion: true  
+Data Security: true

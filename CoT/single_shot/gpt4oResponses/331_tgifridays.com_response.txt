@@ -1,0 +1,19 @@
+**Other: Neutral** - The policy provides general information about privacy practices without expressing a strong positive or negative sentiment.
+
+**Policy Change: Neutral** - The mention of potential changes to the policy is straightforward and does not imply any risk or benefit, maintaining a neutral tone.
+
+**First Party Collection/Use: Positive** - The text emphasizes that TGI Fridays collects information to enhance user experience and states that personal information is safe, which is a user-friendly approach.
+
+**Data Retention: Neutral** - The policy does not provide specific details on data retention practices, leading to a neutral sentiment as it neither assures nor raises concerns.
+
+**International and Specific Audiences: Neutral** - The policy mentions compliance with COPPA for minors but does not elaborate on international practices, resulting in a neutral sentiment.
+
+**Third Party Sharing/Collection: Positive** - The policy clearly states that TGI Fridays does not sell or share personal information with third parties, which is a positive aspect for user privacy.
+
+**User Choice/Control: Positive** - The policy allows users to opt-in for communications and provides options to log out or unsubscribe, indicating a user-friendly approach.
+
+**User Access, Edit and Deletion: Neutral** - The policy does not explicitly mention user access, editing, or deletion of personal information, leading to a neutral sentiment.
+
+**Data Security: Positive** - The text outlines security measures in place to protect user information, which conveys a positive sentiment regarding data protection.
+
+**Do Not Track: Neutral** - The policy does not address Do Not Track signals or user preferences regarding tracking, resulting in a neutral sentiment.

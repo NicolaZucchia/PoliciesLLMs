@@ -1,0 +1,34 @@
+<think>
+Alright, so I need to analyze the provided privacy policy text and categorize each of the 14 attributes as either Data (true), Other (true), or if that attribute isn't applicable. Let's go through each point step by step.
+
+First, looking at "Data Collection." The policy mentions collecting information like names, addresses, phone numbers, etc., so that's definitely Data.
+
+Next, "Data Use." It talks about using the data for marketing and customer interaction, which falls under Data Use.
+
+For "Data Retention," I don't see any mention of how long the data is kept. The policy doesn't specify a retention period or whether it's deleted after use. So that would be Other.
+
+"International and Specific Audiences" refers to targeting specific groups outside the US. Since there's no info on international targeting, this should be Other.
+
+Moving on to "Third Party Sharing/Collection." The policy mentions sharing with external companies for marketing purposes, so that's a yes.
+
+Regarding "User Choice/Control," it talks about users opting out of marketing emails and not tracking cookies usage in terms of user control. So I think this is true as they do provide some control options.
+
+"User Access, Edit, and Deletion" isn't explicitly mentioned here. The policy doesn't offer clear instructions on how users can access or delete their data, so that's Other.
+
+For "Data Security," the policy does mention measures to protect user information but doesn't specify technical details like encryption, so maybe not a strong yes. However, since it mentions some security measures, I'll tentatively mark this as Data (assuming they imply some level of security).
+
+"Do Not Track" mechanisms aren't mentioned here either; the focus is on data collection and use. So that's Other.
+
+Putting it all together based on my analysis.
+</think>
+
+Data: true  
+Data Use: true  
+Other: true  
+Data Retention: false  
+International and Specific Audiences: true  
+Third Party Sharing/Collection: true  
+User Choice/Control: true  
+User Access, Edit and Deletion: true  
+Data Security: true  
+Do Not Track: false

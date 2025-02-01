@@ -1,0 +1,17 @@
+Other: Positive - The policy emphasizes the commitment to user privacy and the absence of selling or renting emails, which is reassuring for users.
+
+First Party Collection/Use: Positive - The policy indicates that user details are not shared with advertisers, suggesting a responsible approach to data handling.
+
+Data Retention: Neutral - The policy does not explicitly discuss data retention practices, leaving it unclear how long user data is kept.
+
+International and Specific Audiences: Neutral - The policy does not address international users or specific audience considerations, making it ambiguous in this regard.
+
+Third Party Sharing/Collection: Positive - The clear statement that emails are not rented or sold to third parties reflects a strong stance on user privacy.
+
+User Choice/Control: Positive - The policy provides clear instructions for opting out of emails, empowering users with control over their information.
+
+User Access, Edit and Deletion: Negative - The absence of any mention of user access, editing, or deletion rights indicates a lack of transparency and user control.
+
+Data Security: Positive - The policy's commitment to honoring unsubscribe requests and user privacy suggests a focus on maintaining data security.
+
+Do Not Track: Neutral - The policy does not address Do Not Track signals, leaving users uncertain about how their tracking preferences are handled.

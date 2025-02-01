@@ -1,0 +1,35 @@
+<think>
+Okay, so I need to evaluate this given policy text against the specific questions about whether certain aspects of data handling are present. Let me go through each question one by one.
+
+First, "Data: Answer". It seems like the policy mentions that NOTMC collects personal information and uses it for marketing purposes, so there is a Data section where they handle user information.
+
+Next, "Policy Change: true". The text doesn't indicate any mention of changes to their policies, so this should be false.
+
+"First Party Collection/Use: true". They collect data from the Online Services, which are their own, so first-party data is involved.
+
+Data Retention: Looking through the policy, there's no information about how long they keep user data. The only mention is deleting upon request, but not a retention period, so this would be false.
+
+International and Specific Audiences: They do have a section for California residents regarding privacy rights, indicating they consider international or specific audiences, so this should be true.
+
+Third Party Sharing/Collection: Yes, the policy talks about sharing data with advertising partners like Google, which are third parties. So this is true.
+
+User Choice/Control: The text mentions users can contact to request information and exercise privacy rights, which implies user control over their data handling.
+
+User Access, Edit and Deletion: There's no clear indication that users can access or edit their data themselves; the only mention is deleting upon request via contact. So this would be false.
+
+Data Security: The policy states they use cookies to protect user information but doesn't provide specifics on security measures beyond that. So maybe true if cookies are considered a form of security, which isn't always guaranteed, so perhaps false? Wait, it says they're using cookies to improve the online experience and track purchases, implying some level of control over data flow.
+
+Do Not Track: The policy mentions cookies but doesn't specify any do not-track features or mechanisms. So this would be false.
+
+I might have made a mistake on Data Security because while they use cookies, which can help prevent unauthorized access to some extent, the policy itself only states that they are used for improving experience and tracking purchases, so maybe data security isn't explicitly covered beyond that.
+</think>
+
+Policy Change: false  
+First Party Collection/Use: true  
+Data Retention: false  
+International and Specific Audiences: true  
+Third Party Sharing/Collection: true  
+User Choice/Control: true  
+User Access, Edit and Deletion: false  
+Data Security: false  
+Do Not Track: false

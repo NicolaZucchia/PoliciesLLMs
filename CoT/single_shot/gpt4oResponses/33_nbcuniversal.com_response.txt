@@ -1,0 +1,19 @@
+**Other: Neutral - The policy provides a comprehensive overview of various practices without expressing a clear bias towards user-friendliness or risk.**
+
+**Policy Change: Neutral - The section outlines the process for policy changes but does not indicate whether these changes are beneficial or detrimental to users.**
+
+**First Party Collection/Use: Positive - The policy emphasizes the intention to provide personalized services and improve user experience, which is generally favorable for users.**
+
+**Data Retention: Neutral - The policy states that data will be retained for a reasonable time but does not elaborate on the implications for users, leaving it ambiguous.**
+
+**International and Specific Audiences: Neutral - The policy mentions international data transfers and protections but does not provide a clear stance on user risk or benefits.**
+
+**Third Party Sharing/Collection: Negative - The policy indicates extensive sharing with third parties, which may pose risks to user privacy and control over personal information.**
+
+**User Choice/Control: Positive - The policy outlines various options for users to manage their preferences and opt-out, which is empowering for users.**
+
+**User Access, Edit and Deletion: Positive - The policy provides users with the ability to access, review, and correct their personal information, which is a positive aspect for user control.**
+
+**Data Security: Positive - The policy describes measures taken to protect user information, suggesting a commitment to user security.**
+
+**Do Not Track: Neutral - The policy states that NBCUniversal does not currently respond to Do Not Track signals, which does not favor user privacy but also does not explicitly harm it.**

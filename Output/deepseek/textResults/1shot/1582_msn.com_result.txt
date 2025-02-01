@@ -1,0 +1,34 @@
+<think>
+Okay, I need to analyze the given Privacy Policy text and map it to the expected output based on the categories provided. Let me go through each category one by one.
+
+1. **Data Collection**: The policy mentions that they collect personal information such as name, email, address, phone number, credit card details, etc., so Data Collection is true.
+
+2. **First Party Collection/Use**: They use this data for marketing, event invitations, contests, and account management, which fits First Party Use, so it's true.
+
+3. **Data Retention**: The policy doesn't specify a retention period beyond what's necessary, but since they don't mention discarding data indefinitely, I'll consider this false unless stated otherwise.
+
+4. **International and Specific Audiences**: The policy is for New Orleans, so not international. However, there might be specific audiences like event attendees, which makes it somewhat true but maybe better to mark as false because it's limited in scope beyond New Orleans.
+
+5. **Third Party Sharing/Collection**: They do share data with third parties for marketing and events, so this is true.
+
+6. **User Choice/Control**: There’s no mention of users being able to opt-out or control their data, so this is false.
+
+7. **User Access, Edit and Deletion**: No details on how users can access, edit, or delete their data, so false.
+
+8. **Data Security**: They mention security measures but don't specify technical safeguards like encryption, so perhaps false unless they imply it's secure.
+
+9. **Do Not Track**: The policy doesn’t mention anything about tracking user behavior, so this is false.
+
+Wait, reviewing the initial analysis, I think Data Retention might be true if they do keep data for a specific time. But since there’s no explicit statement on retention period, maybe better to set it as false.
+
+Also, International and Specific Audiences: Since the policy is about New Orleans, not international, but they have events worldwide? The text doesn't specify; so perhaps mark this as true if they have events globally or false otherwise. Given the limited info, I'll assume false because of "NOTMC" likely being a local event.
+
+User Choice/Control: False, as no opt-out options mentioned.
+
+So, adjusting accordingly.
+</think>
+
+Data: true  
+First Party Collection/Use: true  
+Third Party Sharing/Collection: true  
+Do Not Track: false

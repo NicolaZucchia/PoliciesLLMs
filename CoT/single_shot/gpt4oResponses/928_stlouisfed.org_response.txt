@@ -1,0 +1,13 @@
+**First Party Collection/Use: Positive** - The policy clearly states that personal information is collected voluntarily and is used solely for the purposes specified by the user, which indicates a respectful approach to user data.
+
+**Data Retention: Neutral** - The policy mentions that information may be reviewed and discarded, but does not provide specific details on retention periods or practices, leading to a neutral sentiment.
+
+**Third Party Sharing/Collection: Neutral** - While the policy outlines circumstances under which information may be shared with third parties, it emphasizes that this is done under strict conditions, resulting in a neutral sentiment.
+
+**User Choice/Control: Positive** - The policy allows users to choose whether to provide personal information and offers options regarding cookies, indicating a user-friendly approach.
+
+**User Access, Edit and Deletion: Positive** - The policy provides a clear process for users to review, update, correct, or delete their personal information, which is a positive aspect of user control.
+
+**Data Security: Positive** - The policy states that security measures are in place to protect user information, suggesting a commitment to data security, which is a positive sentiment.
+
+**Do Not Track: Neutral** - The policy does not explicitly address Do Not Track signals, leading to a neutral sentiment regarding this aspect.

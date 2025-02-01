@@ -1,0 +1,36 @@
+<think>
+Alright, so I need to analyze the provided privacy policy text for a specific set of criteria. The user has outlined several points they want evaluated, such as whether there's a data collection agreement or Terms of Service (Policy Change), if it collects first-party data and uses it (First Party Collection/Use), how long data is retained (Data Retention), if international or specific audiences are targeted (International and Specific Audiences), if third parties are involved in sharing or collecting data (Third Party Sharing/Collection), user control over their own data, access, editing, and deletion options (User Choice/Control), as well as whether users can access, edit, and delete their data themselves (User Access, Edit, and Deletion), the security measures in place for data (Data Security), and if it follows a Do Not Track policy or has technical limitations that ignore user preferences (Do Not Track).
+
+First, I'll go through each criterion one by one.
+
+1. **Policy Change**: The text mentions an update to this privacy policy but doesn't specify if there's a formal agreement outlining changes. Since the main focus is on current practices, it seems unlikely that this is covered under a separate policy change document. So, probably no for Policy Change.
+
+2. **First Party Collection/Use**: The policy discusses NOTMC's collection of personal information such as names, addresses, phone numbers, and payment details when users interact with their online services. It also mentions the use of cookies to improve user experience, which relates to the first-party data collected. So yes, this is about First Party Collection/Use.
+
+3. **Data Retention**: The policy states that NOTMC will keep user information for as long as necessary and upon request, it can be deleted or blocked from third-party services if under 13. It doesn't specify how long they retain data beyond deletion requests, so I'm assuming a limited retention period but not indefinitely. Therefore, Data Retention is true.
+
+4. **International and Specific Audiences**: The policy mentions NOTMC's presence in New Orleans but doesn't explicitly say it serves international audiences or has specific audience targeting based on location. So, International and Specific Audiences would be false.
+
+5. **Third Party Sharing/Collection**: The text talks about using third-party cookies for ads and web beacons to track user behavior across sites. It also mentions sharing data with advertising partners. Therefore, yes, Third Party Sharing/Collection is true.
+
+6. **User Choice/Control**: The policy allows users to manage their preferences by opting out of marketing or receiving emails but doesn't explicitly say that users can control their own data beyond this. So maybe User Choice/Control is partially true but not fully.
+
+7. **User Access, Edit and Deletion**: The text mentions users being able to contact NOTMC to request deletion information, which suggests some level of access and editing through user action. It's implied but not explicitly stated that users can edit their own data, so this might be false.
+
+8. **Data Security**: The policy states that NOTMC uses cookies and has security measures in place, though it acknowledges potential vulnerabilities. So, Data Security is true.
+
+9. **Do Not Track**: There’s no mention of a Do Not Track mechanism or any tracking pixels; instead, the focus is on providing relevant ads based on user behavior. Thus, Do Not Track would be false.
+
+Putting this all together, I'll map each criterion with my analysis.
+</think>
+
+Other: true  
+Policy Change: false  
+First Party Collection/Use: true  
+Data Retention: true  
+International and Specific Audiences: false  
+Third Party Sharing/Collection: true  
+User Choice/Control: true (partial)  
+User Access, Edit and Deletion: false (implied access through contact, not direct editing)  
+Data Security: true  
+Do Not Track: false

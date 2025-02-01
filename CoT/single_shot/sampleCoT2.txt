@@ -1,0 +1,17 @@
+Let's think step by step.
+
+In the privacy policy:
+"{policy_text}"
+
+you have identified with "Yes" the present categories:
+"{policy_categories}"
+
+For only the present category, locate where it is discussed in the policy and evaluate the sentiment based on the following steps:
+- Step 1: Identify the relevant section of the text for this category.
+- Step 2: Analyze whether the text suggests a user-friendly or user-risky practice.
+- Step 3: Conclude with a sentiment classification for this category (e.g., Positive, Neutral, Negative) and explain why.
+
+In the answer, provide only the final sentiment analysis for each category in the following format:  
+Category Name: Sentiment (e.g. Positive, Neutral, Negative) - [Brief Explanation]
+
+Now, analyze the categories and provide your reasoning for each.

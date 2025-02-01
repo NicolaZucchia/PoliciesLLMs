@@ -1,0 +1,19 @@
+**Other: Neutral -** The policy provides general information about privacy practices without expressing a clear positive or negative sentiment.
+
+**Policy Change: Neutral -** The policy mentions that different servers may have different privacy statements, indicating potential changes, but does not provide specific details about how users will be informed of these changes.
+
+**First Party Collection/Use: Positive -** The policy clearly states that personal information is only collected when users choose to provide it, and it emphasizes that this information is used solely to respond to user inquiries.
+
+**Data Retention: Neutral -** The policy does not specify how long personal information is retained, only stating that it does not retain personally identifiable information unless provided by the user.
+
+**International and Specific Audiences: Neutral -** The policy does not address international users or specific audiences, leaving this aspect unmentioned.
+
+**Third Party Sharing/Collection: Negative -** The policy indicates that information may be shared if legally required, which could be seen as a risk to user privacy.
+
+**User Choice/Control: Positive -** The policy allows students to exclude their personal information from the directory, providing them with control over their data.
+
+**User Access, Edit and Deletion: Neutral -** The policy does not explicitly mention user access, editing, or deletion of their personal information.
+
+**Data Security: Positive -** The policy states that extensive security measures are in place to protect personal information, which is a positive aspect regarding data security.
+
+**Do Not Track: Neutral -** The policy does not mention any specific practices related to Do Not Track signals, leaving this aspect unaddressed.

@@ -1,0 +1,38 @@
+<think>
+Okay, I need to analyze the given Privacy Policy text and determine which of the 14 specific categories apply. Let me go through each category one by one.
+
+First Party Collection/Use: The policy mentions collecting information like names, email addresses, phone numbers (implied), addresses, credit card details for orders, and age when providing personal info. It also uses this data to manage accounts, send updates, and make purchases. So yes, first party stuff is definitely happening.
+
+Data Retention: The policy states that cookies have an expiration period but doesn't specify how long they're kept beyond that. However, since cookies are used for tracking user behavior, it's likely that data is retained for a reasonable time. But the answer here is 'false', so maybe they don't retain data past the session or lifetime.
+
+International and Specific Audiences: The policy mentions California privacy rights but doesn't address other regions. Since there's no mention of targeting specific international audiences beyond California, this should be false.
+
+Third Party Sharing/Collection: The policy talks about cookies being used by third-party advertising partners. So yes, they do share data with third parties for marketing purposes.
+
+User Choice/Control: The user can contact the company via email or phone to request their information for marketing purposes under California law. This indicates that users have some control over how their data is shared, so this applies.
+
+User Access, Edit and Deletion: The policy allows users to delete cookies through browser settings but doesn't mention deleting personal info like names or addresses. So access and editing of personal info beyond cookies might not be possible, making this false.
+
+Data Security: The policy mentions using secure systems with cookies for tracking user preferences but doesn't specify technical security measures against data breaches. Thus, data security is probably low on their list.
+
+Do Not Track: There's no mention of a do not track mechanism in the policy, so this should be false.
+
+Putting it all together, only certain categories apply based on the given text.
+</think>
+
+Data: First Party Collection/Use
+Other: Third Party Sharing/Collection
+Policy Change: Not mentioned
+First Party Collection/Use: true
+Data Retention: false (since data is likely deleted after session)
+International and Specific Audiences: false
+Third Party Sharing/Collection: true
+User Choice/Control: true (Calif. Shine the Light inquiry via contact)
+User Access, Edit and Deletion: false (only cookies can be deleted, not personal info)
+Data Security: false (no specific mention of security measures)
+Do Not Track: false
+
+Answer:
+First Party Collection/Use: true
+Third Party Sharing/Collection: true
+User Choice/Control: true
