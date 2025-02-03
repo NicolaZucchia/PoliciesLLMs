@@ -1,0 +1,21 @@
+```
+**Other: Positive -** The policy provides clear guidelines on handling sensitive personal information and offers a user-friendly way to opt out of further sharing, demonstrating a positive stance towards user privacy.
+
+**Policy Change: Neutral -** The text does not explicitly address any potential policy changes or updates, leaving users with uncertainty about future modifications to their privacy practices.
+
+**First Party Collection/Use: Neutral -** The policy informs users about how their data is used but lacks specific transparency features and opt-out options. Users are required to contact support manually to access or remove their data, which can be inconvenient.
+
+**Data Retention: Neutral -** The policy acknowledges that data may remain accessible beyond account cancellation due to legal and security reasons. This approach, while necessary for certain purposes, may inconvenience users by not allowing complete removal of their information.
+
+**International and Specific Audiences: Negative -** The policy does not mention targeting international audiences or specific groups globally. It focuses on data practices for existing users, which could limit inclusivity and user experience in a global context.
+
+**Third Party Sharing/Collection: Negative -** The policy lacks user control and opt-out options, limiting individual data rights and making it a risk as it could lead to unintended data usage.
+
+**User Choice/Control: Positive -** The policy provides clear mechanisms for users to access, review, correct, update, suppress, or limit their information, promoting user empowerment and transparency.
+
+**User Access, Edit and Deletion: Neutral -** The policy acknowledges user access and control but lacks specific, clear instructions on how to perform these actions. Users can request modifications by contacting support, but the process is vague.
+
+**Data Security: Neutral -** The policy mentions using commercially reasonable measures to safeguard information but does not specify encryption methods or access controls. It also admits that no one can guarantee complete safety, suggesting a balance of security without overstepping potential risks.
+
+**Do Not Track: Negative -** The absence of information makes it unclear how to opt out of tracking, potentially leaving users at a disadvantage or unaware of the need to seek alternative solutions.
+```

@@ -1,0 +1,21 @@
+```
+**Other: Positive -** The policy mentions that PBS.org complies with COPPA standards for children under 13 on their kid sites, ensuring appropriate measures are taken to protect their information. This demonstrates responsible handling of children's privacy and data collection practices.
+
+**Policy Change: Neutral -** The text clearly informs users about policy changes without alarming them. It maintains transparency by stating that the Privacy Policy was updated and noting users' continued use signifies acceptance of new terms.
+
+**First Party Collection/Use: Positive -** The text discusses how First Party information is collected directly from users through methods like email addresses for newsletters or reminders. It emphasizes that users can access, correct, or delete their information by creating an account or unsubscribing and provides contact methods to request changes or corrections. This proactive approach towards user control and privacy indicates a friendly practice with regard to handling personal data.
+
+**Data Retention: Neutral -** The privacy policy allows users to access and correct their information but does not specify how long the data is retained or provide a clear method for deletion. This leaves users with limited control, which can be seen as risky if they don't know how to remove their data from systems managed by third parties handling cookies and other tracking mechanisms automatically.
+
+**International and Specific Audiences: Negative -** The policy does not provide any guidance on handling international audiences, which could imply that it is neither user-friendly nor specifically tailored, potentially leading to a risk-based approach.
+
+**Third Party Sharing/Collection: Neutral -** The policy does not address third-party sharing or collection, hence the sentiment is neutral as no specific mention or implication is made about this category.
+
+**User Choice/Control: Positive -** The policy provides clear mechanisms for users to access and correct their information, empowering them to manage their personal details effectively without unnecessary complexity.
+
+**User Access, Edit and Deletion: Neutral -** The section discusses allowing users to access, edit, or correct information by following specific steps, such as unsubscribing or contacting via provided methods. However, it does not explicitly mention how users can delete their data once accessed. Additionally, the requirement of creating a password-protected account may limit users' ability to fully control and manage their personal information without additional setup.
+
+**Data Security: Neutral -** The policy mentions using appropriate physical, electronic, and managerial procedures to protect data, indicating a commitment to security. However, without specifics on ease of use or vulnerabilities, the sentiment is neutral.
+
+**Do Not Track: Negative -** The policy does not explicitly address "Do Not Track," suggesting a lack of compliance with privacy standards regarding tracking user data.
+```

@@ -1,0 +1,19 @@
+```
+**Other: Neutral -** The section discusses the use of third-party vendors' cookies for advertising purposes but does not explicitly warn about privacy risks or offer opt-out options. It presents information neutrally without pushing a clear positive or negative stance regarding user experience.
+
+**First Party Collection/Use: Positive -** The policy explains that Illini Media uses personal information collected from users to enhance website functionality and personalize experiences. Users can opt out of newsletters but still receive aggregated usage information, indicating a balance between transparency and user control.
+
+**Data Retention: Negative -** The policy does not discuss how long personal information is retained or disclose conditions for data deletion, leaving users with limited understanding of data management practices.
+
+**International and Specific Audiences: Neutral -** The privacy policy does not discuss how Illini Media handles international data or targets specific regions, so the sentiment is Neutral because there's no information provided on this topic.
+
+**Third Party Sharing/Collection: Neutral -** The policy informs users that third-party cookies may be used for advertising and tracking but does not indicate any specific risks or unauthorized practices, maintaining a neutral stance regarding user data sharing.
+
+**User Choice/Control: Positive -** The policy provides clear mechanisms for users to opt out of newsletters and access or correct their personal information. This demonstrates user-friendly practices by respecting user privacy, making it positive.
+
+**User Access, Edit and Deletion: Positive -** The text indicates that users can access and update their personal information, which is a positive aspect of user control.
+
+**Data Security: Positive -** The policy outlines the use of appropriate physical, electronic, and managerial procedures to safeguard and secure collected information. This demonstrates a commitment to protecting user data, which is indicative of user-friendly practices as they prioritize data protection without compromising user trust.
+
+**Do Not Track: Negative -** The privacy policy does not mention anything about a "Do Not Track" section, indicating that Illini Media has not addressed this feature. This lack of information could imply that users are unaware of how tracking is handled or if it's supported at all, leaving them in the dark regarding their preferences.
+```

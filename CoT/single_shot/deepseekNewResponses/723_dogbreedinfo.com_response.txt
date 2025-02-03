@@ -1,0 +1,15 @@
+```
+**Other: Neutral -** The policy does not explicitly mention an "Other" category, and without specific information, it cannot be classified positively or negatively.
+
+**First Party Collection/Use: Positive -** The privacy policy clearly outlines that Dog Breed Info Center collects personal information only when users explicitly provide it through specific actions such as submitting photos or filling out forms. The information is used for research purposes and does not exceed the necessary scope, ensuring user trust and transparency.
+
+**Data Retention: Neutral -** The privacy policy provides some details about data collection and usage but does not explicitly outline the duration for which data is retained. Without information on this, users may not know if their data remains secure or could be misused.
+
+**International and Specific Audiences: Neutral -** The policy doesn't address international audiences specifically, so the sentiment is neutral.
+
+**Third Party Sharing/Collection: Positive -** Dog Breed Info Center collects minimal personal information for specific purposes like submitting content, which they do not sell or share without consent. They also provide clear information about how third-party ads use visit data without collecting sensitive details themselves, showing a commitment to user privacy and transparency.
+
+**User Choice/Control: Neutral -** The privacy policy does not explicitly outline user choice or control over their information collection and ad preferences, making the sentiment neutral as there's no indication of being risky or lacking in customization.
+
+**Data Security: Neutral -** The policy does not provide specific details on data security practices, such as encryption or secure handling of user data. Without information on these aspects, it is impossible to determine the level of protection Dog Breed Info Center provides for user data.
+```

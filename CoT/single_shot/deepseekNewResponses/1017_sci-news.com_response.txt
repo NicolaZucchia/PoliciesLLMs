@@ -1,0 +1,19 @@
+```
+**Other: Neutral -** The policy does not explicitly mention an "Other" category. However, based on the provided text, it seems that the website has outlined its collection and use of personal information clearly, without any indications of unspecified risks or practices.
+
+**Policy Change: Neutral -** The text does not provide explicit information about user-friendly aspects but acknowledges possible future policy updates without indicating sentiment.
+
+**First Party Collection/Use: Positive -** The policy clearly outlines how information from direct user interactions (like filling out forms or using cookies) is collected, used for website functionality, improving services, and contact purposes. It emphasizes transparency and user control by allowing users to opt out of cookies.
+
+**Data Retention: Neutral -** The policy provides a method to delete cookies but lacks clarity on data retention duration and additional data handling, making user decisions ambiguous.
+
+**International and Specific Audiences: Neutral -** There is no mention of international audiences or specific targeting in the provided privacy policy.
+
+**Third Party Sharing/Collection: Positive -** The policy focuses on controlling only its own user data and does not mention sharing with others, which is a favorable aspect regarding user privacy.
+
+**User Choice/Control: Positive -** Sci-News.com explicitly states that users can request removal of their personal information, granting them control and empowerment, which is user-friendly.
+
+**User Access, Edit and Deletion: Negative -** The policy does not provide information on how users can access, edit, or delete their data. Without clear guidance on user rights, it may imply a lack of control for users, potentially leading to negative implications regarding privacy practices.
+
+**Data Security: Neutral -** The policy mentions cookies for tracking and user consent settings, indicating control but lacks specific details on encryption or comprehensive security practices.
+```

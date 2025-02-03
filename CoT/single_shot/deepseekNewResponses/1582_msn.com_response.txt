@@ -1,0 +1,21 @@
+```
+**Other: Positive -** The policy ensures that users under 13 must obtain consent before their information is used, providing parents with a way to manage their child's account. This proactive approach demonstrates respect for children's privacy, making the practice user-friendly rather than risky.
+
+**Policy Change: Neutral -** The text does not discuss any policy change or related updates, leaving the sentiment indeterminate.
+
+**First Party Collection/Use: Neutral -** The policy describes the collection and use of personal information for targeted ads, but the opt-out mechanisms provided suggest a neutral stance on user control.
+
+**Data Retention: Positive -** The policy ensures age-appropriate data handling by limiting retention for minors under 13 and provides clear consent processes for parents, indicating a user-friendly approach.
+
+**International and Specific Audiences: Neutral -** No specific information about international or specific audiences is provided in the given text.
+
+**Third Party Sharing/Collection: Neutral -** The policy acknowledges that Microsoft shares information with third-party services like Bing for location-based searches and targeted ads, which may be intrusive. However, users can opt out of ad targeting through specific pages.
+
+**User Choice/Control: Positive -** The policy provides users with an easy way to opt out of receiving promotional emails by following specific instructions within their communications, indicating a positive experience regarding user choice and control.
+
+**User Access, Edit and Deletion: Neutral -** The policy requires users to provide additional information when accessing certain features, balancing privacy protection with some complexity that may be cumbersome for users.
+
+**Data Security: Neutral -** The policy mentions using commercially available tools to secure data and encrypting communications but doesn't provide specific details on the effectiveness or user-friendliness of these methods.
+
+**Do Not Track: Negative -** The privacy policy does not mention anything about a "Do Not Track" section, indicating that Microsoft has not addressed this feature. This lack of information could imply that users are unaware of how tracking is handled or if it's supported at all, leaving them in the dark regarding their preferences.
+```

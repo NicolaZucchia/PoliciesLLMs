@@ -1,0 +1,4 @@
+**Category Name: First Party Collection/Use****
+**Category Name: ** Data Retention**
+**Third Party Sharing/Collection: Neutral - The policy does not explicitly detail how personal information is shared with third parties beyond mentioning that linked sites have separate policies, leaving room for assumed user awareness without explicit opt-out mechanisms in this category.****
+**User Access, Edit and Deletion: ** Negative - The policy does not provide users with methods to access, edit, or delete their personal information directly through a profile page. This absence may make it difficult for users to manage their data effectively.**

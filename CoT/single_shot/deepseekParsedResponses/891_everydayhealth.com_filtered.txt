@@ -1,0 +1,4 @@
+**Category Name: User Choice/Control****
+**User Access, Edit and Deletion: Positive****
+**Data Security: ** Neutral - The policy mentions using SSL for encryption, indicating efforts to secure data transmission, but also acknowledges potential risks without actively promoting these measures as safe or risk-free. This balanced approach leads to a neutral sentiment regarding user safety practices.**
+**Data Security: ** Neutral - The policy acknowledges security practices like SSL encryption and admits potential risks, leading to a neutral sentiment about user safety measures.**

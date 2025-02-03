@@ -1,0 +1,4 @@
+**First Party Collection/Use: Neutral - [The policy mentions security measures but lacks specifics on collection and usage, leaving uncertainty for users.]****
+**User Choice/Control: Positive - The policy provides clear options for users to review and change their personal information, ensuring control over their data. Additionally, users can access a California Customer Choice Notice if desired.****
+**Data Security: ** Neutral - The policy outlines basic security measures such as using encryption for data transmission but doesn't provide robust or consistent safeguards. It leaves the onus on users to implement additional precautions beyond what's provided by The Atlantic, indicating a moderate level of concern about information security.**
+**Category Name: Do Not Track - Neutral****

@@ -1,0 +1,5 @@
+**First Party Collection/Use: Positive - The policy emphasizes user control by requiring personal information only when voluntarily provided. It uses first-party data for internal purposes like improving services or events but doesn't share it without consent. This approach empowers users and ensures data handling is transparent, enhancing trust and user experience.**
+**Category Name: Data Retention****
+**Third Party Sharing/Collection: Neutral - The policy discusses using third-party tools like Google Analytics and external services but emphasizes secure handling, avoiding risky sharing practices.****
+**User Choice/Control: Positive -****
+**Category Name: Data Security****

@@ -1,0 +1,6 @@
+**Step-by-Step Explanation: ****
+**Final Sentiment Analysis: ****
+**First Party Collection/Use: Positive -****
+**Data Retention: Negative - The policy does not explicitly detail how long personal information is retained, raising concerns about transparency and user control over data management. Additionally, third parties may collect further data through cookies or other means, which could extend the retention period beyond what users are informed about, leading to potential privacy risks without clear opt-out mechanisms.****
+**Category Name: Third Party Sharing/Collection - Negative****
+**Category Name: User Choice/Control****

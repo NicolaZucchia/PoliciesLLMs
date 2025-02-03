@@ -1,0 +1,21 @@
+```
+**Other: Neutral -** The policy does not explicitly address "Other" practices beyond those already outlined in specific sections. This neutrality implies that users are informed about all relevant information without unexpected omissions, maintaining a consistent level of transparency.
+
+**Policy Change: Neutral -** The text discusses potential changes to the privacy policy when ownership or asset transfers occur, which is normal for business operations but may pose some uncertainty regarding user information handling.
+
+**First Party Collection/Use: Positive -** The policy emphasizes transparency and allows users to manage their information effectively, indicating a user-friendly approach.
+
+**Data Retention: Negative -** The policy does not address data retention, leaving users unaware of how long their personal information may be retained. This lack of transparency makes it a risky practice without user-friendly information about data management and deletion processes.
+
+**International and Specific Audiences: Neutral -** The policy does not provide detailed information on how PRH handles data from non-US users or outline its privacy practices internationally, leaving some ambiguity regarding user protection.
+
+**Third Party Sharing/Collection: Negative -** The policy discusses how information shared in public areas may be accessible to third parties without explicit user control, potentially leading to privacy risks for users. However, it does not mention any measures taken by PRH to secure this information or prevent unauthorized access.
+
+**User Choice/Control: Positive -** The policy provides clear options for unsubscribing from emails and correcting information, offering a user-friendly way to manage personal data.
+
+**User Access, Edit and Deletion: Positive -** The policy allows users to manage their accounts with tools like password changes and privacy settings, which is a positive aspect of user control.
+
+**Data Security: Neutral -** The policy discusses aspects of data handling but does not provide explicit details on security measures such as encryption or access controls. The language used suggests caution and awareness of potential risks due to data being transferred internationally, but it lacks specific reassurances about effective measures.
+
+**Do Not Track: Negative -** The privacy policy does not mention anything about a "Do Not Track" section, indicating that PRH has not addressed this feature. This lack of information could imply that users are unaware of how tracking is handled or if it's supported at all, leaving them in the dark regarding their preferences.
+```

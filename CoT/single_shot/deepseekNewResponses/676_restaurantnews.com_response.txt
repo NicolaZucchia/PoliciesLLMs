@@ -1,0 +1,21 @@
+```
+**Other: Neutral -** The policy does not explicitly mention an "Other" category, but it discusses reasonable privacy measures regarding cookies and third-party practices without a clear positive or negative sentiment.
+
+**Policy Change: Negative -** The policy states that changes can be made without prior notice, which may lead to users missing important updates that affect their privacy, undermining user trust.
+
+**First Party Collection/Use: Positive -** The policy clearly outlines that only IP addresses are collected without linking them to personally identifiable information, ensuring transparency and user trust.
+
+**Data Retention: Neutral -** The policy does not explicitly mention data retention practices, but the default assumption is that IP addresses are retained for a limited period for analytics, which is standard practice.
+
+**International and Specific Audiences: Neutral -** The policy does not address international audiences or specific regions, resulting in a neutral sentiment as there is no information provided.
+
+**Third Party Sharing/Collection: Negative -** The policy discusses the use of third-party cookies for advertising but lacks detailed information on user control and opt-out options, which could pose privacy risks.
+
+**User Choice/Control: Negative -** The policy does not provide any means for users to opt out of tracking by third-party services or influence how their personal information is used, which does not empower users.
+
+**User Access, Edit and Deletion: Negative -** The policy does not provide any information about allowing users to access, edit, or delete their data, which means users cannot manage their personal information effectively.
+
+**Data Security: Neutral -** The policy mentions third-party tracking without providing clear opt-out instructions, offering limited control over user privacy.
+
+**Do Not Track: Negative -** The policy does not provide clear information or instructions for users to disable tracking technologies, which may leave users vulnerable to data collection without their consent.
+```

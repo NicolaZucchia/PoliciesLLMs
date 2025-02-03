@@ -1,0 +1,21 @@
+```
+**Other: Neutral -** The policy does not explicitly mention an "Other" category, and without specific details about practices under this category, it is difficult to assess user-friendliness or risk.
+
+**Policy Change: Neutral -** The policy does not provide information about ongoing or recent updates, leaving the sentiment neutral as there are no indicators of improvement or concern.
+
+**First Party Collection/Use: Positive -** The policy outlines responsible handling of user data, ensuring that personal information is used for communication while limiting third-party access, which is user-friendly.
+
+**Data Retention: Neutral -** The policy discusses data retention practices but lacks clarity on how long information is kept, which introduces some risk without a strong user-friendly sentiment.
+
+**International and Specific Audiences: Neutral -** There is no mention of international audiences or specific regions in the policy, resulting in a neutral sentiment as it does not address this category.
+
+**Third Party Sharing/Collection: Neutral -** The policy states that personal information may be shared with third-party service providers for processing donations, but the sentiment remains neutral due to the potential risks involved.
+
+**User Choice/Control: Positive -** The policy emphasizes user control over personal information, ensuring that data is not shared without consent, which is empowering for users.
+
+**User Access, Edit and Deletion: Negative -** The policy does not provide mechanisms for users to access, edit, or delete their information, limiting user control and posing a higher risk of exposure.
+
+**Data Security: Positive -** The policy outlines strong security measures such as encryption and compliance with standards, indicating a user-friendly approach to data protection.
+
+**Do Not Track: Negative -** The absence of any mention of "Do Not Track" options indicates a lack of user control over tracking data, making the practice risky for users.
+```

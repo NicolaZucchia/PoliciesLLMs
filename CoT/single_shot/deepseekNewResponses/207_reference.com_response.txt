@@ -1,0 +1,21 @@
+```
+**Other: Positive -** The policy provides California customers with clear information about how their personal data may be disclosed and offers an opt-out mechanism without any cost. This supports transparency and empowers users to manage their personal information, enhancing user experience.
+
+**Policy Change: Neutral -** The relevant section for "Policy Change" does not exist in the provided text, leaving users without guidance on potential updates.
+
+**First Party Collection/Use: Neutral -** The policy discusses the collection of first-party information related to user accounts but emphasizes secure encryption and limited usage within its own systems, indicating cautious handling without significant public disclosure.
+
+**Data Retention: Negative -** The policy does not provide specific details on how long user data is retained or what types of data are stored beyond general usage tracking. Without information on data retention periods, users cannot assess the practice's impact on their privacy and consent.
+
+**International and Specific Audiences: Negative -** The policy lacks specific safeguards for international users, leaving them with limited control over their data's security and storage location, which introduces potential privacy risks.
+
+**Third Party Sharing/Collection: Neutral -** The policy does not explicitly mention third-party sharing under this category, leaving the sentiment neutral as there's no detailed information on how personal data is shared with third parties.
+
+**User Choice/Control: Positive -** The policy provides clear opt-out mechanisms, respecting user control over personal information sharing.
+
+**User Access, Edit and Deletion: Neutral -** The policy uses hashing to securely manage passwords by removing raw data from storage, but it lacks features for full account deletion or editing beyond the described method. This could limit user flexibility and security without additional controls, affecting ease of use.
+
+**Data Security: Positive -** The policy discusses measures such as encryption for user data, access control restrictions, compliance with privacy regulations like GDPR and CCPA, and the use of hashing to protect user passwords. These practices demonstrate a proactive approach to safeguarding personal information, making it user-friendly and secure.
+
+**Do Not Track: Positive -** The section on "Your California Privacy Rights" explains that users can exercise their rights regarding personal information disclosure. The policy indicates a positive approach by providing clear information and mechanisms for users to opt out or modify their settings, thus being user-friendly.
+```

@@ -1,0 +1,21 @@
+```
+**Other: Neutral -** The policy does not explicitly mention an "Other" category, and since there is no section or information labeled as "Other," we cannot determine a sentiment classification for this category based on the provided policy.
+
+**Policy Change: Positive -** The policy change section is user-friendly as it provides clear information about future changes through the Privacy Policy and encourages users to check back for updates.
+
+**First Party Collection/Use: Positive -** The policy highlights the collection of user data for enhancing services and personalizing experiences, which is beneficial for users as it leads to tailored content and improved service quality.
+
+**Data Retention: Positive -** The policy mentions that Liquor.com collects only non-personal aggregated data for improving service quality and personalizing content. This approach is practical and user-focused, aiming to enhance the experience without burdening users with unnecessary retention of information.
+
+**International and Specific Audiences: Neutral -** The provided privacy policy does not explicitly address how Liquor.com targets content for international or specific audiences. The lack of explicit mention means the practice isn't detailed regarding international targeting, leading to a neutral sentiment towards this category in the policy.
+
+**Third Party Sharing/Collection: Positive -** The text informs users that third-party advertising companies may use non-personalized data to serve ads. However, Liquor.com states that this aggregated, anonymous data is used only for improving services and displaying targeted content. This approach allows users to make informed choices about the information shared with advertisers without compromising their privacy rights.
+
+**User Choice/Control: Positive -** The policy provides clear and accessible options for users to access, correct, update, or modify their personal information, demonstrating a user-friendly approach that empowers consumers with control over their data.
+
+**User Access, Edit and Deletion: Neutral -** There is no information provided in the Liquor.com Privacy Policy regarding how users can access, edit, or delete their personal information.
+
+**Data Security: Positive -** The policy mentions that all information is stored on restricted database servers, indicating a proactive approach to securing user data, which suggests user-friendly practices in protecting privacy.
+
+**Do Not Track: Neutral -** The policy does not mention anything about the handling of user tracking or compliance with DNT regulations. Therefore, it's impossible to determine if their practices are friendly or risky, leading to a neutral sentiment.
+```

@@ -1,0 +1,21 @@
+```
+**Other: Neutral -** The policy states that information may be used for additional purposes disclosed at the time of collection or with consent, which leaves some ambiguity regarding user awareness of data usage.
+
+**Policy Change: Neutral -** The section on policy changes informs users about future alterations but lacks details on how these changes will affect them, resulting in a neutral sentiment.
+
+**First Party Collection/Use: Positive -** The policy provides clear transparency about the collection of personal information, allowing users to control their profile settings and ensuring responsible handling of sensitive data.
+
+**Data Retention: Negative -** The policy does not explicitly detail how long personal information is retained, raising concerns about transparency and user control over data management.
+
+**International and Specific Audiences: Negative -** The absence of explicit guidelines for international audiences suggests inadequate protection for specific groups, potentially leaving them at higher risk regarding their data privacy.
+
+**Third Party Sharing/Collection: Negative -** The policy mentions that when users share content via social media, they are subject to the respective platform's privacy policies, indicating limited user control and lack of transparency about third-party practices.
+
+**User Choice/Control: Negative -** The privacy policy discusses limited control options for users regarding their personal information, leaving them with minimal control over how their data is used.
+
+**User Access, Edit and Deletion: Negative -** The policy lacks guidance on account management, requiring manual intervention which can be risky for users seeking convenience.
+
+**Data Security: Neutral -** The privacy policy discusses data security by outlining protective measures and acknowledging potential risks, ensuring transparency but not eliminating concerns about internet security.
+
+**Do Not Track: Negative -** The absence of a do not track section implies the company may not implement necessary privacy controls, potentially allowing third parties to collect more information than intended without user consent.
+```

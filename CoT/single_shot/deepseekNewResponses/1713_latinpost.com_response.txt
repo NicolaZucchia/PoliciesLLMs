@@ -1,0 +1,21 @@
+```
+**Other: Negative -** The policy emphasizes user responsibility for maintaining the confidentiality of their User ID and warns of potential liabilities, which could be seen as risky and not user-friendly.
+
+**Policy Change: Neutral -** The policy states that changes can be made without prior notice and that users should check for updates regularly, providing information without addressing user concerns or benefits.
+
+**First Party Collection/Use: Negative -** The policy requires users to manage their User IDs and personal information responsibly but lacks guidance on security measures or consequences for misuse, which could be risky for users.
+
+**Data Retention: Negative -** The policy does not address data retention, leaving users uncertain about the duration of information storage and potential implications for privacy rights.
+
+**International and Specific Audiences: Neutral -** The privacy policy does not mention anything related to targeting users outside a specific region or in international markets.
+
+**Third Party Sharing/Collection: Negative -** The policy does not clearly address third-party practices, leaving users at risk of unintended data sharing.
+
+**User Choice/Control: Neutral -** The policy does not explicitly mention "User Choice/Control," so its sentiment cannot be directly determined from the provided text, indicating a lack of guidance on how users can exercise control over their data.
+
+**User Access, Edit and Deletion: Negative -** The policy emphasizes strict confidentiality and security, requiring users to maintain accurate information and take responsibility for account security, making it complex and potentially risky for users.
+
+**Data Security: Neutral -** The text discusses data security by emphasizing the importance of accurate and confidential information management but does not express a strong user-friendly or risk mitigation sentiment.
+
+**Do Not Track: Negative -** The policy does not explicitly address "Do Not Track," indicating a lack of transparency about user preferences regarding data tracking, which could leave users uncertain about how their information is being tracked.
+```

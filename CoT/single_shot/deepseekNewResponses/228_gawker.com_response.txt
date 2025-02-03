@@ -1,0 +1,17 @@
+```
+**Policy Change: Positive -** The text acknowledges legal requirements for information disclosure with a proactive approach to user notification.
+
+**First Party Collection/Use: Positive -** The policy provides clear opt-out options for first-party cookies from Google, offering transparency and user control over tracking without excessive burden or risk.
+
+**Data Retention: Negative -** The policy does not provide any details on how long personal information is retained. This omission leaves users unaware of the duration for which their data may be stored, potentially increasing privacy risks.
+
+**Third Party Sharing/Collection: Neutral -** The policy acknowledges the sharing of information with third-party ad servers and services through opt-out options for cookies, indicating user control. However, it does not explicitly state that this sharing is a frequent occurrence or provide detailed information on how data might be shared in various scenarios beyond legal requirements.
+
+**User Choice/Control: Positive -** The policy provides clear opt-out options for both Google cookies and third-party advertisers, allowing users easy control over their information preferences without significant difficulty or risk.
+
+**User Access, Edit and Deletion: Neutral -** The privacy policy does not explicitly address how users can access, edit, or delete their personal information. The only related section is opt-out for cookies under third parties, which doesn't provide direct control over user data on Kinja's platform.
+
+**Data Security: Positive -** The policy highlights clear security measures like technical, administrative, and physical safeguards to protect user data and provides information on handling data during business transitions, showing proactive steps to ensure user safety.
+
+**Do Not Track: Positive -** The policy provides opt-out links for cookies from Google and third-party providers, indicating proactive user control. It also offers transparency on contest rules, allowing users to make informed decisions regarding sharing information with organizers.
+```

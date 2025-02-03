@@ -1,0 +1,3 @@
+**Category Name: First Party Collection/Use****
+**Category Name: Data Retention - Neutral****
+**Third Party Sharing/Collection: ** Neutral - [The policy states that personal information may be shared with third-party service providers for processing donations and payments. While this could expose sensitive data, the use of PCI-DSS compliance and secure networks mitigates potential risks. However, the practice itself raises user concerns about sharing information without direct control.]**

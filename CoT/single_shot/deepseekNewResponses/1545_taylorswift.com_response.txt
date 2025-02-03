@@ -1,0 +1,21 @@
+```
+**Other: Negative -** The sections discussing Asset Transfers, Service Providers, and Sweepstakes highlight potential risks and third-party involvement without clear user control or consent, indicating a focus on possible privacy pitfalls for users.
+
+**Policy Change: Positive -** The policy states that users will be notified of significant changes and that their rights will not be reduced without explicit consent, which is user-friendly.
+
+**First Party Collection/Use: Positive -** The policy mentions users' ability to manage their account preferences and unsubscribe from emails, indicating a level of control. While it doesn't explicitly detail handling methods, this suggests user-friendly practices with first-party data.
+
+**Data Retention: Neutral -** The policy does not explicitly detail the retention periods or conditions for personal information. Users may lack clarity on how their data is managed over time, which could impact trust and user experience.
+
+**International and Specific Audiences: Neutral -** The policy is clear about complying with U.S. laws but doesn't actively support global operations, resulting in a neutral stance regarding international use.
+
+**Third Party Sharing/Collection: Positive -** The policy provides options for users to manage their data, such as unsubscribing from emails or modifying preferences. It also mentions that third-party information collection is limited to necessary activities like running promotions, which suggests responsible handling and user control.
+
+**User Choice/Control: Positive -** The policy provides clear options for users to manage their information sharing preferences and unsubscribe from communications, empowering them with control while respecting privacy rights. This fosters a positive experience for users seeking control over their personal data.
+
+**User Access, Edit and Deletion: Neutral -** The section allows users to access, edit, or delete their information through specific methods like contacting the company or adjusting preferences. However, it doesn't mention any strong security measures such as requiring complex passwords or multi-factor authentication, which could be seen as a risk factor despite not being explicitly risky.
+
+**Data Security: Neutral -** The text does not explicitly mention data security or any relevant policies related to it. However, general privacy policy sections often touch on security practices indirectly by discussing user accounts, tracking, and third-party interactions. Since this section is missing from the provided policy, it is unclear if specific measures are in place for data protection.
+
+**Do Not Track: Neutral -** The policy informs users about their ability to opt out of tracking but does not actively provide instructions on how to enable or disable such features, leaving limited user control.
+```

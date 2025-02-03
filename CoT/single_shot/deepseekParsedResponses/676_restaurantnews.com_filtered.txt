@@ -1,0 +1,4 @@
+**Category Name: Policy Change - Negative****
+**First Party Collection/Use: Positive - The policy clearly outlines that only IP addresses are collected without linking them to personally identifiable information. This is used for internal analytics, ensuring transparency and user trust with no data sharing beyond the site's operations.****
+**Category Name: Third Party Sharing/Collection****
+**Category Name: Do Not Tracker****

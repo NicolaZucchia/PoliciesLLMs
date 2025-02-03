@@ -1,0 +1,17 @@
+```
+**Policy Change: Positive -** The policy states that users will be notified of significant changes and that their rights will not be reduced without explicit consent, which is user-friendly.
+
+**First Party Collection/Use: Neutral -** The policy discusses the collection and use of first-party data, noting that it is essential for providing services but also highlights steps taken to secure this information. This balance between necessity and security suggests a cautious approach, leading to a neutral sentiment as there's no clear indication of misuse beyond what users can control.
+
+**Data Retention: Negative -** The policy discusses the retention of user data in multiple locations, including a non-EU server, which may not align with privacy standards. This could lead to concerns about data security and control for users.
+
+**International and Specific Audiences: Negative -** The privacy policy does not explicitly address international or specific audiences. The information about data storage in the U.S. raises concerns about compliance with EU regulations, which could be a risk for users based in the European Union. Additionally, the contact information provided is directed to local offices in Bellevue, WA, and Luxembourg, making it less accessible to non-EEA users.
+
+**Third Party Sharing/Collection: Neutral -** The policy mentions the use of third-party tools like Google Analytics for non-personally identifiable information but does not explicitly warn about third-party sharing or provide safeguards, leading to a neutral sentiment.
+
+**User Choice/Control: Neutral -** The policy mentions that users can opt out of promotional emails by providing instructions in email communications. However, it does not specify additional options for users to control their personal information beyond this single aspect.
+
+**User Access, Edit and Deletion: Neutral -** The privacy policy mentions that users can request corrections, updates, or deletions of their personally identifiable information by contacting Valve. However, the process is not clearly outlined, making it somewhat risky as users may need to reach out for assistance.
+
+**Data Security: Negative -** The policy mentions certain security measures but lacks detailed discussions on encryption, server security, and backup procedures, which are crucial for comprehensive data protection.
+```

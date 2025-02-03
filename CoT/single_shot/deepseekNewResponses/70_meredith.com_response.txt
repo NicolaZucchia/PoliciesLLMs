@@ -1,0 +1,15 @@
+```
+**Other: Neutral -** The policy does not explicitly mention an "Other" category, making it impossible to evaluate its sentiment.
+
+**First Party Collection/Use: Positive -** The policy allows users direct access to edit certain personal information through an "My Account" feature, empowering them with control over their own data.
+
+**Data Retention: Negative -** Meredith Corporation retains customer information indefinitely without providing users with options to control or limit this retention, which could erode user trust.
+
+**International and Specific Audiences: Neutral -** The absence of explicit information on international audience handling means we can't assume positive measures, and there's also no indication of a risk-based approach without such details.
+
+**Third Party Sharing/Collection: Positive -** Meredith Corporation provides clear information on how they share user data through third parties, offering opt-out choices and indicating a positive sentiment towards user privacy.
+
+**User Choice/Control: Positive -** The policy provides clear instructions for users to opt out of tracking, advertising, and editing personal information, demonstrating proactive support for user privacy.
+
+**Data Security: Positive -** Meredith Corporation actively protects user privacy by offering options to control data sharing with third parties and provides guidance on managing their information through available settings, indicating a user-friendly practice.
+```

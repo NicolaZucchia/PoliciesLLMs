@@ -1,0 +1,21 @@
+```
+**Other: Positive -** The policy demonstrates a commitment to user privacy by avoiding spyware and adware, enhancing security and trust.
+
+**Policy Change: Neutral -** The section regarding policy change mentions that any important updates will be posted in a visible location (e.g., homepage or applications) but does not provide specific details about the frequency of these updates or whether users will be notified through clear channels like emails or alerts. This lack of transparency could lead to confusion for users who may not anticipate receiving such notifications, potentially causing inconvenience or concern.
+
+**First Party Collection/Use: Neutral -** The policy clearly outlines the collection and use of personal information through various means such as payments, fantasy baseball features, and account management. They emphasize encryption for security but do not indicate any risks or vulnerabilities in their practices, making it neutral regarding user safety.
+
+**Data Retention: Neutral -** The policy does not discuss data retention, so sentiment cannot be determined.
+
+**International and Specific Audiences: Negative -** The policy does not address how personal information is collected from international audiences or specific regions. The absence of any discussion on compliance with international laws or targeting specific areas leaves the category unaddressed, which could be seen as a risk in terms of potential oversight or lack of consideration for diverse user bases.
+
+**Third Party Sharing/Collection: Not Discussed -** The relevant section discussing Third Party Sharing/Collection was not present in the provided policy.
+
+**User Choice/Control: Positive -** The policy provides users with clear mechanisms to opt out of services or request privacy-related actions, such as contacting the company via email or mailing address. This indicates a proactive approach towards user control and respect for their privacy rights.
+
+**User Access, Edit and Deletion: Neutral -** The section explicitly states the user's ability to request information regarding data disclosures under California law. However, it does not provide detailed guidance on accessing or editing personal information beyond legal requests, leaving some aspect of user control unclear.
+
+**Data Security: Positive -** The section on "Our Security Practices" outlines strong measures for protecting account information, including password strength recommendations and encryption use, indicating a proactive approach to security.
+
+**Do Not Track: Negative -** The policy lacks information on implementing a "Do Not Track" mechanism, leaving users unable to control data collection, which is risky.
+```

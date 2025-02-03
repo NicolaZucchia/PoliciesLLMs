@@ -1,0 +1,15 @@
+```
+**Policy Change: Neutral -** The privacy policy does not discuss any policy changes, so this category remains neutral.
+
+**First Party Collection/Use: Neutral -** The policy provides clear information about how User-Type data (Subscriber and Usage Information) is collected, used, and shared, with measures to protect privacy. However, it doesn't fully empower users regarding the extent of data sharing or its misuse.
+
+**Data Retention: Neutral -** The policy mentions using Usage Information for various purposes but does not specify retention periods or mechanisms, leaving users with uncertainty about how their activity is tracked over time.
+
+**Third Party Sharing/Collection: Neutral -** The privacy policy does not discuss third-party sharing or collection, focusing instead on internal use of subscriber and usage information without involving third parties.
+
+**User Choice/Control: Positive -** The policy ensures that users only provide personal information when they choose and do so voluntarily, granting them control over their data.
+
+**User Access, Edit and Deletion: Neutral -** The policy does not explicitly address user access, edit, or deletion processes, leaving ambiguity for users regarding how they can manage their personal information.
+
+**Data Security: Negative -** The policy outlines some responsible uses of subscriber and usage information but lacks detailed measures to protect against data breaches or unauthorized access. It only mentions limited disclosures under specific conditions, not securing the data itself, which could reassure users about security.
+```

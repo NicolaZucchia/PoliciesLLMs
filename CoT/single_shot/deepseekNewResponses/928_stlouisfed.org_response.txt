@@ -1,0 +1,15 @@
+```
+**First Party Collection/Use: Positive -** The policy emphasizes user control by requiring personal information only when voluntarily provided. It uses first-party data for internal purposes like improving services or events but doesn't share it without consent. This approach empowers users and ensures data handling is transparent, enhancing trust and user experience.
+
+**Data Retention: Neutral -** The policy does not provide any information regarding data retention, so the sentiment cannot be determined from the given text.
+
+**Third Party Sharing/Collection: Neutral -** The policy discusses using third-party tools like Google Analytics and external services but emphasizes secure handling, avoiding risky sharing practices.
+
+**User Choice/Control: Positive -** The privacy policy explicitly states that users can provide personal information as they choose and offers methods to opt out of specific data collection. It also explains how to manage cookies and provides clear guidance on limiting feature access, enhancing user control over their experience.
+
+**User Access, Edit and Deletion: Positive -** The policy provides a clear and user-friendly method for users to review, update, correct, or delete their personal information via email. This indicates that the practice is designed with accessibility in mind, promoting ease of access without imposing significant restrictions or privacy risks beyond what's already outlined.
+
+**Data Security: Positive -** The privacy policy demonstrates a cautious and responsible approach to data security by using cookies for aggregate analysis without personal information collection, collaborating with contractors who handle data securely, and complying with laws like COPPA. The transparent and lawful handling of user data makes the site user-friendly and ensures compliance with regulations.
+
+**Do Not Track: Negative -** The policy does not mention "Do Not Track" or provide any means for users to opt out of tracking, which can leave users feeling that their privacy is not prioritized. This lack of information suggests a potential risk regarding user data collection without consent.
+```

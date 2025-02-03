@@ -1,0 +1,3 @@
+formattingDeepseek not working
+
+trying formattingWithGPT

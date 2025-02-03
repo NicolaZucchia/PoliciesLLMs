@@ -1,0 +1,21 @@
+```
+**Other: Positive -** The policy covers essential aspects like user information handling, security measures, and compliance, indicating thoroughness within their privacy framework.
+
+**Policy Change: Positive -** SCEA communicates policy changes clearly, allowing users to stay informed by checking periodically, ensuring responsible practices without being intrusive.
+
+**First Party Collection/Use: Positive -** SCEA collects necessary information such as email addresses when job seekers apply for employment, respecting user privacy by limiting data collection to what is required.
+
+**Data Retention: Negative -** The policy discusses retaining personal information but lacks specifics on how long, leading to uncertainty and potential misuse concerns.
+
+**International and Specific Audiences: Neutral -** The privacy policy does not explicitly address how SCEA handles data from outside the U.S. or specific measures for international audiences, so there's no clear indication of user-friendly practices or potential risks.
+
+**Third Party Sharing/Collection: Negative -** The policy indicates that SCEA shares personal information with third parties for business purposes without clear opt-out options, risking users' data being used in ways they don't consent to.
+
+**User Choice/Control: Neutral -** The policy provides some information sharing opportunities for job-related inquiries but lacks explicit user control mechanisms, leading to neutral sentiment regarding user choice.
+
+**User Access, Edit and Deletion: Neutral -** The policy allows users to access, edit, and delete their information, but the process lacks strong security measures typically expected in sensitive areas.
+
+**Data Security: Negative -** The policy acknowledges security measures but also hints at potential risks during data transfers, suggesting a cautious approach with room for improvement in user reassurance.
+
+**Do Not Track: Neutral -** The policy does not mention anything about "Do Not Track," so we cannot determine if it's user-friendly or risky, leaving the sentiment neutral.
+```

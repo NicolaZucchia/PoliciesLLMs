@@ -1,0 +1,21 @@
+```
+**Other: Negative -** The policy lacks transparency regarding user interactions and external links, which may expose users to unknown privacy practices.
+
+**Policy Change: Neutral -** There is no mention of policy changes in the provided text, making it impossible to assess whether the approach is user-friendly or risky.
+
+**First Party Collection/Use: Positive -** The policy clearly outlines that TGI Fridays collects information directly from users through their website and mobile app usage, indicating a beneficial use of data for users.
+
+**Data Retention: Negative -** The privacy policy does not address data retention, leaving users unaware of how long their information is stored or under what conditions it may be accessed.
+
+**International and Specific Audiences: Neutral -** The Privacy Policy does not discuss any measures TGI Fridays takes to cater to international audiences or specific demographics outside their local user base.
+
+**Third Party Sharing/Collection: Neutral -** The policy acknowledges its necessity for operations but doesn't actively promote transparency regarding third-party practices, which could leave users with limited control and information about data handling beyond what's necessary for service provision.
+
+**User Choice/Control: Positive -** The policy provides clear options for users to control their data usage, such as opting out of tracking through third parties and receiving marketing messages.
+
+**User Access, Edit and Deletion: Neutral -** The policy allows users to log out via the logout button, indicating a form of access. However, there's no mention of how users can edit or delete their personal information, which limits control over their data.
+
+**Data Security: Positive -** TGI Fridays takes proactive measures like secure networks and encryption to protect data, showing a commitment to user security.
+
+**Do Not Track: Negative -** The privacy policy does not address "Do Not Track," implying the company lacks proactive measures regarding user tracking preferences, which could be seen as risky.
+```

@@ -1,0 +1,15 @@
+```
+**Other: Neutral -** The "Other" category discusses the collection of aggregated data used to enhance site functionality without compromising individual privacy or exposing personal information.
+
+**First Party Collection/Use: Positive -** The policy properly collects first-party information to enhance customer experience through targeted marketing while respecting user choices about receiving future communications.
+
+**Data Retention: Neutral -** The policy does not explicitly mention data retention, so there is no clear indication of how long personal or aggregate information is retained. However, the general practice of collecting and using aggregated data without personally identifying users suggests responsible handling.
+
+**International and Specific Audiences: Neutral -** The policy does not discuss how CoffeeReview.com handles international audiences or specific groups beyond children under 13. Without addressing these aspects, the practice isn't user-friendly but also lacks necessary precautions regarding privacy concerns for broader demographics.
+
+**Third Party Sharing/Collection: Neutral -** The policy does not mention anything about third-party sharing or collection, so we can assume no issues related to this category.
+
+**User Choice/Control: Positive -** The policy explicitly provides users with the ability to opt out of receiving future emails through a specified method. This empowerment enhances user control and trust in their personal information management.
+
+**Data Security: Negative -** The policy does not explicitly mention any data security measures such as encryption or secure channels for handling sensitive information, which could leave users at a risk of their data being mishandled.
+```

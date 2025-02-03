@@ -132,10 +132,10 @@ def process_directories(gt_dir, pred_dir, output_csv):
 if __name__ == "__main__":
     # Directories containing the ground truth and prediction JSON files
     ground_truth_dir = "../Categories"
-    prediction_dir = "../Output/gpt35_turbo/jsonResults/2shot"
+    prediction_dir = "../Output/deepseek/jsonResults/2shot"
 
     # Output CSV file
-    output_csv = "../Metrics/gpt35_turbo/performance/2shot_metrics_results.csv"
+    output_csv = "../Metrics/deepseek/performance/2shot_metrics_results.csv"
 
     # Process directories and calculate metrics
     process_directories(ground_truth_dir, prediction_dir, output_csv)

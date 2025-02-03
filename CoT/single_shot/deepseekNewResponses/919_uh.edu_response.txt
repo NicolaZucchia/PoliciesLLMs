@@ -1,0 +1,15 @@
+```
+**Other: Neutral -** The policy does not explicitly discuss an "Other" category, leading to a neutral sentiment due to the lack of specific information on additional practices affecting privacy.
+
+**First Party Collection/Use: Positive -** The University of Houston uses cookies for login purposes within their IT Forum WebCT application, which is intended to enhance user experience, demonstrating a focus on user-friendly practices.
+
+**Data Retention: Neutral -** The policy mentions log analysis tools used to create summary statistics for site management. This practice aids in improving website performance without retaining sensitive information beyond necessary session tracking, thus not significantly impacting user privacy or risk.
+
+**International and Specific Audiences: Neutral -** The University of Houston's Privacy Policy does not explicitly address how the website serves international audiences or protects specific groups, leading to a neutral sentiment as it doesn't actively risk privacy concerns for these categories.
+
+**Third Party Sharing/Collection: Neutral -** The text does not mention third party sharing or collection, so it cannot be evaluated as Positive or Negative.
+
+**User Choice/Control: Neutral -** The policy mentions that user-provided information is used only for specified purposes and not shared without legal requirements, indicating some level of control but without explicit user choice options or opt-out mechanisms.
+
+**Data Security: Positive -** The privacy policy demonstrates a careful balance between user convenience and security by limiting cookie usage and securing personal information responsibly.
+```

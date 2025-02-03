@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Path to the metrics results CSV file
-csv_file_path = "../Metrics/gpt35_turbo/performance/2shot_metrics_results.csv"
+csv_file_path = "../Metrics/deepseek/performance/2shot_metrics_results.csv"
 
 # Load the CSV file into a DataFrame
 df = pd.read_csv(csv_file_path)

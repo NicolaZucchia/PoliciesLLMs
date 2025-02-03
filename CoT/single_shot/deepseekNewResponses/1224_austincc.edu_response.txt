@@ -1,0 +1,21 @@
+```
+**Other: Neutral -** The policy does not explicitly address an "Other" category, and thus no specific sentiment can be assigned based on the provided text.
+
+**Policy Change: Neutral -** The policy does not mention any specific procedures for notifying users about changes, making it difficult to assess sentiment.
+
+**First Party Collection/Use: Positive -** The policy demonstrates a responsible approach by collecting only what's necessary and using this data for legitimate purposes, ensuring user privacy is respected.
+
+**Data Retention: Negative -** The policy does not specify any retention periods for personal information, leaving users without crucial information about data security and usage duration.
+
+**International and Specific Audiences: Neutral -** The policy does not address whether ACC takes steps to comply with international privacy laws or ensure proper handling of data from non-US audiences.
+
+**Third Party Sharing/Collection: Neutral -** No information about third-party sharing or collection is present in this privacy policy, indicating a lack of engagement in this area.
+
+**User Choice/Control: Positive -** The policy explicitly states that students can exclude their personal information from the directory during registration, providing clear user control.
+
+**User Access, Edit and Deletion: Negative -** The privacy policy does not provide any details on how users can access, edit, or delete their information, leaving them without guidance.
+
+**Data Security: Neutral -** The policy discusses data security indirectly but lacks detailed technical safeguards or encryption methods for data storage, making it neither overly friendly nor risky.
+
+**Do Not Track: Negative -** The policy does not address "Do Not Track" practices, implying the institution lacks a mechanism to inform users about managing tracking cookies, which may contribute to privacy concerns.
+```

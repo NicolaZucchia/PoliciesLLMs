@@ -1,0 +1,6 @@
+**Policy Change: Neutral - The policy provides notice but lacks specifics on changes, potentially introducing uncertainty for users.****
+**Data Retention: Neutral - Yahoo does not explicitly outline its data retention policies in this document. The policy focuses on sharing information for legal reasons such as investigating illegal activities, preventing fraud, or taking action against threats or consensual security measures. Without specific retention periods mentioned, it's unclear how long user data is retained beyond necessary legal and security requirements.****
+**Third Party Sharing/Collection: Negative - Yahoo shares personal information with third parties governed by their own policies, which may not align with users' expectations and could lead to unintended data collection risks.****
+**Category Name: User Choice/Control****
+**User Access, Edit and Deletion: Neutral - The text provides clear options for account management, including editing information, unsubscribing from marketing communications when possible, and direct communication about certain services. This indicates a balance between user control and the provider's policies, making it neutral regarding sentiment towards user access and deletion practices.****
+**Category Name: Data Security****

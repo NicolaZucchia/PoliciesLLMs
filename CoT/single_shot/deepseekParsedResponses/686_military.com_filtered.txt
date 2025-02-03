@@ -1,0 +1,5 @@
+**Policy Change: ** Neutral - [The text provides clear instructions on updating or opting out of certain features like CAN cookies, which suggests a user-friendly approach to policy changes. However, there is also mention that declining cookies may negatively impact the user experience, indicating some potential risk for users who are sensitive to cookie-related settings.]**
+**Category Name: First Party Collection/Use - Positive (Reasoning)****
+**Final Sentiment Analysis: ****
+**Category Name: User Choice/Control - Positive****
+**Data Security: Positive - The policy provides clear instructions for managing privacy settings, offering a proactive approach to user control and transparency in handling data related to cookies and tracking technologies.****

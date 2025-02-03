@@ -1,0 +1,15 @@
+```
+**Other: Neutral -** The policy does not explicitly address a specific "Other" category with detailed information. If "Other" refers to additional terms not covered elsewhere, such as service usage or account security beyond what's mentioned (e.g., SSL encryption for payments), it might be neutral since there's insufficient detail to determine sentiment.
+
+**First Party Collection/Use: Neutral -** The policy collects personal data directly from users without offering a user-friendly way to manage or opt-out, which could be seen as limiting user control. However, the practice is standard for e-commerce platforms where PII is necessary for transactions and customer service.
+
+**Data Retention: Negative -** The privacy policy does not discuss data retention periods or deletion methods, leaving users uncertain about their information's longevity and potential access risks.
+
+**International and Specific Audiences: Neutral -** The privacy policy does not address whether personal information is shared internationally or targeted for audiences outside the specified region. Since it lacks such information, the sentiment is neutral as there are no explicit mentions of handling international data or specific audiences.
+
+**Third Party Sharing/Collection: Positive -** The policy acknowledges the sharing of non-personally identifiable information (non-PII) with third-party advertising partners and their service providers. However, it emphasizes that this data will be anonymized to protect PII. Additionally, users can opt out by visiting a specific website or contacting via email. These measures indicate a user-friendly approach, as it balances the need for targeted ads with user privacy protection.
+
+**User Choice/Control: Neutral -** The policy provides an opt-out option for newsletters but lacks comprehensive guidance on other aspects of user control, such as ad preferences or cookie management. There's no mention of risks associated with limited control.
+
+**Data Security: Positive -** The policy demonstrates a proactive approach to data security by implementing SSL encryption for payments, using non-personalizable tracking technologies, and providing opt-out options. While third-party trackers may still target users based on non-PPI, the inclusion of user control measures suggests informed and protective practices.
+```

@@ -1,0 +1,21 @@
+```
+**Other: Positive -** The policy does not have a dedicated section for "Other," but it effectively handles various privacy aspects, suggesting a positive sentiment as it provides tools for managing user identities and promotional messages.
+
+**Policy Change: Positive -** The "Policy Change" section clearly outlines how users will be informed of updates, ensuring transparency and user control, which is user-friendly.
+
+**First Party Collection/Use: Negative -** The privacy policy does not provide specific details on how personal data is collected or used by The News-Post, which leaves users at a disadvantage in understanding their rights and opting out.
+
+**Data Retention: Negative -** The policy lacks any mention of data retention policies, making it impossible to assess how user information is managed, which raises concerns.
+
+**International and Specific Audiences: Negative -** The absence of information regarding international data handling raises concerns about potential non-compliance with relevant regulations, indicating a negative sentiment.
+
+**Third Party Sharing/Collection: Neutral -** The policy mentions third-party ads and user content sharing but lacks clear protections for user data, resulting in a neutral sentiment.
+
+**User Choice/Control: Positive -** The policy provides clear options for users to opt out of marketing communications, offering a form of control over their personal information usage.
+
+**User Access, Edit and Deletion: Neutral -** The process for removing personal information is outlined but lacks specific tools or guidance, making it neutral as it depends on external actions without additional support.
+
+**Data Security: Positive -** The policy emphasizes secure data handling through SSL encryption and regular system reviews, indicating proactive measures to protect user information, hence a positive sentiment.
+
+**Do Not Track: Negative -** The policy does not mention anything about a "Do Not Track" feature, indicating a lack of user options regarding tracking preferences, which could leave users unaware of how their data is managed.
+```

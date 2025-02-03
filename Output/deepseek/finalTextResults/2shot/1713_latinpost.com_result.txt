@@ -1,0 +1,29 @@
+Based on the analysis of the provided Privacy Statements, here is the structured output for each category:
+
+**For the first Privacy Statement:**
+```
+Other: Yes
+Policy Change: No
+First Party Collection/Use: Yes
+Data Retention: Yes
+International and Specific Audiences: No
+Third Party Sharing/Collection: Yes
+User Choice/Control: No
+User Access, Edit and Deletion: No
+Data Security: No
+Do Not Track: No
+```
+
+**For the second Privacy Statement:**
+```
+Other: Yes
+Policy Change: No
+First Party Collection/Use: Yes
+Data Retention: Yes
+International and Specific Audiences: No
+Third Party Sharing/Collection: Yes
+User Choice/Control: Yes
+User Access, Edit and Deletion: No
+Data Security: Yes
+Do Not Track: No
+```

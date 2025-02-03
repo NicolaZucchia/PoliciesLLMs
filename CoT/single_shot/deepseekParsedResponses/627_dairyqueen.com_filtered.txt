@@ -1,0 +1,6 @@
+**Policy Change: ** Positive - [The policy change is clearly announced, informing users of the effective date, and there are no indicated user-risky practices introduced, maintaining a positive stance regarding privacy.]**
+**Category Name: First Party Collection/Use****
+**Category Name: International and Specific Audiences - Neutral****
+**Third Party Sharing/Collection: Neutral - The policy states that personal information is shared for legitimate purposes such as marketing and processing transactions, complying with laws, and ensuring service delivery. However, the lack of transparency regarding third parties' privacy practices introduces uncertainty, preventing users from fully trusting the process.****
+**Category Name: User Choice/Control****
+**Category Name: Data Security****

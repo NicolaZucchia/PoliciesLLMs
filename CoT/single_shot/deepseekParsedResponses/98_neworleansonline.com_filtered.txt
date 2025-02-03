@@ -1,0 +1,5 @@
+**First Party Collection/Use: ** Positive - The policy explains that cookies collect information for improving online experience and personalizing ads. It provides users with options to manage cookie settings, offering a transparent yet user-friendly approach to handling their data.**
+**Category Name: Data Retention****
+**Sentiment: ** Neutral - [The policy only specifies deletion upon parent/guardian notification but doesn't outline retention periods or guidelines beyond that.]**
+**Third Party Sharing/Collection: Neutral - The policy acknowledges the use of third-party technologies for advertising and analytics without explicitly highlighting benefits as superior to alternatives, nor does it emphasize safeguards against misuse.****
+**Data Security: Neutral - The policy mentions basic measures to protect user accounts and detect misuse but lacks details on encryption, storage methods, retention periods, and third-party data sharing. This makes it unclear whether the practices are sufficiently secure, which could leave users in a risk situation if they're looking for thorough security measures.****

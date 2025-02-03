@@ -1,0 +1,4 @@
+**First Party Collection/Use: Positive - The policy clearly outlines that they collect PI directly from users through voluntary input (e.g., registration) without requiring third parties in between, which supports personalized services and user engagement, making it a positive practice.****
+**Category Name: Data Retention****
+**Third Party Sharing/Collection: Neutral - The policy mentions that information may be shared with third parties for marketing purposes but does not provide an opt-out option. This leaves users somewhat at the mercy of third parties and may result in unintended use or interference, hence neutral sentiment regarding user control.****
+**Category Name: User Choice/Control****

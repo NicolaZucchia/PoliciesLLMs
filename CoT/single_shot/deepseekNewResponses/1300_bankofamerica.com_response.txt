@@ -1,0 +1,21 @@
+```
+**Other: Positive -** The "Other" category likely refers to additional policy sections that reinforce user control over privacy practices, such as opt-out options and transparency in data usage, suggesting a positive sentiment towards user-friendly privacy measures.
+
+**Policy Change: Neutral -** The text discusses updates to the Privacy Notice but does not explicitly state whether these changes are more or less favorable. However, opting out of online behavioral advertising (OBA) may still result in receiving generic ads from Bank of America, which could be considered neutral as it doesn't clearly support or oppose user preferences.
+
+**First Party Collection/Use: Not Discussed -** The policy does not provide specific information on how first-party data is collected or used, making it impossible to evaluate this category.
+
+**Data Retention: Positive -** The policy does not explicitly discuss data retention periods but seems to focus on minimizing personal data sharing through opt-out options and adhering to privacy regulations, which could imply cautious handling of information.
+
+**International and Specific Audiences: Neutral -** The policy does not address how Bank of America handles international audiences or specific targeting practices.
+
+**Third Party Sharing/Collection: Neutral -** The policy informs users that personal information may be shared with third parties for marketing purposes, without expressing alarm or approval, making it neutral.
+
+**User Choice/Control: Positive -** The policy provides a clear opt-out mechanism for online behavioral advertising, empowering users to control their personal data and avoid targeted ads based on their browsing behavior. This demonstrates user empowerment and respect for privacy choices.
+
+**User Access, Edit and Deletion: Negative -** The policy does not provide any information on how users can access, edit, or delete their accounts. Without clear instructions, users may find it difficult to manage their data effectively, which is unfriendly and poses a risk of data mishandling.
+
+**Data Security: Neutral -** The policy does not provide specific information about data security practices such as encryption, access controls, or backup procedures, making it impossible to determine a sentiment regarding user trust and safety.
+
+**Do Not Track: Not Discussed -** The policy does not mention anything about a "Do Not Track" section, indicating that Bank of America has not addressed this feature.
+```

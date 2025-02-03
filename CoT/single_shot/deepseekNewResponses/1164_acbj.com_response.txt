@@ -1,0 +1,21 @@
+```
+**Other: Positive -** The policy discusses communication with users regarding opt-out requests and other inquiries. It provides clear contact information and explains how users can request updates or changes, ensuring privacy is respected. This approach is considerate and supports user well-being, leading to a positive sentiment.
+
+**Policy Change: Neutral -** The text mentions that the User Agreement and Privacy Policy may be amended without prior notice. This indicates a risk to users as they might not be aware of changes affecting their rights or preferences, but the policy likely maintains existing protections.
+
+**First Party Collection/Use: Neutral -** The policy mentions that personal information will be shared for marketing purposes, which involves first-party data usage. However, it does not specify how this data is collected or used beyond what's necessary for marketing. There are no clear opt-out options for first-party use itself, leading to a neutral sentiment as the policy lacks detailed controls regarding first-party information handling.
+
+**Data Retention: Neutral -** The relevant sections discuss data retention practices regarding security breaches leading to notifications via devices. The policy does not provide clear information on retention periods or user alerts upon breach, leaving users with limited understanding.
+
+**International and Specific Audiences: Neutral -** The policy does not explicitly address how it handles international users or specific audiences, so the sentiment is neutral as there's no positive or negative indication provided.
+
+**Third Party Sharing/Collection: Neutral -** The policy explains that users can opt out by contacting the Privacy Policy Coordinator, which is a positive step towards user empowerment. However, there's limited clarity and ease of access for exercising these opt-out rights beyond direct contact, suggesting room for improvement in user-friendliness.
+
+**User Choice/Control: Positive -** The text provides clear information on how users can opt out of sharing their personally identifiable information with third parties for marketing purposes. Users are notified of their options and instructed on how to exercise them through contacting the Privacy Policy Coordinator, which supports user control and autonomy.
+
+**User Access, Edit and Deletion: Positive -** The section allows users to manage their accounts with tools like password changes using two-step verification and privacy settings through a profile menu. It supports multi-device logging out if passwords haven't been changed. However, it subtly mentions potential personalization data sharing without explicit consent, which could be risky despite the positive practices in account management.
+
+**Data Security: Negative -** The policy addresses data loss and breaches proactively but does not provide sufficient safeguards, making it risk-focused without adequate user-friendly measures.
+
+**Do Not Track: Positive -** The text provides a clear and straightforward method for customers to opt out of sharing their personal information with third parties. It offers specific guidance on contacting the Privacy Policy Coordinator, ensuring users can exercise their privacy preferences without facing unnecessary challenges or inconvenience.
+```

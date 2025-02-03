@@ -1,0 +1,7 @@
+**First Party Collection/Use: ** Neutral - [Dictionary.com discusses the collection of first-party information related to user accounts but emphasizes secure encryption and limited usage within its own systems, indicating cautious handling without significant public disclosure.]**
+**Analysis: ****
+**Sentiment: ****
+**Category Name: Third Party Sharing/Collection****
+**Category Name: User Choice/Control - Positive****
+**Category Name: Data Security****
+**Category Name: Do Not Track****

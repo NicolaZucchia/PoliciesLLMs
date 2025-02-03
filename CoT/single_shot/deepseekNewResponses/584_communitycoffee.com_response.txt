@@ -1,0 +1,15 @@
+```
+**Other: Neutral -** The policy does not explicitly mention an "Other" category, leading to a Neutral sentiment as there is neither positive nor negative information indicated.
+
+**First Party Collection/Use: Positive -** The policy clearly outlines the collection of First Party data for services like personalized shopping experiences. It emphasizes security and user convenience, which are positive aspects concerning privacy practices.
+
+**Data Retention: Neutral -** The section does not specifically address data retention policies or limits, resulting in a Neutral sentiment.
+
+**International and Specific Audiences: Neutral -** No information is provided about handling international data or adapting content for different regions, leading to a Neutral sentiment.
+
+**Third Party Sharing/Collection: Neutral -** No relevant information about third-party sharing or collection is found in the provided text, resulting in a Neutral sentiment.
+
+**User Choice/Control: Negative -** The policy does not explicitly discuss user choice or control, which might imply limited control over personal account settings. This could be perceived as risky.
+
+**Data Security: Positive -** The policy acknowledges data security through secure server use and encryption of personal information, reflecting a positive approach to user safety.
+```

@@ -1,0 +1,8 @@
+**Analysis: ****
+**Answer: ****
+**First Party Collection/Use: Positive - [The policy clearly outlines how First Party information is collected and used without indicating any mishandling or misuse of user data.]****
+**Final Sentiment: Positive - [The policy is transparent, clear about its use of First Party information, and actively protects user privacy by addressing concerns and providing updated terms.]****
+**Third Party Sharing/Collection: Positive - The policy is cautious about third-party sharing, only allowing it for marketing purposes with user opt-in. This transparency and control suggest a positive stance towards user privacy and informed consent.****
+**Category Name: User Choice/Control - Neutral****
+**Conclusion: ** The policy provides limited but specific user choice regarding marketing permissions, which offers some control but isn't extensive. This results in a neutral sentiment towards user choice/controls as it balances respect for privacy with restrictive controls.**
+**Category Name: User Access, Edit and Deletion****

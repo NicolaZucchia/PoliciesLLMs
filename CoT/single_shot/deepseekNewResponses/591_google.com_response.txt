@@ -1,0 +1,21 @@
+```
+**Other: Positive -** The policy emphasizes security measures such as encryption and two-step verification, which enhance user trust and safety, suggesting a user-friendly approach.
+
+**Policy Change: Positive -** The policy states that users will be notified of significant changes and that their rights will not be reduced without explicit consent, which is user-friendly.
+
+**First Party Collection/Use: Neutral -** The policy does not provide specific details on how Google collects or uses first-party data, making it difficult to assess user-friendliness or risks.
+
+**Data Retention: Positive -** Google emphasizes security by using strong encryption and restricting access, indicating cautious handling of data, which is user-friendly.
+
+**International and Specific Audiences: Negative -** The policy discusses international audiences in the context of data transfers and legal requirements, which may lead to inconsistent privacy protections, making it user-risky.
+
+**Third Party Sharing/Collection: Neutral -** The policy outlines conditions under which data may be shared, but it does not provide a strong positive or negative sentiment regarding user privacy.
+
+**User Choice/Control: Positive -** The policy highlights various ways users can manage their information and privacy settings, which is empowering for users.
+
+**User Access, Edit and Deletion: Positive -** The section allows users to manage their accounts with tools like password changes and privacy settings, indicating a positive aspect of user control.
+
+**Data Security: Positive -** Google has implemented robust security measures such as encryption and two-step verification, making it user-friendly while ensuring data protection.
+
+**Do Not Track: Negative -** The privacy policy does not mention anything about a "Do Not Track" section, indicating that Google has not addressed this feature, leaving users unaware of how tracking is handled.
+```

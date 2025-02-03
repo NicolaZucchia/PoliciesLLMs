@@ -1,0 +1,21 @@
+```
+**Other: Neutral -** The "Other" category is not explicitly discussed in the provided policy, leading to insufficient data for a definitive sentiment assessment.
+
+**Policy Change: Positive -** The policy clearly communicates that users will be notified of significant changes and provides options for users to manage their accounts if they disagree, indicating a user-friendly approach.
+
+**First Party Collection/Use: Positive -** The policy outlines how first-party information is collected and used transparently, ensuring users are informed about the data practices.
+
+**Data Retention: Neutral -** The policy mentions that data may be processed in the U.S. for international users, which is informative but does not present significant risks or benefits, leading to a neutral sentiment.
+
+**International and Specific Audiences: Negative -** The policy lacks specific safeguards for international users, making it risky as it doesn’t provide adequate privacy protections or data residency clauses.
+
+**Third Party Sharing/Collection: Positive -** The policy is cautious about third-party sharing, only allowing it for marketing purposes with user opt-in, indicating a positive stance towards user privacy.
+
+**User Choice/Control: Neutral -** The policy provides limited user choice regarding marketing permissions, which offers some control but isn't extensive, resulting in a neutral sentiment.
+
+**User Access, Edit and Deletion: Positive -** The policy allows users to access, edit, and delete their information easily, empowering them to manage their personal data effectively.
+
+**Data Security: Negative -** The policy discusses the potential transfer of personal information to foreign service providers, which could compromise data security without specific safeguards in place.
+
+**Do Not Track: Negative -** The privacy policy does not mention anything about a "Do Not Track" feature, indicating a lack of provisions for users to manage their tracking preferences.
+```

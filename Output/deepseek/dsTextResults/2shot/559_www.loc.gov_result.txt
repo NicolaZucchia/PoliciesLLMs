@@ -1,0 +1,12 @@
+Based on the analysis of the provided snippets from the privacy policies, here is the structured output with the correct values assigned to each category:
+
+Other: Yes
+Policy Change: No
+First Party Collection/Use: Yes
+Data Retention: Yes
+International and Specific Audiences: Yes
+Third Party Sharing/Collection: Yes
+User Choice/Control: Yes
+User Access, Edit and Deletion: No
+Data Security: Yes
+Do Not Track: No

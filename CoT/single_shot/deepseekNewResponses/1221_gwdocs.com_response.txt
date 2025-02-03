@@ -1,0 +1,21 @@
+```
+**Other: Positive -** The policy indicates that MFA handles information responsibly and securely, reaffirming their commitment to user privacy.
+
+**Policy Change: Neutral -** There is no specific mention of policy changes in the text, making it unclear if any changes are user-friendly or risky.
+
+**First Party Collection/Use: Positive -** The policy states that MFA collects PII only when users choose specific services, ensuring respect for user privacy and ethical use of information.
+
+**Data Retention: Positive -** The policy does not explicitly address data retention, but it may follow standard practices typically associated with other privacy policies, implying a positive approach.
+
+**International and Specific Audiences: Neutral -** The policy does not provide information on handling international or specific audiences, which may lead to inconsistent or less secure practices regarding data privacy across different regions.
+
+**Third Party Sharing/Collection: Positive -** The MFA assures users that their personally identifiable information will not be sold, rented, or leased to third parties without explicit permission, ensuring user security.
+
+**User Choice/Control: Positive -** The policy ensures that MFA uses personal information only for specified purposes and obtains consent before sharing it, promoting transparency and respect for user privacy.
+
+**User Access, Edit and Deletion: Neutral -** The policy outlines how data is handled but doesn’t provide clear information on editing or deleting user data, which could be seen as limiting access.
+
+**Data Security: Positive -** The policy explicitly outlines the measures taken to safeguard and secure personal information, demonstrating a commitment to protecting user data effectively.
+
+**Do Not Track: Negative -** The policy does not address "Do Not Track," which could imply that MFA is not informing users about how their data might be tracked across linked sites, potentially leading to unintended data collection.
+```

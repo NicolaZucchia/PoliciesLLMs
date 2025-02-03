@@ -1,0 +1,21 @@
+```
+**Other: Neutral -** The section discusses legal compliance and privacy measures, which is informational rather than directly addressing user risks or benefits. It does not actively risk user trust but provides necessary details.
+
+**Policy Change: Positive -** The policy change is clearly announced, informing users of the effective date, and there are no indicated user-risky practices introduced, maintaining a positive stance regarding privacy.
+
+**First Party Collection/Use: Positive -** The policy clearly outlines that personal information is collected with explicit consent from users, such as when joining loyalty clubs or participating in contests. The use of this information is transparent, with purposes outlined and clear opt-out options like unsubscribing. This ensures user control and aligns with ethical practices, making the experience both user-friendly and secure.
+
+**Data Retention: Neutral -** The policy does not explicitly mention data retention. However, based on general practices and third-party vendor activities mentioned, personal information might be retained for tracking purposes across multiple sites, which could lead to privacy concerns due to the accumulation of tracking data over time.
+
+**International and Specific Audiences: Neutral -** The privacy policy does not discuss international audience handling or regional targeting, leaving no sentiment direction for this category.
+
+**Third Party Sharing/Collection: Neutral -** The policy states that personal information is shared for legitimate purposes such as marketing and processing transactions, complying with laws, and ensuring service delivery. However, the lack of transparency regarding third parties' privacy practices introduces uncertainty, preventing users from fully trusting the process.
+
+**User Choice/Control: Positive -** The privacy policy provides clear information about users' ability to control their personal information through opt-out mechanisms such as unsubscribing newsletters and managing cookie preferences. This transparency enhances user trust by giving them direct control over how their data is used.
+
+**User Access, Edit and Deletion: Neutral -** No explicit information on how users can access, edit, or delete their personal information is provided in the privacy statement.
+
+**Data Security: Negative -** The policy lacks explicit details on data protection measures such as encryption, access controls, or backup procedures, which are essential for maintaining user trust and ensuring data integrity.
+
+**Do Not Track: Neutral -** The policy states that we take no action to respond to "do not track" signals. However, there is no indication of offering any alternative solutions or privacy controls for such requests. This suggests a neutral stance regarding the implementation of user privacy preferences.
+```

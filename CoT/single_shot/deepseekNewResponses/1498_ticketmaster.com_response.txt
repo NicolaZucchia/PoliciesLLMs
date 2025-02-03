@@ -1,0 +1,21 @@
+```
+**Other: Neutral -** The policy addresses various unspecified areas (like additional privacy measures or procedures) without any explicit mention. However, the detailed sections on compliance, certifications, and user rights suggest responsible handling of personal information.
+
+**Policy Change: Positive -** The text provides clear notice and encourages users to check for updates periodically, indicating a proactive approach to managing privacy practices, which minimizes user risk.
+
+**First Party Collection/Use: Positive -** The policy demonstrates respect for user privacy by informing users about data collection, usage, and offering ways to manage their information responsibly.
+
+**Data Retention: Neutral -** The policy mentions retaining personal information until it's no longer needed or relevant, which helps maintain privacy without excessive restrictions.
+
+**International and Specific Audiences: Neutral -** Live Nation addresses international data transfer regulations through compliance with the U.S.-EU Safe Harbor Framework but lacks specific user-friendly measures for non-U.S. users.
+
+**Third Party Sharing/Collection: Negative -** Live Nation's policy clearly states that they share user data with third parties for marketing purposes without informing users or providing opt-out options. This lack of transparency and control over personal information indicates risky handling of user data, undermining user trust and security.
+
+**User Choice/Control: Positive -** The policy allows users to manage their personal information by opting out of push notifications, using mobile device controls, and contacting the company for privacy inquiries. This empowerment indicates user-friendly practices.
+
+**User Access, Edit and Deletion: Neutral -** The policy allows users to make a request one time each year to obtain their personal information from third parties. This provides an option for users to access their data but doesn't offer additional safeguards or user-friendly features, making it neutral.
+
+**Data Security: Positive -** The policy outlines that Live Nation keeps personal information only when necessary or relevant, complies with legal requirements, maintains a TRUSTe certification, and notifies users of changes while providing an updated version. These measures indicate proactive data security practices, transparency, compliance, and responsiveness, which enhance user trust and provide reassurance about their data protection.
+
+**Do Not Track: Negative -** Because the privacy policy does not include any discussion about a "Do Not Tracker" mechanism, implying Live Nation does not provide users with opt-out capabilities for third-party tracking technologies. This leaves users vulnerable to unwanted data collection and ad targeting, which is unfriendly and risky.
+```

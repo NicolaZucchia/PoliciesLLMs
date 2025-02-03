@@ -1,0 +1,21 @@
+```
+**Other: Neutral -** The policy does not explicitly mention an "Other" category, making it impossible to determine sentiment.
+
+**Policy Change: Neutral -** The policy provides notice of changes but lacks specifics, potentially introducing uncertainty for users.
+
+**First Party Collection/Use: Positive -** Yahoo provides users with tools to customize their experience, edit preferences, delete accounts, and opt out of marketing communications, indicating a user-friendly approach.
+
+**Data Retention: Neutral -** Yahoo does not explicitly outline its data retention policies, focusing instead on sharing information for legal reasons without specific retention periods mentioned.
+
+**International and Specific Audiences: Neutral -** No discussion or content about this category exists in the provided policy.
+
+**Third Party Sharing/Collection: Negative -** Yahoo shares personal information with third parties governed by their own policies, which may not align with users' expectations and could lead to unintended data collection risks.
+
+**User Choice/Control: Positive -** Yahoo clearly outlines methods for users to manage their accounts and preferences, providing positive user control.
+
+**User Access, Edit and Deletion: Neutral -** The text provides clear options for account management, including editing information and unsubscribing from marketing communications when possible, indicating a balance between user control and the provider's policies.
+
+**Data Security: Positive -** Yahoo has implemented robust access controls and safeguards for personal information, actively addressing security concerns through clear practices.
+
+**Do Not Track: Neutral -** The Yahoo Privacy Policy does not mention "Do Not Track" or any mechanism for users to opt out of tracking data, suggesting that Yahoo may not currently offer such a feature.
+```

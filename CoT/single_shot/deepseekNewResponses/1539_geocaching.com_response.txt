@@ -1,0 +1,21 @@
+```
+**Other: Neutral -** The "Other" category discusses third-party tracking through ads, which provides users with less control over their personal information compared to dedicated privacy-focused platforms. While this isn't particularly risky, it does offer some level of data sharing that users should be aware of.
+
+**Policy Change: Neutral -** The section mentions possible amendments to the policy with revised dates but doesn't detail specifics of changes. Communication methods are communicated via email and in the text, which avoids user concern about data practices.
+
+**First Party Collection/Use: Neutral -** The policy provides general information on data collection and usage without specific details regarding First Party methods, leaving users with a neutral stance as the category.
+
+**Data Retention: Negative -** The policy does not specify data retention periods, making it unclear for users about the duration of their data storage. This lack of information can pose a user-risky practice as it doesn't provide sufficient control or transparency over data handling.
+
+**International and Specific Audiences: Negative -** The policy addresses international users by stating that personal information may be transferred to the U.S., even though the laws there may be less stringent. This approach could undermine user trust, as it does not adequately protect privacy rights or provide safeguards against data misuse in other jurisdictions.
+
+**Third Party Sharing/Collection: Negative -** Users outside the U.S. may transfer personal information to a jurisdiction with less stringent laws, potentially affecting privacy and control.
+
+**User Choice/Control: Positive -** The policy provides clear mechanisms for users to access and modify their personal information through "Account Settings" and offers contact options for assistance, giving users significant control over their data.
+
+**User Access, Edit and Deletion: Neutral -** The policy mentions that users can change or delete their information via "Account Settings," which is a positive step as it empowers users. However, there's no explicit guidance on how deletions are processed after such requests without involving support.
+
+**Data Security: Neutral -** The policy provides some controls for users but lacks comprehensive measures to address all potential data security risks.
+
+**Do Not Track: Neutral -** The absence of a "Do Not Track" section in the policy indicates that users do not have an option to manage their tracking preferences.
+```

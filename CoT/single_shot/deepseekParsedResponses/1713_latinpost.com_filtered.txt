@@ -1,0 +1,9 @@
+**Category Name: Other - Neutral****
+**Category Name: First Party Collection/Use****
+**Category Name: ** Data Retention**
+**Third Party Sharing/Collection: Negative - The policy does not clearly address third-party practices, leaving users at risk of unintended data sharing.****
+**Step-by-Step Explanation: ****
+**Final Sentiment Analysis: ****
+**User Access, Edit and Deletion: Negative - The policy emphasizes strict confidentiality and security, requiring users to maintain accurate information and take responsibility for account security. This makes accessing, editing, or deleting data more complex and potentially risky for users.****
+**Data Security: Neutral - [The text discusses data security by emphasizing the importance of accurate and confidential information management. However, it does not explicitly express a user-friendly or alarmist sentiment; instead, it provides clear expectations for users regarding maintaining their personal information's accuracy and confidentiality.]****
+**Category Name: ** Do Not Tracker**

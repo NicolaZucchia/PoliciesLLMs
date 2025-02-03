@@ -1,0 +1,21 @@
+```
+**Other: Neutral -** The policy provides users with tools to manage their subscriptions and opt-out preferences effectively but introduces an element of risk by sharing personal information with third-party marketers during unsubscribing processes.
+
+**Policy Change: Neutral -** There is no explicit mention of any policy changes or updates in the provided text, leading to a neutral sentiment regarding this category.
+
+**First Party Collection/Use: Positive -** The privacy policy indicates that Zacks Investment Research collects personal information from users directly, such as email addresses, names, postal addresses, and phone numbers during registration. The policy emphasizes user control by providing opt-out options for marketing emails and allowing unsubscribes from promotional contacts.
+
+**Data Retention: Not Discussed -** The privacy policy provided does not address how long personal information is retained by Zacks Investment Research. This omission means we cannot evaluate the category's sentiment as it pertains to data retention practices.
+
+**International and Specific Audiences: Neutral -** The privacy policy does not mention anything related to international audiences or specific groups, so there's no indication of user-friendly practices or risks associated with this category.
+
+**Third Party Sharing/Collection: Negative -** The policy mentions that personal information may be shared with outside marketers to provide offers and promotions. While Zacks states they do not freely distribute this information, the extent of third-party sharing is not explicitly clear or user-friendly.
+
+**User Choice/Control: Positive -** The section discusses user choice by allowing users to opt out of marketing communications and suppress their email address from future mailings through checkboxes during registration or unsubscribing, providing a proactive approach respecting user preferences.
+
+**User Access, Edit and Deletion: Neutral -** The privacy policy does not provide any details on how users can access, edit, or delete their personal information. This lack of information implies that such controls may not be available or properly managed, which could leave users without control over their data.
+
+**Data Security: Negative -** The privacy policy does not mention any specific measures related to data security such as encryption, access controls, or secure storage. Without these details, there is an implied increased risk of unauthorized access or breaches if vulnerabilities exist.
+
+**Do Not Track: Negative -** The policy does not address how to manage tracking preferences or provide information on unsubscribing from marketing emails, suggesting limited control and potential privacy risks.
+```

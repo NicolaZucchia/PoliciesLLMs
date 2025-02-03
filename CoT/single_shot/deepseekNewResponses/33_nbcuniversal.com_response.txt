@@ -1,0 +1,21 @@
+```
+**Other: Neutral -** The section on "Links to Other Websites" informs users about third-party sites and directs them to read those sites' own policies, promoting self-awareness without providing NBCUniversal's involvement in their practices. This balance leaves a neutral sentiment as it doesn't actively protect user privacy but also doesn't contribute directly to NBCUniversal's privacy practices.
+
+**Policy Change: Neutral -** The section acknowledges potential updates and revised policies but lacks specific details about user notification methods or frequency. This leaves users with uncertainty regarding changes, impacting trust and convenience without necessarily posing significant risk.
+
+**First Party Collection/Use: Neutral -** The policy provides information about how First Party data (data collected directly from users) is used for operations like customer service, marketing, and product development. However, it does not actively seek user consent beyond what may be necessary, which could imply a cautious approach to privacy management without fully engaging users on the risks or level of involvement.
+
+**Data Retention: Negative -** The policy states NBCUniversal may retain user information for legal reasons, implying limited control over data duration. Users aren't informed about retention periods or lack explicit opt-out options beyond legal requirements.
+
+**International and Specific Audiences: Neutral -** The policy does not contain any information regarding how NBCUniversal handles users from outside the U.S., making it neutral on this category.
+
+**Third Party Sharing/Collection: Neutral -** The policy acknowledges that NBCUniversal may share personal information with third-party vendors like Google Analytics and DoubleClick for analytics purposes but does not prioritize user protection or explain their transparency regarding these practices. This indicates a neutral stance toward the sharing of personal information without explicit prioritization of user safety.
+
+**User Choice/Control: Neutral -** The policy offers limited direct control for users, particularly through requests for third-party information and mentions of future changes without providing clear opt-out options. While there are elements of choice, the overall framework restricts users' control.
+
+**User Access, Edit and Deletion: Negative -** The policy mentions that users can log out but does not provide details on how to edit or delete specific data, which may lead to confusion and less user-friendly experience.
+
+**Data Security: Neutral -** The policy mentions compliance with laws indirectly related to data security but lacks detailed information on technical measures.
+
+**Do Not Track: Neutral -** The section on "Do Not Track" acknowledges the existence of such policies but does not currently implement them due to the lack of a uniform technological standard. This indicates that NBCUniversal is cautious and waits for further developments before taking action, which reflects neither an overly restrictive nor user-friendly approach, hence neutral.
+```

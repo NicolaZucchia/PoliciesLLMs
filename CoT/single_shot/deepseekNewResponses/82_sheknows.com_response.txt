@@ -1,0 +1,21 @@
+```
+**Other: Positive -** The policy provides clear instructions on how users can opt out of online behavioral advertising through specific methods, demonstrating a user-friendly and transparent approach to respecting user choices regarding third-party advertising technologies.
+
+**Policy Change: Positive -** The policy states that users will be notified of significant changes and that their rights will not be reduced without explicit consent, which is user-friendly.
+
+**First Party Collection/Use: Not discussed -** The section provided doesn’t address collection or use of first-party data.
+
+**Data Retention: Neutral -** The text does not provide explicit details on how long customer data is retained or under what circumstances it might be deleted. Without clear information on data retention practices, customers are not fully informed about their data handling, which could affect trust and user experience.
+
+**International and Specific Audiences: Neutral -** The policy does not explicitly address how data collection is handled for international users or if they tailor their services specifically for certain regions. It assumes a standardized approach based on U.S. law unless otherwise specified.
+
+**Third Party Sharing/Collection: Neutral -** The policy outlines conditions under which data may be shared, but it does not provide a strong positive or negative sentiment regarding user privacy.
+
+**User Choice/Control: Positive -** The policy provides clear options for users to opt out of online behavioral advertising and manage notifications through various means, giving them control over their digital interactions.
+
+**User Access, Edit and Deletion: Negative -** The policy does not provide information on how users can access, edit, or delete their accounts or data. This lack of clarity may make it difficult for users to exercise these rights, potentially leading to frustration or inconvenience.
+
+**Data Security: Positive -** The policy provides clear information on third-party advertising technologies and offers opt-out options, enhancing transparency and user control.
+
+**Do Not Track: Positive -** The policy provides clear methods for users to opt out of online tracking technologies, demonstrating user empowerment.
+```

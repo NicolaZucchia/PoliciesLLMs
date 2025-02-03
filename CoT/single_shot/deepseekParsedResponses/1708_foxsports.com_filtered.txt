@@ -1,0 +1,5 @@
+**Category Name: Other****
+**Final Answer: ****
+**First Party Collection/Use: Neutral - [The policy informs users about how their data is used but lacks specific transparency features and opt-out options. Users are required to contact support manually to access or remove their data, which can be inconvenient.]****
+**Third Party Sharing/Collection: Negative - The policy does not provide users with control over third-party data sharing or opt-out options, making it a risk as it limits user control and could lead to unintended data usage.****
+**Category Name: User Access, Edit and Deletion****

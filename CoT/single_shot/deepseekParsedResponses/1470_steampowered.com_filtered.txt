@@ -1,0 +1,3 @@
+**Policy Change: Positive - While handling international data transfers may raise concerns about privacy in some jurisdictions, the inclusion of Safe Harbor certification and a commitment to privacy standards demonstrates that Valve takes responsible steps to protect user data. Providing clear methods to request updates or corrections also shows they prioritize user control and transparency.****
+**Third Party Sharing/Collection: ** Neutral - The policy mentions the use of third-party tools like Google Analytics for non-personally identifiable information but does not explicitly warn about third-party sharing or provide safeguards, leading to a neutral sentiment.**
+**Category Name: User Access, Edit and Deletion****

@@ -1,5 +1,5 @@
 import os
-from htmlParser import html_to_txt  # Assuming this function exists in htmlParser.py
+from htmlParser import html_to_txt 
 
 def parse_html_folder(input_folder, output_folder):
     """

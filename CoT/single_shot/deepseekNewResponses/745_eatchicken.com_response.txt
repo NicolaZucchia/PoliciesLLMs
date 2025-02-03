@@ -1,0 +1,19 @@
+```
+**Other: Neutral -** The policy does not explicitly mention an "Other" category, and without specific information, it cannot be evaluated for user-friendliness or riskiness.
+
+**Policy Change: Neutral -** There is no relevant information provided in the text regarding policy changes, making it impossible to determine sentiment.
+
+**First Party Collection/Use: Positive -** The policy ensures that personal data is not collected or used beyond recognizing user interactions, which aligns with user trust by avoiding unnecessary data collection.
+
+**Data Retention: Neutral -** The privacy policy does not provide specific details about how long user data is retained, making it difficult to assess the sentiment conclusively.
+
+**International and Specific Audiences: Neutral -** The privacy policy does not provide specific information about how personal data is handled for international audiences or whether the practice poses a risk.
+
+**Third Party Sharing/Collection: Positive -** The policy explicitly states that no personal information is collected or used in ways unrelated to the website's operation, indicating a cautious approach without compromising user privacy.
+
+**User Choice/Control: Neutral -** The privacy policy does not address how users can choose settings related to cookies or other tracking technologies, leaving sentiment neutral.
+
+**User Access, Edit and Deletion: Neutral -** The policy does not provide specific information on user access, editing, or deletion of personal data, making it difficult to classify sentiment.
+
+**Data Security: Positive -** The policy demonstrates responsible data handling by using cookies only for site convenience without collecting sensitive information or accessing unrelated data, thus minimizing privacy risks.
+```

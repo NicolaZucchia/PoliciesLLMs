@@ -1,0 +1,21 @@
+```
+**Other: Neutral -** The policy does not explicitly mention an "Other" category, making it difficult to assess sentiment.
+
+**Policy Change: Neutral -** The policy does not provide specific information about changes to privacy practices, leaving the sentiment unclear.
+
+**First Party Collection/Use: Positive -** The policy offers clear instructions for users to manage their personal information, indicating a user-friendly approach.
+
+**Data Retention: Negative -** The lack of specific details on data retention periods leaves users without control over their data's lifespan, which is risky.
+
+**International and Specific Audiences: Negative -** The absence of coverage for international privacy concerns may lead to user dissatisfaction regarding privacy practices applicable to them.
+
+**Third Party Sharing/Collection: Neutral -** The policy does not explicitly detail how personal information is shared with third parties, leaving room for assumed user awareness.
+
+**User Choice/Control: Positive -** The policy provides clear mechanisms for users to update their information and opt out of tracking, promoting user empowerment.
+
+**User Access, Edit and Deletion: Negative -** The policy does not provide users with methods to access, edit, or delete their personal information directly, which is a significant oversight.
+
+**Data Security: Positive -** The policy emphasizes the use of best practices to safeguard information while acknowledging potential risks, promoting user trust.
+
+**Do Not Track: Positive -** The absence of a specific section on "Do Not Track" suggests potential for transparency if implemented, enhancing user trust.
+```

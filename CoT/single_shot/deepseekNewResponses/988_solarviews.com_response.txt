@@ -1,0 +1,15 @@
+```
+**Other: Neutral -** The policy provides a broad overview of Google's data practices without expressing a clear positive or negative sentiment towards users.
+
+**First Party Collection/Use: Neutral -** The privacy policy does not provide any information about how the website collects or uses first-party data, so no sentiment can be determined.
+
+**Data Retention: Neutral -** The privacy policy does not provide information on data retention policies, making it impossible to evaluate user-friendliness or risk associated with data retention.
+
+**International and Specific Audiences: Neutral -** The policy discusses third-party ad serving globally but doesn't address international targeting specifics, leading to no sentiment conclusion.
+
+**Third Party Sharing/Collection: Neutral -** The policy informs users about the practice of collecting non-personally identifiable information without imposing any obligations beyond an opt-out link. It's helpful but doesn't create significant user risk or burden.
+
+**User Choice/Control: Positive -** The policy provides clear information on how third-party companies use user data and offers a direct link for users to learn more or opt out, empowering users with control over their privacy.
+
+**Data Security: Neutral -** The privacy policy does not explicitly mention data security measures but discusses third-party ad tracking and non-personally identifiable information collection, which may imply certain user risks.
+```

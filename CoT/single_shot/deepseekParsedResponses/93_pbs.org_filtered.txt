@@ -1,0 +1,3 @@
+**Data Retention: Neutral - The policy provides some control over viewing and correcting data but lacks specifics on retention periods or deletion methods, leaving users with limited control and potential risk regarding data handling without explicit opt-out options.****
+**Category Name: User Choice/Control****
+**Category Name: User Access, Edit and Deletion****

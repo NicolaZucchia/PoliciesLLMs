@@ -1,0 +1,5 @@
+**Category Name: Other - Neutral****
+**First Party Collection/Use: Negative - [The policy explains that AOL collects personal information from users who interact directly with their services, such as through search queries or sign-ups. This information is used for marketing and service purposes, and it may be disclosed to third parties without specific safeguards against misuse. While this isn't inherently user-risky due to the lack of detailed security measures around First Party data, the focus on data collection and limited protection creates a negative sentiment regarding user privacy.]****
+**Category Name: Data Retention****
+**Category Name: User Choice/Control****
+**Category Name: User Choice/Control****

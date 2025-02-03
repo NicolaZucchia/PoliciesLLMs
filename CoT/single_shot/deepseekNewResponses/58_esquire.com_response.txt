@@ -1,0 +1,19 @@
+```
+**Other: Neutral -** The privacy policy does not explicitly address an "Other" category, leaving it undefined. Since there's no detailed information provided about additional policies such as technical details, international data transfer agreements, or a cookie policy, the sentiment is neutral.
+
+**First Party Collection/Use: Positive -** The policy clearly states that providing personal information allows receiving targeted messages, promotions, and updates in a straightforward manner, making it user-friendly without imposing unnecessary restrictions.
+
+**Data Retention: Neutral -** There is no explicit mention of data retention in the provided privacy policy. Without specific details on storage duration or conditions, it's impossible to assess the sentiment regarding this practice.
+
+**International and Specific Audiences: Negative -** The section discusses data transfer to the U.S., which may raise privacy concerns for non-U.S. users without sufficient safeguards, indicating a potential risk and lack of user-friendly measures.
+
+**Third Party Sharing/Collection: Negative -** The policy acknowledges the potential for third parties to share PIIs but emphasizes that this is not under user control, indicating a moderate level of risk. Users may feel less reassured about data security when third-party practices are involved.
+
+**User Choice/Control: Positive -** The privacy policy provides clear and straightforward options for users to manage their communications, settings, and data transfer preferences. This allows users to exercise control over their own information in a user-friendly manner.
+
+**User Access, Edit and Deletion: Positive -** The text indicates that users can access and update their personal information, which is a positive aspect of user control.
+
+**Data Security: Positive -** The text mentions the use of industry-standard technologies to protect PI Information, which is a positive sign of proactive measures. However, it doesn't explicitly detail all protective measures like encryption or duration of protection, leaving room for more transparency and safeguards.
+
+**Do Not Track: Negative -** The privacy policy does not mention anything about a "Do Not Track" section, indicating that Google has not addressed this feature. This lack of information could imply that users are unaware of how tracking is handled or if it's supported at all, leaving them in the dark regarding their preferences.
+```

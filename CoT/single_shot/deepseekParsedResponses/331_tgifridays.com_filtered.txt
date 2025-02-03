@@ -1,0 +1,5 @@
+**Category Name: Policy Change****
+**Category Name: Data Retention****
+**Third Party Sharing/Collection: Neutral - The policy acknowledges its necessity for operations but doesn't actively promote transparency regarding third-party practices, which could leave users with limited control and information about data handling beyond what's necessary for service provision.****
+**Category Name: Data Security - Positive****
+**Category Name: Data Security - Positive****

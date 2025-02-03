@@ -28,6 +28,6 @@ def convert_txt_to_json(input_dir, output_dir):
             print(f"Converted {txt_file} to {json_filename}")
 
 if __name__ == "__main__":
-    input_dir = "../Output/gpt35_turbo/textResults/2shot"
-    output_dir = "../Output/gpt35_turbo/jsonResults/2shot"
+    input_dir = "../Output/deepseek/dsTextResults/1shot"
+    output_dir = "../Output/deepseek/jsonResults/1shot"
     convert_txt_to_json(input_dir, output_dir)

@@ -1,0 +1,21 @@
+```
+**Other: Positive -** The policy provides California residents with an opportunity to request information shared for direct marketing purposes once a year without charge. This indicates user empowerment and transparency regarding personal information usage, suggesting positive sentiment towards handling user data responsibly.
+
+**Policy Change: Neutral -** The policy mentions that changes will be communicated through updates and emails, but it lacks specific reassurances or details about the nature of changes, making it a neutral sentiment.
+
+**First Party Collection/Use: Positive -** The policy explains how user information is collected and used in a transparent manner, allowing for user control through opt-out options and legal justification.
+
+**Data Retention: Negative -** The policy does not provide clear information on data retention periods or user control over its duration. Users may have limited knowledge about how long their personal information is retained beyond legal obligations.
+
+**International and Specific Audiences: Neutral -** The category is not addressed in the provided policy, so there are no guidelines or practices mentioned regarding international audiences or specific user groups.
+
+**Third Party Sharing/Collection: Positive -** The policy explicitly states that High Gear Media only shares personal information with users' consent unless specified. It also allows Californians to request annual free access to shared information, demonstrating transparency and respect for user privacy.
+
+**User Choice/Control: Positive -** The policy provides clear methods for users to update or terminate their accounts via email contact, indicating a friendly experience with manageable processes.
+
+**User Access, Edit and Deletion: Positive -** The policy offers straightforward contact options (email) for users to manage their accounts, making the process easy and accessible.
+
+**Data Security: Neutral -** The privacy policy mentions some security practices and account termination options but does not provide detailed information on specific measures like encryption or access controls, making it unclear for users.
+
+**Do Not Track: Negative -** The privacy policy does not respond to do not track signals and continues applying existing practices without respecting user opt-out signals, making it appear user-risky.
+```

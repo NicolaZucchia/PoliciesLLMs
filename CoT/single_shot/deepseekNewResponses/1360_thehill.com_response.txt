@@ -1,0 +1,21 @@
+```
+**Other: Neutral -** The category "Other" is not explicitly discussed in the provided privacy policy section, so no sentiment classification can be made based on the available information.
+
+**Policy Change: Positive -** The policy change section informs users clearly about updates and requires acceptance through continued use, promoting transparency and user control.
+
+**First Party Collection/Use: Positive -** The policy explicitly describes the collection of personal information from users directly, facilitating personalized experiences and improved service, indicating a proactive and transparent approach.
+
+**Data Retention: Negative -** The policy does not contain a dedicated section solely focused on "Data Retention," and the lack of detailed retention policies makes it unclear for users how their data will be managed beyond collection and transmission.
+
+**International and Specific Audiences: Neutral -** No relevant information is provided regarding international audiences, leaving the sentiment neutral.
+
+**Third Party Sharing/Collection: Neutral -** The policy acknowledges third-party sharing but does not offer a clear opt-out mechanism for users beyond promotional communications, leaving some risk as there's no indication of additional control or security measures against such sharing.
+
+**User Choice/Control: Positive -** The policy provides clear opt-out options and addresses user preferences, which enhances control over personal data.
+
+**User Access, Edit and Deletion: Neutral -** The policy does not address how users can access, edit, or delete their information, which could leave users uncertain about these options, potentially leading to confusion or misuse of data.
+
+**Data Security: Neutral -** The policy outlines efforts to protect data through reasonable measures, yet admits internet transmission risks, resulting in a balanced approach that isn't overly reassuring.
+
+**Do Not Track: Negative -** The privacy policy does not mention anything about a "Do Not Track" section, indicating that The Hill has not addressed this feature. This lack of information could imply that users are unaware of how tracking is handled or if it's supported at all, leaving them in the dark regarding their preferences.
+```
